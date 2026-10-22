@@ -98,7 +98,7 @@
     "workers": 1,
     "webServer": {
       "command": "node scripts/serve-web-test.mjs",
-      "url": "http://127.0.0.1:4173/frame-cs/",
+      "url": "http://127.0.0.1:4173/cs-portraits/",
       "reuseExistingServer": false
     }
   },
@@ -109,6 +109,40 @@
       "column": 0,
       "line": 0,
       "specs": [
+        {
+          "title": "dated event album filters, full photographs and player links; mobile dialog",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 6109,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-22T01:40:44.014Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "c766cdb09ab4d2155712-f137da0053f4a8b6beb0",
+          "file": "online.spec.ts",
+          "line": 19,
+          "column": 1
+        },
         {
           "title": "overall and period scores persist independently; representative photo persists",
           "ok": true,
@@ -125,12 +159,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2587,
+                  "duration": 7201,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-22T00:55:15.885Z",
+                  "startTime": "2026-10-22T01:40:50.948Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -140,7 +174,7 @@
           ],
           "id": "c766cdb09ab4d2155712-a9d82dcf078ffef3910a",
           "file": "online.spec.ts",
-          "line": 66,
+          "line": 141,
           "column": 1
         },
         {
@@ -159,12 +193,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 3517,
+                  "duration": 3286,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-22T00:55:20.837Z",
+                  "startTime": "2026-10-22T01:40:58.158Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -174,7 +208,7 @@
           ],
           "id": "c766cdb09ab4d2155712-b8ae395f9730645c5952",
           "file": "online.spec.ts",
-          "line": 111,
+          "line": 186,
           "column": 1
         },
         {
@@ -193,12 +227,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 1353,
+                  "duration": 1338,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-22T00:55:24.366Z",
+                  "startTime": "2026-10-22T01:41:01.455Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -208,7 +242,7 @@
           ],
           "id": "c766cdb09ab4d2155712-dcecb3ccb5e4b9767786",
           "file": "online.spec.ts",
-          "line": 172,
+          "line": 247,
           "column": 1
         },
         {
@@ -227,12 +261,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2418,
+                  "duration": 2482,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-22T00:55:25.726Z",
+                  "startTime": "2026-10-22T01:41:02.803Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -242,7 +276,7 @@
           ],
           "id": "c766cdb09ab4d2155712-1a11965be9151b5a5b8e",
           "file": "online.spec.ts",
-          "line": 210,
+          "line": 285,
           "column": 1
         },
         {
@@ -261,12 +295,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 3462,
+                  "duration": 3501,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-22T00:55:28.153Z",
+                  "startTime": "2026-10-22T01:41:05.296Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -276,7 +310,7 @@
           ],
           "id": "c766cdb09ab4d2155712-621876744980b24b7608",
           "file": "online.spec.ts",
-          "line": 241,
+          "line": 316,
           "column": 1
         },
         {
@@ -295,12 +329,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2047,
+                  "duration": 2022,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-22T00:55:31.624Z",
+                  "startTime": "2026-10-22T01:41:08.807Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -310,7 +344,7 @@
           ],
           "id": "c766cdb09ab4d2155712-e2edc8b8f9c0b294c73d",
           "file": "online.spec.ts",
-          "line": 292,
+          "line": 367,
           "column": 1
         },
         {
@@ -329,12 +363,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 980,
+                  "duration": 1777,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-22T00:55:33.680Z",
+                  "startTime": "2026-10-22T01:41:10.840Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -344,7 +378,41 @@
           ],
           "id": "c766cdb09ab4d2155712-9aa504a653c2987072b6",
           "file": "online.spec.ts",
-          "line": 318,
+          "line": 393,
+          "column": 1
+        },
+        {
+          "title": "website precaches only its shell; viewed album photos work without network",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 2058,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-22T01:41:12.626Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "c766cdb09ab4d2155712-1bf08f8d98f60f3c0ff2",
+          "file": "online.spec.ts",
+          "line": 418,
           "column": 1
         }
       ]
@@ -352,9 +420,9 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2026-10-22T00:55:15.132Z",
-    "duration": 19674.747,
-    "expected": 7,
+    "startTime": "2026-10-22T01:40:43.188Z",
+    "duration": 31781.491,
+    "expected": 9,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0

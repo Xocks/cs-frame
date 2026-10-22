@@ -59,6 +59,7 @@ import { PlayerDetail } from "./components/PlayerDetail";
 import { Portrait } from "./components/Portrait";
 import { Rankings } from "./components/Rankings";
 import { DataPanel } from "./components/DataPanel";
+import { EventAlbum } from "./components/EventAlbum";
 const featured = [
   "s1mple",
   "NiKo",
@@ -87,10 +88,11 @@ export default function App() {
   const [ready, setReady] = useState(false);
   const [storage, setStorage] = useState<StorageStatus>("memory");
   const [saveState, setSaveState] = useState("正在读取");
-  const [page, setPage] = useState<"collection" | "rankings" | "data">(
-    "collection",
-  );
+  const [page, setPage] = useState<
+    "collection" | "album" | "rankings" | "data"
+  >("collection");
   const [selected, setSelected] = useState<Player | null>(null);
+  const [albumPlayer, setAlbumPlayer] = useState("all");
   const [toast, setToast] = useState("");
   const [limit, setLimit] = useState(24);
   const [expanded, setExpanded] = useState(false);
@@ -99,6 +101,10 @@ export default function App() {
   const collectionRef = useRef<HTMLElement>(null);
   const importPending = useRef(false);
   const s = user.settings;
+  const uniquePhotos = new Set([
+    ...data.photos.map((p) => p.id),
+    ...data.album.map((p) => p.sourcePhotoId),
+  ]).size;
   const filters = s.filters;
   useEffect(() => {
     const ready = () => setOfflineReady(true);
@@ -229,7 +235,7 @@ export default function App() {
   }
   function exportData(type: "json" | "csv") {
     download(
-      `帧相-CS-${new Date().toLocaleDateString("sv-SE")}.${type}`,
+      `准星之外-CS-${new Date().toLocaleDateString("sv-SE")}.${type}`,
       type === "json"
         ? JSON.stringify(
             {
@@ -376,7 +382,7 @@ export default function App() {
     return (
       <div className="app-loading">
         <Focus size={40} />
-        <span>帧相 FRAME</span>
+        <span>准星之外 CS PORTRAITS</span>
         <LoaderCircle className="spin" size={18} />
       </div>
     );
@@ -391,13 +397,13 @@ export default function App() {
                 setPage("collection");
                 window.scrollTo({ top: 0, behavior: "smooth" });
               }}
-              aria-label="帧相首页"
+              aria-label="准星之外首页"
             >
               <span className="brand-mark">
                 <Focus size={25} strokeWidth={2.4} />
               </span>
               <strong>
-                帧相<span>FRAME</span>
+                准星之外<span>CS PORTRAITS</span>
               </strong>
             </button>
             <span className="edition">
@@ -408,6 +414,7 @@ export default function App() {
               {(
                 [
                   ["collection", "选手图鉴"],
+                  ["album", "赛事相册"],
                   ["rankings", "我的榜单"],
                   ["data", "资料与备份"],
                 ] as const
@@ -672,10 +679,12 @@ export default function App() {
                       </span>
                     </div>
                     <div>
-                      <strong>{data.photos.length}</strong>
+                      <strong>{uniquePhotos}</strong>
                       <span>
                         可靠照片
-                        <span className="stats-detail">已存储于本地</span>
+                        <span className="stats-detail">
+                          含 {data.album.length} 张完整赛事照
+                        </span>
                       </span>
                     </div>
                     <div>
@@ -1007,6 +1016,13 @@ export default function App() {
                     )}
                   </section>
                 </>
+              ) : page === "album" ? (
+                <EventAlbum
+                  key={albumPlayer}
+                  initialPlayer={albumPlayer}
+                  onPlayer={setSelected}
+                  blind={s.blind}
+                />
               ) : page === "rankings" ? (
                 <Rankings
                   user={user}
@@ -1026,7 +1042,7 @@ export default function App() {
         <footer className="site-footer">
           <div className="footer-brand">
             <Focus size={19} />
-            <strong>帧相 FRAME</strong>
+            <strong>准星之外 CS PORTRAITS</strong>
             <span>每一帧，都是真实的他。</span>
           </div>
           <div>
@@ -1035,7 +1051,7 @@ export default function App() {
             <span className="offline-label">
               <WifiOff size={12} />
               {offlineReady
-                ? "离线已就绪"
+                ? "页面已缓存 · 照片按需加载"
                 : import.meta.env.DEV
                   ? "开发预览 · 本地资源"
                   : "本地资源 · 网站缓存中"}
@@ -1098,6 +1114,12 @@ export default function App() {
               onRate={(v, ph) => rate(selected, v, ph)}
               onClear={(period) => clear(selected, period)}
               onMode={(mode) => setting({ mode })}
+              onAlbum={() => {
+                setAlbumPlayer(selected.id);
+                setSelected(null);
+                setPage("album");
+                window.scrollTo({ top: 0, behavior: "instant" });
+              }}
             />
           )}
         </AnimatePresence>

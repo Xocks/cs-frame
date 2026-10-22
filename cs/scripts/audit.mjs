@@ -104,6 +104,47 @@ const periodSet = (p) =>
       .filter((k) => k && k !== "undated"),
   );
 const missing = d.players.filter((p) => !p.photoIds.length);
+const albumIds = new Set();
+for (const ph of d.album || []) {
+  check(!albumIds.has(ph.id), "相册 ID 重复 " + ph.id);
+  albumIds.add(ph.id);
+  check(ph.reviewStatus === "reviewed", "相册未审查 " + ph.id);
+  check(
+    ph.year >= 1999 &&
+      ph.year <= 2026 &&
+      !!ph.yearEvidence &&
+      ph.datePrecision === "year",
+    "相册年份依据缺失 " + ph.id,
+  );
+  check(
+    ph.playerIds.length > 0 && ph.playerIds.every((id) => byId.has(id)),
+    "相册人物引用错误 " + ph.id,
+  );
+  check(
+    !!ph.sourceUrl && !!ph.photographer && !!ph.license && !!ph.subjectEvidence,
+    "相册来源缺失 " + ph.id,
+  );
+  for (const key of ["localPath", "cardPath"]) {
+    const f = "public/" + ph[key];
+    check(fs.existsSync(f), "相册文件缺失 " + f);
+    if (!fs.existsSync(f)) continue;
+    const meta = await sharp(f).metadata();
+    check(
+      meta.format === "webp" && meta.width > 100 && meta.height > 100,
+      "相册格式或尺寸错误 " + f,
+    );
+    bytes += fs.statSync(f).size;
+  }
+  if (fs.existsSync("public/" + ph.localPath)) {
+    const hash = crypto
+      .createHash("sha256")
+      .update(fs.readFileSync("public/" + ph.localPath))
+      .digest("hex");
+    check(hash === ph.sha256, "相册哈希错误 " + ph.id);
+    check(!seen.has(hash), "相册完整文件重复 " + ph.id);
+    seen.set(hash, ph.id);
+  }
+}
 if (d.photos.length < 300)
   warnings.push("照片数量未达到 300–500 目标，可靠素材不足");
 if (missing.length) warnings.push(`${missing.length} 位暂无可靠照片`);
@@ -120,6 +161,12 @@ const report = {
     top20Players: new Set(topPlayers).size,
     chinesePlayers: d.players.filter((p) => p.countryCode === "CN").length,
     photos: d.photos.length,
+    albumPhotos: (d.album || []).length,
+    groupPhotos: (d.album || []).filter((p) => p.kind === "group").length,
+    uniqueSourcePhotos: new Set([
+      ...d.photos.map((p) => p.id),
+      ...(d.album || []).map((p) => p.sourcePhotoId),
+    ]).size,
     playersWithPhotos: d.players.length - missing.length,
     multiPeriodPlayers: d.players.filter((p) => periodSet(p).size >= 2).length,
     photoBytes: bytes,

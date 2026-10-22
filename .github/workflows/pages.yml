@@ -2,7 +2,7 @@ name: Deploy CS website to GitHub Pages
 on:
   push:
     branches: [main]
-    paths: ['cs/**', 'photo-assets.zip', '.github/workflows/pages.yml']
+    paths: ['cs/**', 'photo-assets.zip', 'album-assets.zip', '.github/workflows/pages.yml']
   workflow_dispatch:
 permissions:
   contents: read

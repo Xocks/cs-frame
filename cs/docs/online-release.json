@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-10-22T01:11:09.978Z",
-  "version": "1.1.0-web",
+  "generatedAt": "2026-10-22T01:42:06.017Z",
+  "version": "1.2.0-web",
   "snapshotDate": "2026-10-19",
   "players": 230,
   "photos": 311,
+  "albumPhotos": 147,
+  "groupPhotos": 32,
+  "uniqueSourcePhotos": 377,
+  "albumPlayers": 41,
   "playersWithPhotos": 230,
   "chinesePlayersWithPhotos": 21,
   "hltvPhotos": 239,
@@ -12,11 +16,11 @@
   "playersWithMultipleVerifiedAgePeriods": 7,
   "photosWithExactCaptureDate": 54,
   "browserTests": {
-    "passed": 7,
+    "passed": 9,
     "failed": 0
   },
   "offlineDelivery": "paused",
-  "repository": "https://github.com/Xocks/cs-frame",
-  "targetSite": "https://xocks.github.io/cs-frame/",
-  "deploymentVerified": true
+  "repository": "https://github.com/Xocks/cs-portraits",
+  "targetSite": "https://xocks.github.io/cs-portraits/",
+  "deploymentVerified": false
 }

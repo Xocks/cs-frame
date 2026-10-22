@@ -1,4 +1,4 @@
-# 帧相 FRAME · CS 在线版
+# 准星之外 CS PORTRAITS · CS 在线版
 
 React + TypeScript + Vite 静态网站。当前优先在线版本；单机版与离线打包已按用户要求暂停，F1 未更改。
 
@@ -16,13 +16,13 @@ npm run build:web
 npm run test:web
 ```
 
-`npm run build` 等同于 `build:web`，输出 `dist/` 和 `delivery/CS帧相-网站部署包.zip`，不生成或更新旧离线文件。构建不联网采集素材。
+`npm run build` 等同于 `build:web`，输出 `dist/` 和 `delivery/准星之外-网站部署包.zip`，不生成或更新旧离线文件。构建不联网采集素材。
 
-网站可部署到根目录或 GitHub Pages 的仓库子路径。仓库根目录 `.github/workflows/pages.yml` 已准备自动构建配置；已发布至 https://xocks.github.io/cs-frame/ 。详见 [GitHub 免费部署研究](docs/GitHub免费部署研究.md)。
+网站可部署到根目录或 GitHub Pages 的仓库子路径。仓库根目录 `.github/workflows/pages.yml` 已准备自动构建配置；已发布至 https://xocks.github.io/cs-portraits/ 。详见 [GitHub 免费部署研究](docs/GitHub免费部署研究.md)。
 
 ## 功能
 
-大幅人像、浅深色、响应式布局与动画；队伍/排名/国籍/现役与历史筛选、搜索、随机与盲评；不同年份和时期的照片候选、代表照；整体与分时期 1–5 分独立存储；个人/战队/时期/中国榜单；IndexedDB、JSON 备份恢复、CSV 导出。
+147 张按年份浏览的完整赛事相册（含合照）、大幅人像、浅深色、响应式布局与动画；队伍/排名/国籍/现役与历史筛选、搜索、随机与盲评；不同年份和时期的照片候选、代表照；整体与分时期 1–5 分独立存储；个人/战队/时期/中国榜单；IndexedDB、JSON 备份恢复、CSV 导出。
 
 当前评分属于每位访问者自己的浏览器，没有在线公共数据库或跨用户总榜。
 

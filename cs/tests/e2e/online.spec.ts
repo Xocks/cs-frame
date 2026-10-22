@@ -7,7 +7,7 @@ import { execFileSync } from "node:child_process";
 const catalogue = JSON.parse(
   fs.readFileSync("src/data/catalogue.json", "utf8"),
 );
-const offlineURL = "http://127.0.0.1:4173/frame-cs/";
+const offlineURL = "http://127.0.0.1:4173/cs-portraits/";
 const singleURL = pathToFileURL(
   path.resolve("delivery/CS帧相-单文件离线版.html"),
 ).href;
@@ -16,6 +16,78 @@ async function ready(page: Page, url = offlineURL) {
   await expect(page.getByRole("heading", { name: /赛场之外/ })).toBeVisible();
   await expect(page.locator(".save-status")).toContainText("已自动保存");
 }
+test("dated event album filters, full photographs and player links; mobile dialog", async ({
+  page,
+}) => {
+  await ready(page);
+  await expect(page).toHaveTitle(/准星之外/);
+  await page.getByRole("button", { name: "赛事相册", exact: true }).click();
+  await expect(page.locator(".album-card")).toHaveCount(24);
+  await page.getByLabel("相册按来源筛选").selectOption("HLTV");
+  await expect(page.locator(".album-result")).toContainText("34 张照片");
+  await page.getByLabel("相册按选手筛选").selectOption("hltv-11893");
+  await expect(page.locator(".album-card")).toHaveCount(4);
+  await page
+    .locator(".album-years")
+    .getByRole("button", { name: "2022", exact: true })
+    .click();
+  await expect(page.locator(".album-card")).toHaveCount(2);
+  await expect(page.locator(".album-year").first()).toHaveText("2022");
+  await page.locator(".album-picture").first().click();
+  const dialog = page.getByRole("dialog", { name: "赛事照片大图" });
+  await expect(dialog).toBeVisible();
+  const first = await dialog
+    .locator(".album-lightbox-image img")
+    .getAttribute("src");
+  await page.keyboard.press("ArrowRight");
+  await expect(dialog.locator(".album-lightbox-image img")).not.toHaveAttribute(
+    "src",
+    first!,
+  );
+  await dialog.locator("summary").click();
+  await expect(
+    dialog.getByRole("link", { name: "年份依据", exact: true }),
+  ).toHaveAttribute("href", /hltv.org\/gallery\//);
+  await page.keyboard.press("Escape");
+  await expect(dialog).toHaveCount(0);
+  await page.getByLabel("相册按来源筛选").selectOption("all");
+  await page.getByLabel("相册按选手筛选").selectOption("all");
+  await page
+    .locator(".album-years")
+    .getByRole("button", { name: "所有年份", exact: true })
+    .click();
+  await page.getByLabel("相册按画面筛选").selectOption("group");
+  await expect(page.locator(".album-result")).toContainText("32 张照片");
+  await page.waitForFunction(() =>
+    [...document.querySelectorAll(".album-picture img")]
+      .slice(0, 6)
+      .every((i) => (i as HTMLImageElement).complete),
+  );
+  await page.evaluate(() => window.scrollTo(0, 0));
+  await page.screenshot({ path: "docs/album-desktop.png", fullPage: false });
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.evaluate(() => window.scrollTo(0, 0));
+  await expect(
+    page.getByRole("button", { name: "赛事相册", exact: true }),
+  ).toBeInViewport();
+  expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBe(
+    390,
+  );
+  await page.screenshot({ path: "docs/album-mobile.png", fullPage: false });
+  await page.locator(".album-picture").first().click();
+  await expect(dialog).toBeVisible();
+  await dialog
+    .locator(".album-lightbox-image img")
+    .evaluate((el: HTMLImageElement) => el.decode());
+  await expect(dialog.locator(".album-lightbox")).toHaveCSS("opacity", "1");
+  await page.screenshot({ path: "docs/album-mobile-lightbox.png" });
+  await page.keyboard.press("Escape");
+  await page.getByRole("button", { name: "选手图鉴", exact: true }).click();
+  const card = await find(page, "ZywOo");
+  await card.getByRole("button", { name: /查看 .* 的照片与时期/ }).click();
+  await page.getByRole("button", { name: /查看完整赛事相册/ }).click();
+  await expect(page.getByLabel("相册按选手筛选")).toHaveValue("hltv-11893");
+});
 async function visuallyReady(page: Page) {
   await page.waitForFunction(() => {
     const heading = document.querySelector(".hero h1");
@@ -39,7 +111,10 @@ async function find(page: Page, nick: string) {
   return page.locator(".player-card").first();
 }
 async function allPhotos(page: Page) {
-  const paths = catalogue.photos.flatMap((p: any) => [p.cardPath, p.localPath]);
+  const paths = [...catalogue.photos, ...catalogue.album].flatMap((p: any) => [
+    p.cardPath,
+    p.localPath,
+  ]);
   return page.evaluate(async (paths) => {
     const failed: string[] = [];
     for (let i = 0; i < paths.length; i += 8)
@@ -338,4 +413,29 @@ test("all photo assets load from the project subpath with no external resource d
       .filter((t: any) => t.rank <= 20)
       .flatMap((t: any) => t.playerIds),
   ).toHaveLength(100);
+});
+
+test("website precaches only its shell; viewed album photos work without network", async ({ page, context }) => {
+  await ready(page);
+  await page.evaluate(async () => {
+    await navigator.serviceWorker.ready;
+    if (!navigator.serviceWorker.controller) await new Promise<void>(resolve=>navigator.serviceWorker.addEventListener('controllerchange',()=>resolve(),{once:true}));
+  });
+  const shell = await page.evaluate(async () => {
+    const cache = await caches.open((await caches.keys()).find(k=>k.startsWith('frame-cs-'))!);
+    return (await cache.keys()).map(r=>r.url);
+  });
+  expect(shell.filter(url=>url.includes('/photos/')).length).toBeLessThan(40);
+  await page.getByRole('button',{name:'赛事相册',exact:true}).click();
+  await page.getByRole('button',{name:'打开 Team Liquid 2019 夺冠合照'}).click();
+  await page.locator('.album-lightbox-image img').evaluate((img:HTMLImageElement)=>img.decode());
+  const source=await page.locator('.album-lightbox-image img').getAttribute('src');
+  await page.waitForFunction(async (src)=>!!await caches.match(new URL(src!,location.href)),source);
+  await page.keyboard.press('Escape');
+  await context.setOffline(true);
+  await page.reload();
+  await page.getByRole('button',{name:'赛事相册',exact:true}).click();
+  await page.getByRole('button',{name:'打开 Team Liquid 2019 夺冠合照'}).click();
+  await page.locator('.album-lightbox-image img').evaluate((img:HTMLImageElement)=>img.decode());
+  expect(await page.locator('.album-lightbox-image img').evaluate((img:HTMLImageElement)=>img.naturalWidth)).toBeGreaterThan(500);
 });

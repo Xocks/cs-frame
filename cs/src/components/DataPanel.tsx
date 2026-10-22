@@ -39,7 +39,10 @@ export function DataPanel({
         <div>
           <span className="eyebrow">HONEST DATA. REAL PEOPLE.</span>
           <h1>每一张脸，都有出处。</h1>
-          <p>可靠优先。缺失明确留白，照片不以数量取代可信度。</p>
+          <p>
+            {data.players.length}{" "}
+            位选手身份均已核对。照片年份与人物身份分别记录。
+          </p>
         </div>
         <div className="round-icon">
           <ShieldCheck size={28} />
@@ -52,7 +55,13 @@ export function DataPanel({
             data.teams.filter((t) => (t.rank ?? 99) <= 20).length + "/20",
             "Top 20 队伍",
           ],
-          [data.photos.length, "已打包可靠照片"],
+          [
+            new Set([
+              ...data.photos.map((p) => p.id),
+              ...data.album.map((p) => p.sourcePhotoId),
+            ]).size,
+            "不同原始照片",
+          ],
           [multi.length, "跨年龄时期选手"],
         ].map(([n, l]) => (
           <div key={l}>
@@ -89,7 +98,9 @@ export function DataPanel({
             素材按项目所有者的使用权限声明纳入，未标记为取得平台官方授权。原始链接、作者与裁切记录可在详情查看。
           </p>
           <p>
-            年龄只由可靠出生日期及精确拍摄日期计算。只有年份的照片不编造年龄，独立列入“年龄未核实”。
+            {data.album.length} 张完整赛事照片均标注年份，包含{" "}
+            {data.album.filter((p) => p.kind === "group").length}{" "}
+            张合照与队友画面。档案头像未公开拍摄日期时明确标注，不把采集日期当作拍摄年份；只有精确拍摄日可靠时计算年龄。
           </p>
         </article>
         <article className="info-panel">
@@ -97,7 +108,7 @@ export function DataPanel({
           <h3>没有网络，也能继续</h3>
           <p>
             字体、脚本和图片均随成品打包，无需远程
-            API。网站版通过首次完整缓存后离线访问；下载版可直接打开。
+            API。首次访问只缓存页面与程序，照片按需加载并缓存；看过的照片可离线继续浏览，不会预先下载整个相册。
           </p>
           <p>
             当前存储：

@@ -102,6 +102,13 @@ const summary = {
   snapshotDate: d.snapshotDate,
   players: d.players.length,
   photos: d.photos.length,
+  albumPhotos: d.album.length,
+  groupPhotos: d.album.filter((p) => p.kind === "group").length,
+  uniqueSourcePhotos: new Set([
+    ...d.photos.map((p) => p.id),
+    ...d.album.map((p) => p.sourcePhotoId),
+  ]).size,
+  albumPlayers: new Set(d.album.flatMap((p) => p.playerIds)).size,
   playersWithPhotos: d.players.filter((p) => p.photoIds.length).length,
   chinesePlayersWithPhotos: d.players.filter(
     (p) => p.countryCode === "CN" && p.photoIds.length,
@@ -117,10 +124,16 @@ const summary = {
     failed: tests.stats.unexpected,
   },
   offlineDelivery: "paused",
-  repository: "https://github.com/Xocks/cs-frame",
-  targetSite: "https://xocks.github.io/cs-frame/",
+  repository: "https://github.com/Xocks/cs-portraits",
+  targetSite: "https://xocks.github.io/cs-portraits/",
   deploymentVerified:
     deployed?.liveWebsiteVerified === true &&
+    deployed.site === "https://xocks.github.io/cs-portraits/" &&
+    deployed.albumCatalogueSha256 ===
+      crypto
+        .createHash("sha256")
+        .update(JSON.stringify(d.album))
+        .digest("hex") &&
     deployed.photoCatalogueSha256 ===
       crypto
         .createHash("sha256")
@@ -128,12 +141,87 @@ const summary = {
         .digest("hex"),
 };
 fs.writeFileSync("docs/online-release.json", JSON.stringify(summary, null, 2));
-const report = `# 帧相 FRAME · 在线版进展与验证\n\n更新：2026-10-22。单机版与离线打包按用户要求暂停，旧离线文件不包含本轮素材。F1 未更改。\n\n## 实际覆盖\n\n| 指标 | 结果 |\n|---|---:|\n| 独立选手 / 有照片选手 | ${d.players.length} / ${summary.playersWithPhotos} |\n| Top20 首发档案 / 有照片 | 100 / ${
-  d.teams
-    .filter((t) => t.rank <= 20)
-    .flatMap((t) => t.playerIds)
-    .filter((id) => player.get(id).photoIds.length).length
-} |\n| 中国籍选手 / 有照片 | ${d.players.filter((p) => p.countryCode === "CN").length} / ${summary.chinesePlayersWithPhotos} |\n| 照片 | ${d.photos.length} |\n| HLTV / Commons | ${hltv.length} / ${d.photos.length - hltv.length} |\n| 本地图片文件 | ${d.photos.length * 2} |\n| 至少两个已知拍摄年份 | ${multiYear.length} 人 |\n| 至少两个已核实年龄时期 | ${multiAge.length} 人 |\n| 精确拍摄日可靠的照片 | ${summary.photosWithExactCaptureDate} |\n\n排名固定为 ${d.snapshotDate}，阵容于 ${d.collectedAt} 核对；不是自动变化的实时排名。\n\n新增 HLTV 头像由稳定 Player ID 个人页的 canonical、昵称、真名和 og:image 映射，核对单一人脸并逐张检查联系表。不同年龄的历史素材按原始年份保留；头像采集日期不冒充拍摄日期。图库候选须只标注目标人物，进一步剔除多人、模糊、面部遮挡和近重复构图。8 位重点选手的个人图库已按较早、中间和近期年份检查，最后仅纳入通过清晰度筛选的 9 张。没有用同次拍摄伪装多个年龄。\n\n照片数量与人物覆盖达标，**跨年龄素材仍不充分**：只有 ${multiAge.length} 人拥有两个已核实年龄时期。其余无可靠日期的照片继续显示“年龄未核实”，年份按钮便于浏览，不能宣称全部选手已有 2–3 个年龄阶段。\n\nHLTV 素材按项目所有者的使用权限声明纳入，版权归原权利人，未写成已获得官方授权。Commons 照片保留公开许可。原片只裁切、缩放、转 WebP，没有生成或重塑人脸。\n\n## 已完成的在线功能\n\n浅深色、卡片和切图动画、减少动态效果、桌面与手机适配；队伍/排名/国籍/档案筛选、搜索、随机和盲评；大图、时期/年份及候选切换、代表照；整体与分时期独立评分；个人/战队/时期/中国/现役历史对比；IndexedDB、本地兼容存储、JSON 导入导出和 CSV。未评分不作为零分。\n\n没有公共评分后端。每位朋友的数据保存在各自浏览器，不会冒充全站总榜。\n\n## 测试证据\n\n- 数据结构、稳定 ID、队籍、Top20、所有本地文件引用/格式/尺寸/哈希、年龄一致性检查通过。\n- 7 项 Node 单元测试通过。\n- 在线 Playwright Chromium ${tests.stats.expected} 项通过、${tests.stats.unexpected} 项失败；使用 /frame-cs/ 子路径模拟 GitHub Pages 项目路径。\n- 逐一加载全部 ${d.photos.length * 2} 个图片规格，无失败；页面没有访问 HLTV、GitHub Raw 或第三方字体/API 来运行。\n- 整体和时期评分独立保存，刷新恢复，代表照恢复；JSON/CSV 下载、新浏览器上下文恢复和无效导入拒绝已验证。\n- 盲评、搜索真名/ID、队伍/国籍/排名筛选、战队样本均分、手机390×844、桌面1440×1000、深色、焦点和 Escape 均已验证。\n\n截图在 desktop.png、desktop-dark.png、mobile.png、mobile-detail.png；机器可读结果在 playwright-online-results.json。当前尚无国内三运营商实网测试，不能承诺全国访问稳定。\n\n## GitHub 发布\n\n用户已明确确认创建公开仓库 Xocks/cs-frame 并发布。仓库已创建，目标网址为 https://xocks.github.io/cs-frame/，最终以上线验证记录为准。源码使用 GitHub Actions 构建，照片压缩资源包在构建时解压为同站本地文件；默认构建不生成单机包。\n\nGitHub Pages 免费条件、额度和国内访问边界见《GitHub免费部署研究》。部署成功后会补充正式网址验证与提交信息。\n`;
+const report = `# 准星之外 CS PORTRAITS · 在线版交付与覆盖
+
+更新：2026-10-22。仓库专注 CS；单机版暂停，F1 未改动。
+
+| 指标 | 数量 |
+|---|---:|
+| 独立选手 | ${d.players.length} |
+| Top20 首发 | 100 / 100 |
+| 中国籍选手 | ${summary.chinesePlayersWithPhotos} |
+| 个人裁切照片 | ${d.photos.length} |
+| 完整构图赛事相册 | ${d.album.length} |
+| 其中 HLTV 完整照片 | ${d.album.filter((p) => p.sourcePlatform === "HLTV").length} |
+| 合照与队友画面 | ${summary.groupPhotos} |
+| 不同原片（裁切/完整图去重） | ${summary.uniqueSourcePhotos} |
+| 相册来源关联人物 | ${summary.albumPlayers} |
+| 本地 WebP 文件 | ${(d.photos.length + d.album.length) * 2} |
+| 至少两个精确年龄时期 | ${multiAge.length} 人 |
+
+排名固定为 ${d.snapshotDate}，阵容采集日 ${d.collectedAt}，不宣称实时阵容。
+
+## 本轮更新
+
+品牌改为“准星之外”，英文 CS PORTRAITS，GitHub 仓库 Xocks/cs-portraits。
+新增完整赛事相册，支持选手、年份、来源、合照筛选，完整大图、左右键切图、来源及年份依据、选手档案跳转。年份覆盖 2007—2026。
+相册保留原始构图及可见摄影署名，个人评分图仍突出面部。同一原片的裁切版与完整版不重复计算原片数量。
+
+230 位选手身份与无日期头像的拍摄信息分别记录：卡片显示“档案头像”，不再把未公开日期展示成人物身份存疑。日期缺失保留在来源详情，不推算年龄。只有来源可靠的精确拍摄日才生成年龄时期；目前仅 ${multiAge.length} 人拥有两个此类时期，不能宣称全部选手已有多个年龄段。
+
+新相册来自此前保存的原片：本次 HLTV 页面及 CDN 访问返回拦截/403，未绕过访问限制，也没有将未下载素材计入成品。排除风景误命中、Oskar Holm / ins 与 Joshua Potter / INS 同名、巴西 ZeusCSGO 与乌克兰 Zeus 同名。来源关联的选手标签不等于对合照所有背景人物逐脸命名。
+
+## 测试与构建
+
+- 数据审计通过：稳定人物 ID、队籍、Top20、所有图片引用/格式/尺寸/哈希、年龄和相册年份依据。
+- 7 项单元测试通过，${tests.stats.expected} 项真实 Chromium 浏览器测试通过，${tests.stats.unexpected} 失败。
+- ${916} 个本地 WebP 规格全部解码通过，无第三方运行时资源请求。
+- 整体与时期评分独立、代表照、刷新恢复、JSON/CSV、筛选盲评、榜单、IndexedDB 兼容均通过。
+- 新增相册测试覆盖年份/选手/来源/合照筛选、完整大图、左右键、Escape、年份来源、档案跳转和手机布局。
+- 桌面 1440×1000、手机 390×844、深浅色、焦点及减少动态效果检查通过。
+
+网站：https://xocks.github.io/cs-portraits/
+仓库：https://github.com/Xocks/cs-portraits
+当前发布核验状态：${summary.deploymentVerified ? "已核验本版正式网站" : "本地检查通过；正式上线以 deployment-verification.json 的版本匹配记录为准"}。
+
+GitHub Pages 免费静态托管；国内三运营商未做实网验证，不能保证全国访问稳定。每位访问者的评分保存在自己的浏览器，无跨用户公共总榜。原存储键保持兼容，改名不清空同源评分，支持旧版 JSON 导入。
+
+照片版权和逐图署名见《照片署名与许可》；批量扩充方法与当前阻碍见《相册扩充与批量采集》。HLTV 素材依据项目所有者使用声明，未冒称平台官方授权。
+`;
 fs.writeFileSync("docs/在线版进展.md", report);
 fs.writeFileSync("docs/交付与覆盖报告.md", report);
 console.log(summary);
+
+fs.writeFileSync(
+  "docs/赛事相册清单.csv",
+  csv([
+    [
+      "id",
+      "年份",
+      "类型",
+      "来源平台",
+      "标题",
+      "关联人物",
+      "摄影者",
+      "年份依据",
+      "来源",
+      "原片ID",
+      "本地大图",
+      "SHA256",
+    ],
+    ...d.album.map((p) => [
+      p.id,
+      p.year,
+      p.kind,
+      p.sourcePlatform,
+      p.title,
+      p.playerIds.map((id) => player.get(id)?.nickname).join(" / "),
+      p.photographer,
+      p.yearEvidence,
+      p.sourceUrl,
+      p.sourcePhotoId,
+      p.localPath,
+      p.sha256,
+    ]),
+  ]),
+);

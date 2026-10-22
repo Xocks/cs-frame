@@ -1,10 +1,13 @@
 import fs from "node:fs";
 const d = JSON.parse(fs.readFileSync("src/data/catalogue.json", "utf8"));
 fs.mkdirSync("public/data", { recursive: true });
-for (const name of ["players", "teams", "photos", "memberships"])
-  fs.writeFileSync(`public/data/${name}.json`, JSON.stringify(d[name], null, 2));
+for (const name of ["players", "teams", "photos", "memberships", "album"])
+  fs.writeFileSync(
+    `public/data/${name}.json`,
+    JSON.stringify(d[name], null, 2),
+  );
 const used = new Set(
-  d.photos.flatMap((p) => [
+  [...d.photos, ...d.album].flatMap((p) => [
     p.localPath.replace("photos/", ""),
     p.cardPath.replace("photos/", ""),
   ]),
@@ -17,6 +20,9 @@ let text =
 for (const p of d.photos) {
   const player = d.players.find((x) => x.id === p.playerId);
   text += `## ${player.nickname} · ${p.year ?? "年份未核实"} · ${p.id}\n\n- 原文件：${p.title}\n- 作者 / 来源平台：${p.photographer}\n- 来源：[${p.sourcePlatform === "HLTV" ? "HLTV 来源页面" : "Wikimedia Commons 文件说明"}](${p.sourceUrl})\n- 版权 / 许可：[${p.license}](${p.licenseUrl})\n- 使用依据：${p.licenseStatus === "user-declared" ? "项目所有者声明；未独立核验官方授权" : "来源公开许可记录"}\n- 拍摄记录：${p.capturedAt ?? "未知"}；年龄：${p.age ?? "不作推断"}\n- 核验：${p.identityEvidence}\n- 修改：${p.alterations}\n- 本地文件：${p.localPath} / ${p.cardPath}\n- SHA-256：${p.sha256}\n\n`;
+}
+for (const p of d.album) {
+  text += `## ${p.title} · ${p.year} · ${p.id}\n\n- 平台：${p.sourcePlatform}\n- 摄影 / 署名：${p.photographer}\n- 来源：${p.sourceUrl}\n- 年份依据：${p.yearEvidence}\n- 时间说明：${p.dateNote}\n- 许可：${p.license} (${p.licenseUrl})\n- 人物关联：${p.subjectEvidence}\n- 关联范围：${p.subjectScope}\n- 修改：${p.alterations}\n- 原片 ID：${p.sourcePhotoId}（与个人裁切版不重复计作新原片）\n- 文件：${p.localPath} / ${p.cardPath}\n- SHA-256：${p.sha256}\n\n`;
 }
 fs.writeFileSync("docs/照片署名与许可.md", text);
 fs.writeFileSync("public/照片署名与许可.md", text);
@@ -32,6 +38,8 @@ for (const name of [
   "照片清单.csv",
   "HLTV照片来源与授权记录.md",
   "data-audit.json",
+  "相册扩充与批量采集.md",
+  "赛事相册清单.csv",
 ])
   if (fs.existsSync("docs/" + name))
     fs.copyFileSync("docs/" + name, "public/" + name);

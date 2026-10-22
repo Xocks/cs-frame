@@ -61,7 +61,7 @@ export function PlayerCard({
           alt={
             settings.blind
               ? "匿名选手人像"
-              : `${p.nickname} · ${photo?.year ?? "年份待核实"}`
+              : `${p.nickname} · ${photo?.year ?? "档案头像"}`
           }
         />
         <div className="card-vignette" />
@@ -83,8 +83,8 @@ export function PlayerCard({
         </div>
         {photo && (
           <div className="photo-year">
-            <span>{photo.year ?? "未注明年份"}</span>
-            <span>{photo.age !== null ? `${photo.age} 岁` : "年龄未核实"}</span>
+            <span>{photo.year ?? "档案头像"}</span>
+            {photo.age !== null && <span>{photo.age} 岁</span>}
           </div>
         )}
         <span className="portrait-open">

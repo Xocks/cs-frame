@@ -10,7 +10,7 @@ export const periods: Record<PeriodKey, { label: string; range: string }> = {
   prime: { label: "成熟期", range: "24–27 岁" },
   veteran: { label: "后期", range: "28–31 岁" },
   legend: { label: "老将期", range: "32 岁及以上" },
-  undated: { label: "年龄未核实", range: "按拍摄年份浏览" },
+  undated: { label: "年份与头像", range: "仅有年份或未公开日期，不推算年龄" },
 };
 export const periodOrder: PeriodKey[] = [
   "debut",

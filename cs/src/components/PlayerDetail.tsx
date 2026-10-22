@@ -10,12 +10,14 @@ import {
   ShieldCheck,
   CalendarDays,
   Camera,
+  Images,
   ArrowRight,
   Trash2,
 } from "lucide-react";
 import type { Player, PlayerPhoto, UserData, PeriodKey } from "../types";
 import {
   asset,
+  data,
   flag,
   periods,
   periodOrder,
@@ -33,6 +35,7 @@ export function PlayerDetail({
   onRate,
   onClear,
   onMode,
+  onAlbum,
 }: {
   player: Player;
   user: UserData;
@@ -41,6 +44,7 @@ export function PlayerDetail({
   onRate: (v: 1 | 2 | 3 | 4 | 5, photo?: PlayerPhoto) => void;
   onClear: (period?: PeriodKey) => void;
   onMode: (mode: "overall" | "period") => void;
+  onAlbum: () => void;
 }) {
   const all = playerPhotos(p);
   const chosen = representative(p, user.representatives);
@@ -59,6 +63,9 @@ export function PlayerDetail({
       (r.mode === "overall" || r.period === current?.period),
   )?.value;
   const blind = user.settings.blind;
+  const albumCount = data.album.filter((ph) =>
+    ph.playerIds.includes(p.id),
+  ).length;
   useEffect(() => {
     const previous = document.activeElement as HTMLElement;
     const old = document.body.style.overflow;
@@ -173,9 +180,13 @@ export function PlayerDetail({
           )}
           {current && (
             <div className="detail-photo-info">
-              <span>{current.year ?? "年份未核实"}</span>
+              <span>{current.year ?? "HLTV 档案头像"}</span>
               <strong>
-                {current.age !== null ? `${current.age} 岁` : "年龄未核实"}
+                {current.age !== null
+                  ? `${current.age} 岁`
+                  : current.year
+                    ? "赛事年份已记录"
+                    : "人物身份已核对"}
               </strong>
             </div>
           )}
@@ -191,6 +202,16 @@ export function PlayerDetail({
               ? "在揭晓名字之前，留下一次心动。"
               : `${p.realName} · ${p.country} · ${teamName(p)}`}
           </p>
+          {albumCount > 0 && (
+            <button className="related-album" onClick={onAlbum}>
+              <Images size={17} />
+              <span>
+                查看完整赛事相册
+                <small>{albumCount} 张现场照与合照 · 按年份浏览</small>
+              </span>
+              <ArrowRight size={16} />
+            </button>
+          )}
           <div className="detail-section">
             <div className="section-label">
               <span>沿着时间，重新认识</span>
@@ -224,7 +245,7 @@ export function PlayerDetail({
                             .map((ph) => ph.year)
                             .filter(Boolean),
                         ),
-                      ].join(" / ") || "年份未知"}
+                      ].join(" / ") || "拍摄日期未公开"}
                     </span>
                   </button>
                 ))}
@@ -261,7 +282,7 @@ export function PlayerDetail({
                     aria-label={`切换至 ${ph.year || "年份未知"} 年候选照片 ${candidates.indexOf(ph) + 1}`}
                   >
                     <img src={asset(ph.cardPath)} alt="时期候选照片" />
-                    <span>{ph.year || "未知"}</span>
+                    <span>{ph.year || "档案头像"}</span>
                     {current.id === ph.id && <Check size={13} />}
                   </button>
                 ))}

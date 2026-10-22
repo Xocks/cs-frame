@@ -14,7 +14,8 @@
     "test:e2e": "npm run test:web",
     "test:web": "playwright test -c playwright.web.config.ts",
     "preview": "vite preview",
-    "test:offline": "playwright test app.spec.ts"
+    "test:offline": "playwright test app.spec.ts",
+    "collect:album": "node scripts/download-album-queue.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",

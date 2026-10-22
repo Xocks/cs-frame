@@ -72,6 +72,38 @@ export interface PlayerPhoto {
   alterations: string;
   originalSha1: string;
 }
+export interface AlbumPhoto {
+  id: string;
+  sourcePhotoId: string;
+  playerIds: string[];
+  year: number;
+  datePrecision: "year";
+  yearEvidence: string;
+  dateNote: string;
+  title: string;
+  event: string;
+  caption?: string;
+  kind: "group" | "scene";
+  sourceUrl: string;
+  originalUrl: string;
+  photographer: string;
+  license: string;
+  licenseUrl: string;
+  licenseStatus: "open-license" | "user-declared";
+  sourcePlatform: "HLTV" | "Wikimedia Commons";
+  subjectEvidence: string;
+  subjectScope: string;
+  localPath: string;
+  cardPath: string;
+  width: number;
+  height: number;
+  sha256: string;
+  originalSha1: string;
+  reviewStatus: "reviewed";
+  sourceCheckedAt: string;
+  reviewedAt: string;
+  alterations: string;
+}
 export interface Dataset {
   version: string;
   snapshotDate: string;
@@ -81,6 +113,7 @@ export interface Dataset {
   teams: Team[];
   memberships: TeamMembership[];
   photos: PlayerPhoto[];
+  album: AlbumPhoto[];
   notes: string[];
 }
 export interface Rating {

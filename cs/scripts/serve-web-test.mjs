@@ -2,7 +2,7 @@ import http from "node:http";
 import fs from "node:fs";
 import path from "node:path";
 const root = path.resolve("dist"),
-  prefix = "/frame-cs/";
+  prefix = "/cs-portraits/";
 const types = {
   ".html": "text/html; charset=utf-8",
   ".js": "text/javascript",
@@ -40,5 +40,5 @@ http
     fs.createReadStream(file).pipe(res);
   })
   .listen(4173, "127.0.0.1", () =>
-    console.log("Website QA: http://127.0.0.1:4173/frame-cs/"),
+    console.log("Website QA: http://127.0.0.1:4173/cs-portraits/"),
   );

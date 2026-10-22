@@ -58,7 +58,7 @@ export function parseBackup(
     typeof b.representatives !== "object" ||
     Array.isArray(b.representatives)
   )
-    throw Error("不是有效的帧相评分备份（版本 1）");
+    throw Error("不是有效的CS 评分备份（版本 1）");
   const ids = new Set(catalogue.players.map((p) => p.id));
   const photos = new Map(catalogue.photos.map((p) => [p.id, p]));
   const map = new Map<string, Rating>();

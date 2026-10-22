@@ -13,7 +13,7 @@ export default defineConfig({
   ],
   webServer: {
     command: "node scripts/serve-web-test.mjs",
-    url: "http://127.0.0.1:4173/frame-cs/",
+    url: "http://127.0.0.1:4173/cs-portraits/",
     reuseExistingServer: false,
   },
 });
