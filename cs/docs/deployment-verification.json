@@ -1,26 +1,60 @@
 {
-  "verifiedAt": "2026-10-22T01:10:08.215Z",
-  "liveWebsiteVerified": true,
-  "site": "https://xocks.github.io/cs-frame/",
-  "repository": "https://github.com/Xocks/cs-frame",
-  "deployedCommit": "f0ef4258d0ea11d86d9d63afd53675aa1ad4dbae",
-  "workflowRun": "https://github.com/Xocks/cs-frame/actions/runs/39703589169",
-  "workflowConclusion": "success",
-  "sourceCatalogueSha256": "f39d42f37c50070a4b4acb49cbddccf2752979916896ae041d6aa9ed6810c7dd",
-  "players": 230,
+  "site": "https://xocks.github.io/cs-portraits/",
+  "verifiedCommit": "b7883989417743d51023eccf59f14e8d238fba96",
+  "workflowRun": "39707363988",
+  "checkedAt": "2026-10-22T01:46:04.382Z",
   "photos": 311,
-  "livePhotoVariantsLoaded": 622,
-  "failedPhotoVariants": [],
-  "liveScoreWriteAndUndo": true,
-  "liveViewportFits": true,
-  "localBrowserTestsPassed": 7,
-  "unitTestsPassed": 7,
-  "mainlandCarrierTested": false,
-  "offlineDelivery": "paused",
-  "photoCatalogueSha256": "4fe40be64e50f38091364df76b29e26579b75680713c966b585d499070cfb12c",
-  "mobileViewport": {
-    "width": 390,
+  "album": 147,
+  "groups": 32,
+  "assets": 916,
+  "failed": [],
+  "desktop": {
+    "year": "2019  10 / 49",
+    "title": "Team Liquid · IEM Chicago 2019",
+    "imageWidth": 960
+  },
+  "mobile": {
+    "viewport": 390,
     "documentWidth": 390,
-    "overflow": false
-  }
+    "nav": [
+      {
+        "text": "选手图鉴",
+        "x": 16,
+        "right": 104.75
+      },
+      {
+        "text": "赛事相册",
+        "x": 105.75,
+        "right": 194.5
+      },
+      {
+        "text": "我的榜单",
+        "x": 195.5,
+        "right": 284.25
+      },
+      {
+        "text": "资料与备份",
+        "x": 285.25,
+        "right": 374
+      }
+    ]
+  },
+  "liveWebsiteVerified": true,
+  "photoCatalogueSha256": "4fe40be64e50f38091364df76b29e26579b75680713c966b585d499070cfb12c",
+  "albumCatalogueSha256": "32aebff174ea2ff68a7a65366fd4f57b7a90d2cf5d86ee1ef16e8bf95c9bb4b4",
+  "localBrowserTests": {
+    "passed": 9,
+    "failed": 0
+  },
+  "unitTests": {
+    "passed": 7,
+    "failed": 0
+  },
+  "firstVisitCache": {
+    "shellFiles": 6,
+    "photos": "on demand",
+    "verifiedOfflineForViewedPhotos": true
+  },
+  "HLTVNewAcquisition": "blocked by source; expanded album from previously saved originals",
+  "domesticNetworkVerification": "No independent mainland carrier tests"
 }
