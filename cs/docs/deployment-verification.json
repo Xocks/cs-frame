@@ -1,0 +1,26 @@
+{
+  "verifiedAt": "2026-10-22T01:10:08.215Z",
+  "liveWebsiteVerified": true,
+  "site": "https://xocks.github.io/cs-frame/",
+  "repository": "https://github.com/Xocks/cs-frame",
+  "deployedCommit": "f0ef4258d0ea11d86d9d63afd53675aa1ad4dbae",
+  "workflowRun": "https://github.com/Xocks/cs-frame/actions/runs/39703589169",
+  "workflowConclusion": "success",
+  "sourceCatalogueSha256": "f39d42f37c50070a4b4acb49cbddccf2752979916896ae041d6aa9ed6810c7dd",
+  "players": 230,
+  "photos": 311,
+  "livePhotoVariantsLoaded": 622,
+  "failedPhotoVariants": [],
+  "liveScoreWriteAndUndo": true,
+  "liveViewportFits": true,
+  "localBrowserTestsPassed": 7,
+  "unitTestsPassed": 7,
+  "mainlandCarrierTested": false,
+  "offlineDelivery": "paused",
+  "photoCatalogueSha256": "4fe40be64e50f38091364df76b29e26579b75680713c966b585d499070cfb12c",
+  "mobileViewport": {
+    "width": 390,
+    "documentWidth": 390,
+    "overflow": false
+  }
+}

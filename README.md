@@ -2,7 +2,9 @@
 
 CS 职业选手人像与个人评分网站。在线版：230 位选手、311 张真实照片，覆盖 2026-10-19 HLTV Top20 全部首发及 21 位中国选手。照片来源、年份和版权状态逐张记录。
 
-目标网址：https://xocks.github.io/cs-frame/ （发布验证以部署记录为准）
+在线体验：https://xocks.github.io/cs-frame/
+
+已发布并验证首页、全部 622 个图片规格及评分写入/撤销；部署证据见 `cs/docs/deployment-verification.json`。
 
 源码位于 `cs/`；`.github/workflows/pages.yml` 自动构建并发布。`photo-assets.zip` 保存本地图片资源，运行 `npm run prepare:assets` 会验证并解压到 `cs/public/photos/`，网站运行时使用独立 WebP 文件。
 

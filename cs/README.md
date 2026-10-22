@@ -8,6 +8,7 @@ Node.js 22+：
 
 ```sh
 npm ci
+npm run prepare:assets
 npm run dev
 npm run check:data
 npm test
@@ -17,7 +18,7 @@ npm run test:web
 
 `npm run build` 等同于 `build:web`，输出 `dist/` 和 `delivery/CS帧相-网站部署包.zip`，不生成或更新旧离线文件。构建不联网采集素材。
 
-网站可部署到根目录或 GitHub Pages 的仓库子路径。仓库根目录 `.github/workflows/pages.yml` 已准备自动构建配置；公开发布尚未执行。详见 [GitHub 免费部署研究](docs/GitHub免费部署研究.md)。
+网站可部署到根目录或 GitHub Pages 的仓库子路径。仓库根目录 `.github/workflows/pages.yml` 已准备自动构建配置；已发布至 https://xocks.github.io/cs-frame/ 。详见 [GitHub 免费部署研究](docs/GitHub免费部署研究.md)。
 
 ## 功能
 

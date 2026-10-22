@@ -214,7 +214,7 @@ for (const p of players) {
 // First candidate in the latest verified period is the initial card representative; users can change it.
 const notes = [
   `收录 ${players.length} 位独立选手、${teams.length} 支快照队伍；Top 20 的 100 个位置均以 2026-10-19 排名和 2026-10-21 队伍资料页交叉核对。`,
-  `当前可靠照片 ${photos.length} 张，覆盖 ${players.filter((p) => p.photoIds.length).length} 位；尚未达到 300–500 张目标。缺图与跨时期覆盖不足如实保留，不用错图或重复照片充数。`,
+  `当前可靠照片 ${photos.length} 张，覆盖 ${players.filter((p) => p.photoIds.length).length} 位；${photos.length < 300 ? "尚未达到 300–500 张数量目标" : "已达到 300–500 张数量目标"}。跨年龄时期的素材覆盖仍待补充，不用错图或重复照片充数。`,
   `照片来源包括 HLTV 个人档案与 Wikimedia Commons。HLTV 素材按项目所有者的使用权限声明纳入，保留版权，未声称取得平台官方授权。Commons 照片保留各自公开许可。`,
   `HLTV 档案核对日期不是拍摄日期，无法核实拍摄日期的头像不推算年龄。某些采访截图仅有发表年份，此类素材同样单列“年龄未核实”。`,
   `“现役阵容快照”表示属于本次收录的排名阵容；“历史补充档案”包含退役、转型及不在所收录阵容中的选手，不对其当前职业状态作推断。`,

@@ -1,4 +1,8 @@
 import fs from "node:fs";
+import crypto from "node:crypto";
+const deployed = fs.existsSync("docs/deployment-verification.json")
+  ? JSON.parse(fs.readFileSync("docs/deployment-verification.json", "utf8"))
+  : null;
 const d = JSON.parse(fs.readFileSync("src/data/catalogue.json", "utf8"));
 const tests = JSON.parse(
   fs.readFileSync("docs/playwright-online-results.json", "utf8"),
@@ -115,7 +119,13 @@ const summary = {
   offlineDelivery: "paused",
   repository: "https://github.com/Xocks/cs-frame",
   targetSite: "https://xocks.github.io/cs-frame/",
-  deploymentVerified: false,
+  deploymentVerified:
+    deployed?.liveWebsiteVerified === true &&
+    deployed.photoCatalogueSha256 ===
+      crypto
+        .createHash("sha256")
+        .update(JSON.stringify(d.photos))
+        .digest("hex"),
 };
 fs.writeFileSync("docs/online-release.json", JSON.stringify(summary, null, 2));
 const report = `# 帧相 FRAME · 在线版进展与验证\n\n更新：2026-10-22。单机版与离线打包按用户要求暂停，旧离线文件不包含本轮素材。F1 未更改。\n\n## 实际覆盖\n\n| 指标 | 结果 |\n|---|---:|\n| 独立选手 / 有照片选手 | ${d.players.length} / ${summary.playersWithPhotos} |\n| Top20 首发档案 / 有照片 | 100 / ${

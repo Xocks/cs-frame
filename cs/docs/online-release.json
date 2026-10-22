@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T00:58:32.434Z",
+  "generatedAt": "2026-10-22T01:11:09.978Z",
   "version": "1.1.0-web",
   "snapshotDate": "2026-10-19",
   "players": 230,
@@ -18,5 +18,5 @@
   "offlineDelivery": "paused",
   "repository": "https://github.com/Xocks/cs-frame",
   "targetSite": "https://xocks.github.io/cs-frame/",
-  "deploymentVerified": false
+  "deploymentVerified": true
 }
