@@ -37,9 +37,9 @@ GitHub Pages 的免费额度不等于中国大陆各运营商的访问保证。�
 2. 上传仓库根目录的 `.github/` 与 `cs/`。保留 `cs/public/photos/`、正式 JSON 数据和源码；排除 node_modules、research 原始下载/参考截图、旧 delivery 和 offline-dist。
 3. 仓库 Settings → Pages → Source 选择 GitHub Actions。
 4. 推送 `main` 或手动运行工作流，等待部署成功。
-5. 访问 `https://<用户名>.github.io/<仓库名>/`。例如 `cs-frame` 只是可选仓库名示例，当前未创建。
+5. 访问 `https://<用户名>.github.io/<仓库名>/`。本项目已发布至 https://xocks.github.io/cs-portraits/ 。
 
-2026-10-22 用户已确认新建公开仓库 Xocks/cs-frame 并发布，仓库已创建。Pages 最终上线状态以部署验证记录为准。
+2026-10-22 仓库已按新品牌改名为 Xocks/cs-portraits，网站已上线，GitHub Actions 部署和 916 个图片规格加载核验均成功。记录见 deployment-verification.json。
 
 ## 在线功能边界
 
