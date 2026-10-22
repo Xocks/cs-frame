@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+	<testcase name="reject forged score, foreign player, invalid date and incorrect photo ownership" time="0.001294" classname="test" file="/Users/Zhuanz/Documents/颜值评分网站/cs/tests/ratings.test.mjs"/>
+	<testcase name="import is validated atomically before state can change" time="0.001665" classname="test" file="/Users/Zhuanz/Documents/颜值评分网站/cs/tests/ratings.test.mjs"/>
+	<testcase name="overall and period ratings use distinct keys during restore" time="0.000232" classname="test" file="/Users/Zhuanz/Documents/颜值评分网站/cs/tests/ratings.test.mjs"/>
+	<testcase name="older backup cannot overwrite newer rating; representative map validates person" time="0.000123" classname="test" file="/Users/Zhuanz/Documents/颜值评分网站/cs/tests/ratings.test.mjs"/>
+	<testcase name="CSV includes only real ratings and quotes multiline or comma-bearing names" time="0.001176" classname="test" file="/Users/Zhuanz/Documents/颜值评分网站/cs/tests/ratings.test.mjs"/>
+	<testcase name="equivalent timezone offsets are normalized before merging backup dates" time="0.000112" classname="test" file="/Users/Zhuanz/Documents/颜值评分网站/cs/tests/ratings.test.mjs"/>
+	<testcase name="per-period preferred photographs restore only to the matching player and period" time="0.000124" classname="test" file="/Users/Zhuanz/Documents/颜值评分网站/cs/tests/ratings.test.mjs"/>
+	<!-- tests 7 -->
+	<!-- suites 0 -->
+	<!-- pass 7 -->
+	<!-- fail 0 -->
+	<!-- cancelled 0 -->
+	<!-- skipped 0 -->
+	<!-- todo 0 -->
+	<!-- duration_ms 140.984875 -->
+</testsuites>

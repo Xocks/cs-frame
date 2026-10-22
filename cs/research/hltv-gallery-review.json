@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-22",
+  "method": "Contact-sheet visual review against stable-ID personal profile; only single-player caption; reject blurred faces, face occlusion and near-duplicate poses.",
+  "approved": [
+    "hltv-gallery-35887",
+    "hltv-gallery-140035",
+    "hltv-gallery-165421",
+    "hltv-gallery-282297",
+    "hltv-gallery-187035",
+    "hltv-gallery-256392",
+    "hltv-gallery-279153",
+    "hltv-gallery-26339",
+    "hltv-gallery-76101"
+  ],
+  "rejected": [
+    {
+      "id": "hltv-gallery-139804",
+      "reason": "blur, downward/occluded face or near-duplicate pose"
+    },
+    {
+      "id": "hltv-gallery-139805",
+      "reason": "blur, downward/occluded face or near-duplicate pose"
+    },
+    {
+      "id": "hltv-gallery-282350",
+      "reason": "blur, downward/occluded face or near-duplicate pose"
+    },
+    {
+      "id": "hltv-gallery-282363",
+      "reason": "blur, downward/occluded face or near-duplicate pose"
+    },
+    {
+      "id": "hltv-gallery-282361",
+      "reason": "blur, downward/occluded face or near-duplicate pose"
+    },
+    {
+      "id": "hltv-gallery-256393",
+      "reason": "blur, downward/occluded face or near-duplicate pose"
+    },
+    {
+      "id": "hltv-gallery-29814",
+      "reason": "blur, downward/occluded face or near-duplicate pose"
+    },
+    {
+      "id": "hltv-gallery-75925",
+      "reason": "blur, downward/occluded face or near-duplicate pose"
+    }
+  ]
+}

@@ -1,0 +1,1192 @@
+[
+  {
+    "team": "Spirit",
+    "url": "https://www.hltv.org/team/7020/spirit",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 16920,
+        "nickname": "sh1ro",
+        "url": "/player/16920/sh1ro"
+      },
+      {
+        "id": 18317,
+        "nickname": "magixx",
+        "url": "/player/18317/magixx"
+      },
+      {
+        "id": 19808,
+        "nickname": "tN1R",
+        "url": "/player/19808/tn1r"
+      },
+      {
+        "id": 20423,
+        "nickname": "zont1x",
+        "url": "/player/20423/zont1x"
+      },
+      {
+        "id": 21167,
+        "nickname": "donk",
+        "url": "/player/21167/donk"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/16920/sh1ro\" class=\"col-custom\" title=\"sh1ro\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player sh1ro\" src=\"https://img-cdn.hltv.org/playerbodyshot/KrsTmqu-PCTaMrChcomGkg.png?ixlib=java-2.1.0&amp;w=400&amp;s=967fd451428681f693675db991bdf6c2\" class=\"bodyshot-team-img\" title=\"Dmitry 'sh1ro' Sokolov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">sh1ro</span></div></div></div></a><a href=\"/player/18317/magixx\" class=\"col-custom\" title=\"magixx\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player magixx\" src=\"https://img-cdn.hltv.org/playerbodyshot/HrWpH_vGGmmidy_5NGYzot.png?ixlib=java-2.1.0&amp;w=400&amp;s=54f03db9912d953797325482ca72ccd1\" class=\"bodyshot-team-img\" title=\"Boris 'magixx' Vorobiev\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">magixx</span></div></div></div></a><a href=\"/player/19808/tn1r\" class=\"col-custom\" title=\"tN1R\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player tN1R\" src=\"https://img-cdn.hltv.org/playerbodyshot/ldyCGGQLnZ0aE9hjoomgs0.png?ixlib=java-2.1.0&amp;w=400&amp;s=86c8761d17d98a55a366777b5bd8fa12\" class=\"bodyshot-team-img\" title=\"Andrey 'tN1R' Tatarinovich\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Belarus\" src=\"/img/static/flags/30x20/BY.gif\" class=\"flag\" title=\"Belarus\"> </span><span class=\"text-ellipsis bold\">tN1R</span></div></div></div></a><a href=\"/player/20423/zont1x\" class=\"col-custom\" title=\"zont1x\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player zont1x\" src=\"https://img-cdn.hltv.org/playerbodyshot/V29V5S3QXOX7Q5AxiHoxYg.png?ixlib=java-2.1.0&amp;w=400&amp;s=2709cc2e952f739c63d835a9459fb550\" class=\"bodyshot-team-img\" title=\"Myroslav 'zont1x' Plakhotia\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">zont1x</span></div></div></div></a><a href=\"/player/21167/donk\" class=\"col-custom\" title=\"donk\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player donk\" src=\"https://img-cdn.hltv.org/playerbodyshot/xVbHhluSLk5eWQqcYL-bBY.png?ixlib=java-2.1.0&amp;w=400&amp;s=8e517263589f06013ef1459fe040ec82\" class=\"bodyshot-team-img\" title=\"Danil 'donk' Kryshkovets\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">donk</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Vitality",
+    "url": "https://www.hltv.org/team/9565/vitality",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 7322,
+        "nickname": "apEX",
+        "url": "/player/7322/apex"
+      },
+      {
+        "id": 11816,
+        "nickname": "ropz",
+        "url": "/player/11816/ropz"
+      },
+      {
+        "id": 11893,
+        "nickname": "ZywOo",
+        "url": "/player/11893/zywoo"
+      },
+      {
+        "id": 16693,
+        "nickname": "flameZ",
+        "url": "/player/16693/flamez"
+      },
+      {
+        "id": 18462,
+        "nickname": "mezii",
+        "url": "/player/18462/mezii"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/7322/apex\" class=\"col-custom\" title=\"apEX\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player apEX\" src=\"https://img-cdn.hltv.org/playerbodyshot/3M9h08qvl3YOsaRcAvKhs4.png?ixlib=java-2.1.0&amp;w=400&amp;s=c1acc9777d9e3165140548582e9bf1f5\" class=\"bodyshot-team-img\" title=\"Dan 'apEX' Madesclaire\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"France\" src=\"/img/static/flags/30x20/FR.gif\" class=\"flag\" title=\"France\"> </span><span class=\"text-ellipsis bold\">apEX</span></div></div></div></a><a href=\"/player/11816/ropz\" class=\"col-custom\" title=\"ropz\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player ropz\" src=\"https://img-cdn.hltv.org/playerbodyshot/YQ9kQQ3aop1JZQE9xJ140r.png?ixlib=java-2.1.0&amp;w=400&amp;s=d4c7a00036511e25b4854ba3d3af80ca\" class=\"bodyshot-team-img\" title=\"Robin 'ropz' Kool\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Estonia\" src=\"/img/static/flags/30x20/EE.gif\" class=\"flag\" title=\"Estonia\"> </span><span class=\"text-ellipsis bold\">ropz</span></div></div></div></a><a href=\"/player/11893/zywoo\" class=\"col-custom\" title=\"ZywOo\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player ZywOo\" src=\"https://img-cdn.hltv.org/playerbodyshot/blnoWFtH8GUJZjhr8H0P4u.png?ixlib=java-2.1.0&amp;w=400&amp;s=dc0fe6bd817ef852f59185ccf6b6c868\" class=\"bodyshot-team-img\" title=\"Mathieu 'ZywOo' Herbaut\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"France\" src=\"/img/static/flags/30x20/FR.gif\" class=\"flag\" title=\"France\"> </span><span class=\"text-ellipsis bold\">ZywOo</span></div></div></div></a><a href=\"/player/16693/flamez\" class=\"col-custom\" title=\"flameZ\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player flameZ\" src=\"https://img-cdn.hltv.org/playerbodyshot/LUQi5dX9boyO0uDadUGht5.png?ixlib=java-2.1.0&amp;w=400&amp;s=1c5c46fe41e79b19a69b479d8abbbb41\" class=\"bodyshot-team-img\" title=\"Shahar 'flameZ' Shushan\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Israel\" src=\"/img/static/flags/30x20/IL.gif\" class=\"flag\" title=\"Israel\"> </span><span class=\"text-ellipsis bold\">flameZ</span></div></div></div></a><a href=\"/player/18462/mezii\" class=\"col-custom\" title=\"mezii\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player mezii\" src=\"https://img-cdn.hltv.org/playerbodyshot/7GVUrVLAQkgnuovRkk5Bxw.png?ixlib=java-2.1.0&amp;w=400&amp;s=00b346853396c35e5889b00be2766c99\" class=\"bodyshot-team-img\" title=\"William 'mezii' Merriman\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"United Kingdom\" src=\"/img/static/flags/30x20/GB.gif\" class=\"flag\" title=\"United Kingdom\"> </span><span class=\"text-ellipsis bold\">mezii</span></div></div></div></a></div>"
+  },
+  {
+    "team": "FURIA",
+    "url": "https://www.hltv.org/team/8297/furia",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 2023,
+        "nickname": "FalleN",
+        "url": "/player/2023/fallen"
+      },
+      {
+        "id": 12553,
+        "nickname": "yuurih",
+        "url": "/player/12553/yuurih"
+      },
+      {
+        "id": 13915,
+        "nickname": "YEKINDAR",
+        "url": "/player/13915/yekindar"
+      },
+      {
+        "id": 15631,
+        "nickname": "KSCERATO",
+        "url": "/player/15631/kscerato"
+      },
+      {
+        "id": 24144,
+        "nickname": "molodoy",
+        "url": "/player/24144/molodoy"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/2023/fallen\" class=\"col-custom\" title=\"FalleN\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player FalleN\" src=\"https://img-cdn.hltv.org/playerbodyshot/gQbb4I0TeHmxx7bYBOtd7T.png?ixlib=java-2.1.0&amp;w=400&amp;s=744dd676bd5ad23e4adfc8dc8fcbaa80\" class=\"bodyshot-team-img\" title=\"Gabriel 'FalleN' Toledo\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Brazil\" src=\"/img/static/flags/30x20/BR.gif\" class=\"flag\" title=\"Brazil\"> </span><span class=\"text-ellipsis bold\">FalleN</span></div></div></div></a><a href=\"/player/12553/yuurih\" class=\"col-custom\" title=\"yuurih\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player yuurih\" src=\"https://img-cdn.hltv.org/playerbodyshot/ZapU9KMKIlH1bDpSlV6MO1.png?ixlib=java-2.1.0&amp;w=400&amp;s=09cb203041b92340db49939164bc6f99\" class=\"bodyshot-team-img\" title=\"Yuri 'yuurih' Santos\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Brazil\" src=\"/img/static/flags/30x20/BR.gif\" class=\"flag\" title=\"Brazil\"> </span><span class=\"text-ellipsis bold\">yuurih</span></div></div></div></a><a href=\"/player/13915/yekindar\" class=\"col-custom\" title=\"YEKINDAR\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player YEKINDAR\" src=\"https://img-cdn.hltv.org/playerbodyshot/IO3vEa2fT2qFPRlrPid7hf.png?ixlib=java-2.1.0&amp;w=400&amp;s=2826592c7787a70711b1ca5651ab25a7\" class=\"bodyshot-team-img\" title=\"Mareks 'YEKINDAR' Gaļinskis\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Latvia\" src=\"/img/static/flags/30x20/LV.gif\" class=\"flag\" title=\"Latvia\"> </span><span class=\"text-ellipsis bold\">YEKINDAR</span></div></div></div></a><a href=\"/player/15631/kscerato\" class=\"col-custom\" title=\"KSCERATO\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player KSCERATO\" src=\"https://img-cdn.hltv.org/playerbodyshot/z0vT0V815B0MdeeKhcf44Y.png?ixlib=java-2.1.0&amp;w=400&amp;s=32afd770ba5023b0eefc0712e029065a\" class=\"bodyshot-team-img\" title=\"Kaike 'KSCERATO' Cerato\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Brazil\" src=\"/img/static/flags/30x20/BR.gif\" class=\"flag\" title=\"Brazil\"> </span><span class=\"text-ellipsis bold\">KSCERATO</span></div></div></div></a><a href=\"/player/24144/molodoy\" class=\"col-custom\" title=\"molodoy\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player molodoy\" src=\"https://img-cdn.hltv.org/playerbodyshot/oPoWLYFq87cIs2cYDo8id7.png?ixlib=java-2.1.0&amp;w=400&amp;s=26d135bacbf9f98ff775421c3ca2bf4c\" class=\"bodyshot-team-img\" title=\"Danil 'molodoy' Golubenko\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Kazakhstan\" src=\"/img/static/flags/30x20/KZ.gif\" class=\"flag\" title=\"Kazakhstan\"> </span><span class=\"text-ellipsis bold\">molodoy</span></div></div></div></a></div>"
+  },
+  {
+    "team": "MOUZ",
+    "url": "https://www.hltv.org/team/4494/mouz",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 18072,
+        "nickname": "torzsi",
+        "url": "/player/18072/torzsi"
+      },
+      {
+        "id": 18221,
+        "nickname": "Spinx",
+        "url": "/player/18221/spinx"
+      },
+      {
+        "id": 20312,
+        "nickname": "xertioN",
+        "url": "/player/20312/xertion"
+      },
+      {
+        "id": 22279,
+        "nickname": "PR",
+        "url": "/player/22279/pr"
+      },
+      {
+        "id": 24457,
+        "nickname": "xelex",
+        "url": "/player/24457/xelex"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/18072/torzsi\" class=\"col-custom\" title=\"torzsi\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player torzsi\" src=\"https://img-cdn.hltv.org/playerbodyshot/g9uOgg5eleoDQBL3oISgCU.png?ixlib=java-2.1.0&amp;w=400&amp;s=c2e49b3335e46e1f0ad6ee145563b566\" class=\"bodyshot-team-img\" title=\"Ádám 'torzsi' Torzsás\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Hungary\" src=\"/img/static/flags/30x20/HU.gif\" class=\"flag\" title=\"Hungary\"> </span><span class=\"text-ellipsis bold\">torzsi</span></div></div></div></a><a href=\"/player/18221/spinx\" class=\"col-custom\" title=\"Spinx\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Spinx\" src=\"https://img-cdn.hltv.org/playerbodyshot/hm9ckLb3eD78VZSpRT8sH-.png?ixlib=java-2.1.0&amp;w=400&amp;s=8e01a31490335fe56f469e2ea186c31a\" class=\"bodyshot-team-img\" title=\"Lotan 'Spinx' Giladi\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Israel\" src=\"/img/static/flags/30x20/IL.gif\" class=\"flag\" title=\"Israel\"> </span><span class=\"text-ellipsis bold\">Spinx</span></div></div></div></a><a href=\"/player/20312/xertion\" class=\"col-custom\" title=\"xertioN\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player xertioN\" src=\"https://img-cdn.hltv.org/playerbodyshot/d27M8GVSaQYgRfmBJnBpkE.png?ixlib=java-2.1.0&amp;w=400&amp;s=aff5b6409249a3c87412e15c4e7ea4e2\" class=\"bodyshot-team-img\" title=\"Dorian 'xertioN' Berman\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Israel\" src=\"/img/static/flags/30x20/IL.gif\" class=\"flag\" title=\"Israel\"> </span><span class=\"text-ellipsis bold\">xertioN</span></div></div></div></a><a href=\"/player/22279/pr\" class=\"col-custom\" title=\"PR\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player PR\" src=\"https://img-cdn.hltv.org/playerbodyshot/DO6ik7s3E-z96wKhFQXD1A.png?ixlib=java-2.1.0&amp;w=400&amp;s=762c3d2f1310e70648a70d240b347bf4\" class=\"bodyshot-team-img\" title=\"Oldřich 'PR' Nový\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Czech Republic\" src=\"/img/static/flags/30x20/CZ.gif\" class=\"flag\" title=\"Czech Republic\"> </span><span class=\"text-ellipsis bold\">PR</span></div></div></div></a><a href=\"/player/24457/xelex\" class=\"col-custom\" title=\"xelex\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player xelex\" src=\"https://img-cdn.hltv.org/playerbodyshot/EA2EJPIjte0zKwqxN2IZk2.png?ixlib=java-2.1.0&amp;w=400&amp;s=780792677ecbfe5b2fecb6808e8d70fe\" class=\"bodyshot-team-img\" title=\"Adrian 'xelex' Vincze\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Hungary\" src=\"/img/static/flags/30x20/HU.gif\" class=\"flag\" title=\"Hungary\"> </span><span class=\"text-ellipsis bold\">xelex</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Aurora",
+    "url": "https://www.hltv.org/team/11861/aurora",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 7938,
+        "nickname": "XANTARES",
+        "url": "/player/7938/xantares"
+      },
+      {
+        "id": 8574,
+        "nickname": "woxic",
+        "url": "/player/8574/woxic"
+      },
+      {
+        "id": 18850,
+        "nickname": "Jimpphat",
+        "url": "/player/18850/jimpphat"
+      },
+      {
+        "id": 19677,
+        "nickname": "kyxsan",
+        "url": "/player/19677/kyxsan"
+      },
+      {
+        "id": 21243,
+        "nickname": "Wicadia",
+        "url": "/player/21243/wicadia"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/7938/xantares\" class=\"col-custom\" title=\"XANTARES\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player XANTARES\" src=\"https://img-cdn.hltv.org/playerbodyshot/9zPNSNo_4XxREmOgFhVWY8.png?ixlib=java-2.1.0&amp;w=400&amp;s=921783f5c5bd3d054acef1f62eb92dd5\" class=\"bodyshot-team-img\" title=\"Ismailcan 'XANTARES' Dörtkardeş\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Türkiye\" src=\"/img/static/flags/30x20/TR.gif\" class=\"flag\" title=\"Türkiye\"> </span><span class=\"text-ellipsis bold\">XANTARES</span></div></div></div></a><a href=\"/player/8574/woxic\" class=\"col-custom\" title=\"woxic\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player woxic\" src=\"https://img-cdn.hltv.org/playerbodyshot/HwdtHmtO-pl5oKVeVJqhP1.png?ixlib=java-2.1.0&amp;w=400&amp;s=1565383f86356916f098e1969e0495d2\" class=\"bodyshot-team-img\" title=\"Özgür 'woxic' Eker\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Türkiye\" src=\"/img/static/flags/30x20/TR.gif\" class=\"flag\" title=\"Türkiye\"> </span><span class=\"text-ellipsis bold\">woxic</span></div></div></div></a><a href=\"/player/18850/jimpphat\" class=\"col-custom\" title=\"Jimpphat\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Jimpphat\" src=\"https://img-cdn.hltv.org/playerbodyshot/YV17JXjtrMTI4G0LULROlE.png?ixlib=java-2.1.0&amp;w=400&amp;s=429021ee8e8ce7cfced630caa82ea4a2\" class=\"bodyshot-team-img\" title=\"Jimi 'Jimpphat' Salo\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Finland\" src=\"/img/static/flags/30x20/FI.gif\" class=\"flag\" title=\"Finland\"> </span><span class=\"text-ellipsis bold\">Jimpphat</span></div></div></div></a><a href=\"/player/19677/kyxsan\" class=\"col-custom\" title=\"kyxsan\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player kyxsan\" src=\"https://img-cdn.hltv.org/playerbodyshot/J0y8JcMMhuMg9oZ5VhrrIp.png?ixlib=java-2.1.0&amp;w=400&amp;s=73d96af92e3e63ee59559bdcca2d7ffe\" class=\"bodyshot-team-img\" title=\"Damjan 'kyxsan' Stoilkovski\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"North Macedonia\" src=\"/img/static/flags/30x20/MK.gif\" class=\"flag\" title=\"North Macedonia\"> </span><span class=\"text-ellipsis bold\">kyxsan</span></div></div></div></a><a href=\"/player/21243/wicadia\" class=\"col-custom\" title=\"Wicadia\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Wicadia\" src=\"https://img-cdn.hltv.org/playerbodyshot/Ewe2uyIIaNKBDTs_Zkv-PC.png?ixlib=java-2.1.0&amp;w=400&amp;s=0b4cbf6f3252f3233b39257551870f26\" class=\"bodyshot-team-img\" title=\"Ali 'Wicadia' Haydar Yalçın\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Türkiye\" src=\"/img/static/flags/30x20/TR.gif\" class=\"flag\" title=\"Türkiye\"> </span><span class=\"text-ellipsis bold\">Wicadia</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Falcons",
+    "url": "https://www.hltv.org/team/11283/falcons",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 429,
+        "nickname": "karrigan",
+        "url": "/player/429/karrigan"
+      },
+      {
+        "id": 3741,
+        "nickname": "NiKo",
+        "url": "/player/3741/niko"
+      },
+      {
+        "id": 12018,
+        "nickname": "TeSeS",
+        "url": "/player/12018/teses"
+      },
+      {
+        "id": 19230,
+        "nickname": "m0NESY",
+        "url": "/player/19230/m0nesy"
+      },
+      {
+        "id": 24177,
+        "nickname": "kyousuke",
+        "url": "/player/24177/kyousuke"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/429/karrigan\" class=\"col-custom\" title=\"karrigan\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player karrigan\" src=\"https://img-cdn.hltv.org/playerbodyshot/4nm-v1aawxy5SUrv81H9JZ.png?ixlib=java-2.1.0&amp;w=400&amp;s=5dd93d8662a38f7eae1780cc2ba7dbe7\" class=\"bodyshot-team-img\" title=\"Finn 'karrigan' Andersen\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Denmark\" src=\"/img/static/flags/30x20/DK.gif\" class=\"flag\" title=\"Denmark\"> </span><span class=\"text-ellipsis bold\">karrigan</span></div></div></div></a><a href=\"/player/3741/niko\" class=\"col-custom\" title=\"NiKo\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player NiKo\" src=\"https://img-cdn.hltv.org/playerbodyshot/ZPB6zop8FumkqqbHl8BGos.png?ixlib=java-2.1.0&amp;w=400&amp;s=a81b4da0555bb1f3599bd3ca854f5515\" class=\"bodyshot-team-img\" title=\"Nikola 'NiKo' Kovač\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Bosnia and Herzegovina\" src=\"/img/static/flags/30x20/BA.gif\" class=\"flag\" title=\"Bosnia and Herzegovina\"> </span><span class=\"text-ellipsis bold\">NiKo</span></div></div></div></a><a href=\"/player/12018/teses\" class=\"col-custom\" title=\"TeSeS\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player TeSeS\" src=\"https://img-cdn.hltv.org/playerbodyshot/8WRqHyjmzJ6HqrG6ZkQ1Vh.png?ixlib=java-2.1.0&amp;w=400&amp;s=49e132ae6b4902017caa625d9206bca3\" class=\"bodyshot-team-img\" title=\"René 'TeSeS' Madsen\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Denmark\" src=\"/img/static/flags/30x20/DK.gif\" class=\"flag\" title=\"Denmark\"> </span><span class=\"text-ellipsis bold\">TeSeS</span></div></div></div></a><a href=\"/player/19230/m0nesy\" class=\"col-custom\" title=\"m0NESY\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player m0NESY\" src=\"https://img-cdn.hltv.org/playerbodyshot/Xn6RSL5KIFiD6hXiBseskM.png?ixlib=java-2.1.0&amp;w=400&amp;s=f65656a3af86ed20f055cc25e35dc8e9\" class=\"bodyshot-team-img\" title=\"Ilya 'm0NESY' Osipov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">m0NESY</span></div></div></div></a><a href=\"/player/24177/kyousuke\" class=\"col-custom\" title=\"kyousuke\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player kyousuke\" src=\"https://img-cdn.hltv.org/playerbodyshot/hkLE4eILVbTT3QigB1gFqp.png?ixlib=java-2.1.0&amp;w=400&amp;s=3e95d87dd9b57017eddaacb6777db1a2\" class=\"bodyshot-team-img\" title=\"Maksim 'kyousuke' Lukin\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">kyousuke</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Legacy",
+    "url": "https://www.hltv.org/team/12468/legacy",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 12521,
+        "nickname": "arT",
+        "url": "/player/12521/art"
+      },
+      {
+        "id": 15698,
+        "nickname": "dumau",
+        "url": "/player/15698/dumau"
+      },
+      {
+        "id": 19045,
+        "nickname": "latto",
+        "url": "/player/19045/latto"
+      },
+      {
+        "id": 19686,
+        "nickname": "n1ssim",
+        "url": "/player/19686/n1ssim"
+      },
+      {
+        "id": 19869,
+        "nickname": "try",
+        "url": "/player/19869/try"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/12521/art\" class=\"col-custom\" title=\"arT\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player arT\" src=\"https://img-cdn.hltv.org/playerbodyshot/mY31sKAC0TCq8OFQFYXdSu.png?ixlib=java-2.1.0&amp;w=400&amp;s=36c2077b6fd8eac345e158f9a51ce707\" class=\"bodyshot-team-img\" title=\"Andrei 'arT' Piovezan\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Brazil\" src=\"/img/static/flags/30x20/BR.gif\" class=\"flag\" title=\"Brazil\"> </span><span class=\"text-ellipsis bold\">arT</span></div></div></div></a><a href=\"/player/15698/dumau\" class=\"col-custom\" title=\"dumau\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player dumau\" src=\"https://img-cdn.hltv.org/playerbodyshot/ecujpGo_puxT2yvT2tGEtU.png?ixlib=java-2.1.0&amp;w=400&amp;s=5d6203a0ff287702bf9683e61380845f\" class=\"bodyshot-team-img\" title=\"Eduardo 'dumau' Wolkmer\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Brazil\" src=\"/img/static/flags/30x20/BR.gif\" class=\"flag\" title=\"Brazil\"> </span><span class=\"text-ellipsis bold\">dumau</span></div></div></div></a><a href=\"/player/19045/latto\" class=\"col-custom\" title=\"latto\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player latto\" src=\"https://img-cdn.hltv.org/playerbodyshot/nsIoZ5CzHzKTNrzAzyZC8A.png?ixlib=java-2.1.0&amp;w=400&amp;s=68c1267b5e46efab9bcea75edbea7322\" class=\"bodyshot-team-img\" title=\"Bruno 'latto' Rebelatto\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Brazil\" src=\"/img/static/flags/30x20/BR.gif\" class=\"flag\" title=\"Brazil\"> </span><span class=\"text-ellipsis bold\">latto</span></div></div></div></a><a href=\"/player/19686/n1ssim\" class=\"col-custom\" title=\"n1ssim\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player n1ssim\" src=\"https://img-cdn.hltv.org/playerbodyshot/tdmgw5r5MdgPqlXgknmDvp.png?ixlib=java-2.1.0&amp;w=400&amp;s=9dab03dc5b581fba215b362f27a06087\" class=\"bodyshot-team-img\" title=\"Vinicius 'n1ssim' Pereira\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Brazil\" src=\"/img/static/flags/30x20/BR.gif\" class=\"flag\" title=\"Brazil\"> </span><span class=\"text-ellipsis bold\">n1ssim</span></div></div></div></a><a href=\"/player/19869/try\" class=\"col-custom\" title=\"try\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player try\" src=\"https://img-cdn.hltv.org/playerbodyshot/edOqUc2wopt2i4zO3Akty-.png?ixlib=java-2.1.0&amp;w=400&amp;s=2c50cca38c450a223e38048ee9d409fb\" class=\"bodyshot-team-img\" title=\"Santino 'try' Rigal\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Argentina\" src=\"/img/static/flags/30x20/AR.gif\" class=\"flag\" title=\"Argentina\"> </span><span class=\"text-ellipsis bold\">try</span></div></div></div></a></div>"
+  },
+  {
+    "team": "G2",
+    "url": "https://www.hltv.org/team/5995/g2",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 3972,
+        "nickname": "huNter-",
+        "url": "/player/3972/hunter"
+      },
+      {
+        "id": 9436,
+        "nickname": "NertZ",
+        "url": "/player/9436/nertz"
+      },
+      {
+        "id": 20425,
+        "nickname": "r1nkle",
+        "url": "/player/20425/r1nkle"
+      },
+      {
+        "id": 20447,
+        "nickname": "HeavyGod",
+        "url": "/player/20447/heavygod"
+      },
+      {
+        "id": 21062,
+        "nickname": "MATYS",
+        "url": "/player/21062/matys"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/3972/hunter\" class=\"col-custom\" title=\"huNter-\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player huNter-\" src=\"https://img-cdn.hltv.org/playerbodyshot/t1LYbcudTc6d2iau4tqN-8.png?ixlib=java-2.1.0&amp;w=400&amp;s=baabaae08e34d87461f3f42644f13957\" class=\"bodyshot-team-img\" title=\"Nemanja 'huNter-' Kovač\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Bosnia and Herzegovina\" src=\"/img/static/flags/30x20/BA.gif\" class=\"flag\" title=\"Bosnia and Herzegovina\"> </span><span class=\"text-ellipsis bold\">huNter-</span></div></div></div></a><a href=\"/player/9436/nertz\" class=\"col-custom\" title=\"NertZ\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player NertZ\" src=\"https://img-cdn.hltv.org/playerbodyshot/6NpXCWi632T7Ne7nO372ql.png?ixlib=java-2.1.0&amp;w=400&amp;s=a26996dd9356580421735171da527435\" class=\"bodyshot-team-img\" title=\"Guy 'NertZ' Iluz\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Israel\" src=\"/img/static/flags/30x20/IL.gif\" class=\"flag\" title=\"Israel\"> </span><span class=\"text-ellipsis bold\">NertZ</span></div></div></div></a><a href=\"/player/20425/r1nkle\" class=\"col-custom\" title=\"r1nkle\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player r1nkle\" src=\"https://img-cdn.hltv.org/playerbodyshot/6OpaX4K1fJ7yFMn-rtUrCV.png?ixlib=java-2.1.0&amp;w=400&amp;s=623d9bd7021fcb2f5ec3f84b075009c9\" class=\"bodyshot-team-img\" title=\"Artem 'r1nkle' Moroz\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">r1nkle</span></div></div></div></a><a href=\"/player/20447/heavygod\" class=\"col-custom\" title=\"HeavyGod\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player HeavyGod\" src=\"https://img-cdn.hltv.org/playerbodyshot/W7ENc6jtdpnlJ98iCkLCFM.png?ixlib=java-2.1.0&amp;w=400&amp;s=56e496ebd7376bebbf57761369186fef\" class=\"bodyshot-team-img\" title=\"Nikita 'HeavyGod' Martynenko\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Israel\" src=\"/img/static/flags/30x20/IL.gif\" class=\"flag\" title=\"Israel\"> </span><span class=\"text-ellipsis bold\">HeavyGod</span></div></div></div></a><a href=\"/player/21062/matys\" class=\"col-custom\" title=\"MATYS\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player MATYS\" src=\"https://img-cdn.hltv.org/playerbodyshot/JluNok7czCXoXiPwrhQjgk.png?ixlib=java-2.1.0&amp;w=400&amp;s=2eb8d06a59b4c48fb64a4312971c3e8f\" class=\"bodyshot-team-img\" title=\"Matúš 'MATYS' Šimko\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Slovakia\" src=\"/img/static/flags/30x20/SK.gif\" class=\"flag\" title=\"Slovakia\"> </span><span class=\"text-ellipsis bold\">MATYS</span></div></div></div></a></div>"
+  },
+  {
+    "team": "BETBOOM",
+    "url": "https://www.hltv.org/team/12394/betboom",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 11840,
+        "nickname": "Boombl4",
+        "url": "/player/11840/boombl4"
+      },
+      {
+        "id": 15662,
+        "nickname": "zorte",
+        "url": "/player/15662/zorte"
+      },
+      {
+        "id": 18506,
+        "nickname": "S1ren",
+        "url": "/player/18506/s1ren"
+      },
+      {
+        "id": 20357,
+        "nickname": "d1Ledez",
+        "url": "/player/20357/d1ledez"
+      },
+      {
+        "id": 21667,
+        "nickname": "Magnojez",
+        "url": "/player/21667/magnojez"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/11840/boombl4\" class=\"col-custom\" title=\"Boombl4\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Boombl4\" src=\"https://img-cdn.hltv.org/playerbodyshot/v8MBOUd9K8F0zZZp_5gQWq.png?ixlib=java-2.1.0&amp;w=400&amp;s=5375b78741f2a06382c4ade05cc6d4a2\" class=\"bodyshot-team-img\" title=\"Kirill 'Boombl4' Mikhailov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">Boombl4</span></div></div></div></a><a href=\"/player/15662/zorte\" class=\"col-custom\" title=\"zorte\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player zorte\" src=\"https://img-cdn.hltv.org/playerbodyshot/dc_LmDPTQxHE4C3W7Mz2FZ.png?ixlib=java-2.1.0&amp;w=400&amp;s=f82e43fae90fc04f55b84a8ed8a07f88\" class=\"bodyshot-team-img\" title=\"Aleksandr 'zorte' Zagodyrenko\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">zorte</span></div></div></div></a><a href=\"/player/18506/s1ren\" class=\"col-custom\" title=\"S1ren\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player S1ren\" src=\"https://img-cdn.hltv.org/playerbodyshot/z2xh6sCPYlj4MWi6oLyS53.png?ixlib=java-2.1.0&amp;w=400&amp;s=12a04da722fbe7f9645889e9875b6f6b\" class=\"bodyshot-team-img\" title=\"Pavel 'S1ren' Ogloblin\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">S1ren</span></div></div></div></a><a href=\"/player/20357/d1ledez\" class=\"col-custom\" title=\"d1Ledez\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player d1Ledez\" src=\"https://img-cdn.hltv.org/playerbodyshot/93RqXONiJJR2QH-Fwg3AYm.png?ixlib=java-2.1.0&amp;w=400&amp;s=5173f549c92068fc34e484cdf6e773a8\" class=\"bodyshot-team-img\" title=\"Daniil 'd1Ledez' Kustov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">d1Ledez</span></div></div></div></a><a href=\"/player/21667/magnojez\" class=\"col-custom\" title=\"Magnojez\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Magnojez\" src=\"https://img-cdn.hltv.org/playerbodyshot/1bG6I_PErNjX_2YKo5168k.png?ixlib=java-2.1.0&amp;w=400&amp;s=50da17735920844dfa94c258e546347f\" class=\"bodyshot-team-img\" title=\"Kirill 'Magnojez' Rodnov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">Magnojez</span></div></div></div></a></div>"
+  },
+  {
+    "team": "FUT",
+    "url": "https://www.hltv.org/team/13286/fut",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 19164,
+        "nickname": "SunPayus",
+        "url": "/player/19164/sunpayus"
+      },
+      {
+        "id": 19187,
+        "nickname": "xfl0ud",
+        "url": "/player/19187/xfl0ud"
+      },
+      {
+        "id": 20584,
+        "nickname": "dem0n",
+        "url": "/player/20584/dem0n"
+      },
+      {
+        "id": 22203,
+        "nickname": "Krabeni",
+        "url": "/player/22203/krabeni"
+      },
+      {
+        "id": 23553,
+        "nickname": "dziugss",
+        "url": "/player/23553/dziugss"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/19164/sunpayus\" class=\"col-custom\" title=\"SunPayus\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player SunPayus\" src=\"https://img-cdn.hltv.org/playerbodyshot/lBSCuct0c7EwbBKHVL4m8e.png?ixlib=java-2.1.0&amp;w=400&amp;s=0c46c9c507fae1be16559fdb0313ee63\" class=\"bodyshot-team-img\" title=\"Álvaro 'SunPayus' García\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Spain\" src=\"/img/static/flags/30x20/ES.gif\" class=\"flag\" title=\"Spain\"> </span><span class=\"text-ellipsis bold\">SunPayus</span></div></div></div></a><a href=\"/player/19187/xfl0ud\" class=\"col-custom\" title=\"xfl0ud\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player xfl0ud\" src=\"https://img-cdn.hltv.org/playerbodyshot/yTyKt5QTtDhtTOTIUuRtOd.png?ixlib=java-2.1.0&amp;w=400&amp;s=80bf4967b6a633bbc0e989fb066b20b5\" class=\"bodyshot-team-img\" title=\"Yasin 'xfl0ud' Koç\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Türkiye\" src=\"/img/static/flags/30x20/TR.gif\" class=\"flag\" title=\"Türkiye\"> </span><span class=\"text-ellipsis bold\">xfl0ud</span></div></div></div></a><a href=\"/player/20584/dem0n\" class=\"col-custom\" title=\"dem0n\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player dem0n\" src=\"https://img-cdn.hltv.org/playerbodyshot/8vdNoQ4bmcWPDmuhCDaJv7.png?ixlib=java-2.1.0&amp;w=400&amp;s=76bc25b4440d5f0de8c0192e0e49734c\" class=\"bodyshot-team-img\" title=\"Dmytro 'dem0n' Myroshnychenko\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">dem0n</span></div></div></div></a><a href=\"/player/22203/krabeni\" class=\"col-custom\" title=\"Krabeni\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Krabeni\" src=\"https://img-cdn.hltv.org/playerbodyshot/kcyl7BuE4C4otOtVCpg5w1.png?ixlib=java-2.1.0&amp;w=400&amp;s=6caaba1568f6522e95f90d371fd3e1dd\" class=\"bodyshot-team-img\" title=\"Aulon 'Krabeni' Fazlija\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Kosovo\" src=\"/img/static/flags/30x20/XK.gif\" class=\"flag\" title=\"Kosovo\"> </span><span class=\"text-ellipsis bold\">Krabeni</span></div></div></div></a><a href=\"/player/23553/dziugss\" class=\"col-custom\" title=\"dziugss\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player dziugss\" src=\"https://img-cdn.hltv.org/playerbodyshot/eTJu4sdB8MJJ97ixYS1Q8i.png?ixlib=java-2.1.0&amp;w=400&amp;s=42a225e58635602bd46ec5011e2b059c\" class=\"bodyshot-team-img\" title=\"Džiugas 'dziugss' Steponavičius\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Lithuania\" src=\"/img/static/flags/30x20/LT.gif\" class=\"flag\" title=\"Lithuania\"> </span><span class=\"text-ellipsis bold\">dziugss</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Natus Vincere",
+    "url": "https://www.hltv.org/team/4608/natus-vincere",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 9816,
+        "nickname": "Aleksib",
+        "url": "/player/9816/aleksib"
+      },
+      {
+        "id": 14759,
+        "nickname": "iM",
+        "url": "/player/14759/im"
+      },
+      {
+        "id": 18987,
+        "nickname": "b1t",
+        "url": "/player/18987/b1t"
+      },
+      {
+        "id": 20127,
+        "nickname": "w0nderful",
+        "url": "/player/20127/w0nderful"
+      },
+      {
+        "id": 22673,
+        "nickname": "makazze",
+        "url": "/player/22673/makazze"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/9816/aleksib\" class=\"col-custom\" title=\"Aleksib\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Aleksib\" src=\"https://img-cdn.hltv.org/playerbodyshot/7-TvianW79yWk13gdw-Jc5.png?ixlib=java-2.1.0&amp;w=400&amp;s=f94eda5a77f332bc02821e6b845ca207\" class=\"bodyshot-team-img\" title=\"Aleksi 'Aleksib' Virolainen\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Finland\" src=\"/img/static/flags/30x20/FI.gif\" class=\"flag\" title=\"Finland\"> </span><span class=\"text-ellipsis bold\">Aleksib</span></div></div></div></a><a href=\"/player/14759/im\" class=\"col-custom\" title=\"iM\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player iM\" src=\"https://img-cdn.hltv.org/playerbodyshot/lWNcoOFOcHF3uIERANZRXh.png?ixlib=java-2.1.0&amp;w=400&amp;s=cd5df4d5e89df8cab0e4a7edd6db0d8b\" class=\"bodyshot-team-img\" title=\"Mihai 'iM' Ivan\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Romania\" src=\"/img/static/flags/30x20/RO.gif\" class=\"flag\" title=\"Romania\"> </span><span class=\"text-ellipsis bold\">iM</span></div></div></div></a><a href=\"/player/18987/b1t\" class=\"col-custom\" title=\"b1t\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player b1t\" src=\"https://img-cdn.hltv.org/playerbodyshot/CgO3veixSYH5OMIePtwp1u.png?ixlib=java-2.1.0&amp;w=400&amp;s=1b5f0f326bf822540d59ae246c1b7e65\" class=\"bodyshot-team-img\" title=\"Valeriy 'b1t' Vakhovskiy\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">b1t</span></div></div></div></a><a href=\"/player/20127/w0nderful\" class=\"col-custom\" title=\"w0nderful\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player w0nderful\" src=\"https://img-cdn.hltv.org/playerbodyshot/OepRRBoc68iVojIfgK3JIA.png?ixlib=java-2.1.0&amp;w=400&amp;s=99dcc1115ffec1ed275a5cf4eacca825\" class=\"bodyshot-team-img\" title=\"Ihor 'w0nderful' Zhdanov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">w0nderful</span></div></div></div></a><a href=\"/player/22673/makazze\" class=\"col-custom\" title=\"makazze\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player makazze\" src=\"https://img-cdn.hltv.org/playerbodyshot/U6KmIKHcqg2OpMrNn-Aqk6.png?ixlib=java-2.1.0&amp;w=400&amp;s=420f1bcb0e6943b68fafb5e2d933197c\" class=\"bodyshot-team-img\" title=\"Drin 'makazze' Shaqiri\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Kosovo\" src=\"/img/static/flags/30x20/XK.gif\" class=\"flag\" title=\"Kosovo\"> </span><span class=\"text-ellipsis bold\">makazze</span></div></div></div></a></div>"
+  },
+  {
+    "team": "MIBR",
+    "url": "https://www.hltv.org/team/9215/mibr",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 19310,
+        "nickname": "LNZ",
+        "url": "/player/19310/lnz"
+      },
+      {
+        "id": 19694,
+        "nickname": "nqz",
+        "url": "/player/19694/nqz"
+      },
+      {
+        "id": 21037,
+        "nickname": "insani",
+        "url": "/player/21037/insani"
+      },
+      {
+        "id": 21288,
+        "nickname": "venomzera",
+        "url": "/player/21288/venomzera"
+      },
+      {
+        "id": 22570,
+        "nickname": "tomaszin",
+        "url": "/player/22570/tomaszin"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/19310/lnz\" class=\"col-custom\" title=\"LNZ\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player LNZ\" src=\"https://img-cdn.hltv.org/playerbodyshot/TCLjLd7ECpqwXpRMSXgn0Y.png?ixlib=java-2.1.0&amp;w=400&amp;s=fb61e86abbb773b8734ccf13cfbac31e\" class=\"bodyshot-team-img\" title=\"Linus 'LNZ' Holtäng\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">LNZ</span></div></div></div></a><a href=\"/player/19694/nqz\" class=\"col-custom\" title=\"nqz\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player nqz\" src=\"https://img-cdn.hltv.org/playerbodyshot/AAvHJ-yrDpW6YuaUsllly4.png?ixlib=java-2.1.0&amp;w=400&amp;s=1288f9523d362a4f4ab1dd54ca330c9b\" class=\"bodyshot-team-img\" title=\"Lucas 'nqz' Soares\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Brazil\" src=\"/img/static/flags/30x20/BR.gif\" class=\"flag\" title=\"Brazil\"> </span><span class=\"text-ellipsis bold\">nqz</span></div></div></div></a><a href=\"/player/21037/insani\" class=\"col-custom\" title=\"insani\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player insani\" src=\"https://img-cdn.hltv.org/playerbodyshot/ahr2XJlGk-UU7V3UOtFvwd.png?ixlib=java-2.1.0&amp;w=400&amp;s=b4e9f92f5da6868806118cd4b0ae227a\" class=\"bodyshot-team-img\" title=\"Felipe 'insani' Yuji\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Brazil\" src=\"/img/static/flags/30x20/BR.gif\" class=\"flag\" title=\"Brazil\"> </span><span class=\"text-ellipsis bold\">insani</span></div></div></div></a><a href=\"/player/21288/venomzera\" class=\"col-custom\" title=\"venomzera\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player venomzera\" src=\"https://img-cdn.hltv.org/playerbodyshot/-3fdPMoH4RebMdhWQ72i2O.png?ixlib=java-2.1.0&amp;w=400&amp;s=98c8c49a9cb4b7a2c55a8302e091dae3\" class=\"bodyshot-team-img\" title=\"Carlos 'venomzera' Eduardo\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Brazil\" src=\"/img/static/flags/30x20/BR.gif\" class=\"flag\" title=\"Brazil\"> </span><span class=\"text-ellipsis bold\">venomzera</span></div></div></div></a><a href=\"/player/22570/tomaszin\" class=\"col-custom\" title=\"tomaszin\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player tomaszin\" src=\"https://img-cdn.hltv.org/playerbodyshot/6-QQquZa6wHi2McLFNQDvH.png?ixlib=java-2.1.0&amp;w=400&amp;s=a34903ed6cf250c2314878a963c0da7f\" class=\"bodyshot-team-img\" title=\"Tomas 'tomaszin' Corna\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Argentina\" src=\"/img/static/flags/30x20/AR.gif\" class=\"flag\" title=\"Argentina\"> </span><span class=\"text-ellipsis bold\">tomaszin</span></div></div></div></a></div>"
+  },
+  {
+    "team": "PARIVISION",
+    "url": "https://www.hltv.org/team/12467/parivision",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 8528,
+        "nickname": "HObbit",
+        "url": "/player/8528/hobbit"
+      },
+      {
+        "id": 12732,
+        "nickname": "FL1T",
+        "url": "/player/12732/fl1t"
+      },
+      {
+        "id": 13776,
+        "nickname": "Jame",
+        "url": "/player/13776/jame"
+      },
+      {
+        "id": 22471,
+        "nickname": "xiELO",
+        "url": "/player/22471/xielo"
+      },
+      {
+        "id": 23685,
+        "nickname": "zweih",
+        "url": "/player/23685/zweih"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/8528/hobbit\" class=\"col-custom\" title=\"HObbit\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player HObbit\" src=\"https://img-cdn.hltv.org/playerbodyshot/mgwTqW5HFPk3uvDSdsUWnA.png?ixlib=java-2.1.0&amp;w=400&amp;s=75be82e42b0f8ab502b9e38525da4773\" class=\"bodyshot-team-img\" title=\"Abay 'HObbit' Khassenov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Kazakhstan\" src=\"/img/static/flags/30x20/KZ.gif\" class=\"flag\" title=\"Kazakhstan\"> </span><span class=\"text-ellipsis bold\">HObbit</span></div></div></div></a><a href=\"/player/12732/fl1t\" class=\"col-custom\" title=\"FL1T\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player FL1T\" src=\"https://img-cdn.hltv.org/playerbodyshot/EoqPcZD7CmgJTuID8cBlFb.png?ixlib=java-2.1.0&amp;w=400&amp;s=cacba56f2a906d625a5623e5a7b70f09\" class=\"bodyshot-team-img\" title=\"Evgenii 'FL1T' Lebedev\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">FL1T</span></div></div></div></a><a href=\"/player/13776/jame\" class=\"col-custom\" title=\"Jame\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player Jame\" src=\"https://img-cdn.hltv.org/playerbodyshot/poatsoxwv_ne6Col6VJLg7.png?ixlib=java-2.1.0&amp;w=400&amp;s=e497d659582a13880c16cd55a6fe6847\" class=\"bodyshot-team-img\" title=\"Dzhami 'Jame' Ali\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">Jame</span></div></div></div></a><a href=\"/player/22471/xielo\" class=\"col-custom\" title=\"xiELO\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player xiELO\" src=\"https://img-cdn.hltv.org/playerbodyshot/HIMvZS3P0EL5jlbiX2a-E8.png?ixlib=java-2.1.0&amp;w=400&amp;s=a8841b9a35372c8afe22bac0a5515159\" class=\"bodyshot-team-img\" title=\"Vladislav 'xiELO' Lysov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">xiELO</span></div></div></div></a><a href=\"/player/23685/zweih\" class=\"col-custom\" title=\"zweih\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player zweih\" src=\"https://img-cdn.hltv.org/playerbodyshot/cTLzpQ529TArTb_GRjMofz.png?ixlib=java-2.1.0&amp;w=400&amp;s=ca8cc4ae8e2af9bca6974ee63d5b70af\" class=\"bodyshot-team-img\" title=\"Ivan 'zweih' Gogin\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">zweih</span></div></div></div></a></div>"
+  },
+  {
+    "team": "1win",
+    "url": "https://www.hltv.org/team/10621/1win",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 16555,
+        "nickname": "Ax1Le",
+        "url": "/player/16555/ax1le"
+      },
+      {
+        "id": 16921,
+        "nickname": "nafany",
+        "url": "/player/16921/nafany"
+      },
+      {
+        "id": 19235,
+        "nickname": "BELCHONOKK",
+        "url": "/player/19235/belchonokk"
+      },
+      {
+        "id": 20101,
+        "nickname": "fame",
+        "url": "/player/20101/fame"
+      },
+      {
+        "id": 21348,
+        "nickname": "ArtFr0st",
+        "url": "/player/21348/artfr0st"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/16555/ax1le\" class=\"col-custom\" title=\"Ax1Le\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Ax1Le\" src=\"https://img-cdn.hltv.org/playerbodyshot/ntYP8mELmJ1smjARcMlC3y.png?ixlib=java-2.1.0&amp;w=400&amp;s=f78eadb745bf37f7ff69dde04434d32d\" class=\"bodyshot-team-img\" title=\"Sergey 'Ax1Le' Rykhtorov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">Ax1Le</span></div></div></div></a><a href=\"/player/16921/nafany\" class=\"col-custom\" title=\"nafany\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player nafany\" src=\"https://img-cdn.hltv.org/playerbodyshot/dSg9OMulDoqozN3nOSb8QK.png?ixlib=java-2.1.0&amp;w=400&amp;s=902549f3d86d8812ef5b79b769d09fe0\" class=\"bodyshot-team-img\" title=\"Vladislav 'nafany' Gorshkov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">nafany</span></div></div></div></a><a href=\"/player/19235/belchonokk\" class=\"col-custom\" title=\"BELCHONOKK\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player BELCHONOKK\" src=\"https://img-cdn.hltv.org/playerbodyshot/OYGY7Splm6wp1d8nSQ2pL0.png?ixlib=java-2.1.0&amp;w=400&amp;s=fa7638ccb29d6a5f5e485e4be85d3a60\" class=\"bodyshot-team-img\" title=\"Andrey 'BELCHONOKK' Yasinskiy\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">BELCHONOKK</span></div></div></div></a><a href=\"/player/20101/fame\" class=\"col-custom\" title=\"fame\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player fame\" src=\"https://img-cdn.hltv.org/playerbodyshot/ri5pmJ3fwl1OWFi9Alvo7j.png?ixlib=java-2.1.0&amp;w=400&amp;s=c2df38e0ec08ebb70ac7adb49c3479d1\" class=\"bodyshot-team-img\" title=\"Petr 'fame' Bolyshev\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">fame</span></div></div></div></a><a href=\"/player/21348/artfr0st\" class=\"col-custom\" title=\"ArtFr0st\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player ArtFr0st\" src=\"https://img-cdn.hltv.org/playerbodyshot/S0qOsxDpL5n36u4TWtHT3k.png?ixlib=java-2.1.0&amp;w=400&amp;s=30c5fbd620be02021bb2ad817aa0a4dc\" class=\"bodyshot-team-img\" title=\"Artem 'ArtFr0st' Kharitonov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">ArtFr0st</span></div></div></div></a></div>"
+  },
+  {
+    "team": "9z",
+    "url": "https://www.hltv.org/team/9996/9z",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 12092,
+        "nickname": "max",
+        "url": "/player/12092/max"
+      },
+      {
+        "id": 14736,
+        "nickname": "dgt",
+        "url": "/player/14736/dgt"
+      },
+      {
+        "id": 14737,
+        "nickname": "meyern",
+        "url": "/player/14737/meyern"
+      },
+      {
+        "id": 20394,
+        "nickname": "luchov",
+        "url": "/player/20394/luchov"
+      },
+      {
+        "id": 22613,
+        "nickname": "HUASOPEEK",
+        "url": "/player/22613/huasopeek"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/12092/max\" class=\"col-custom\" title=\"max\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player max\" src=\"https://img-cdn.hltv.org/playerbodyshot/vPT97tKV6UdEu6QPI8oPew.png?ixlib=java-2.1.0&amp;w=400&amp;s=4f8932410e2ff307ec8e934b4f63eba5\" class=\"bodyshot-team-img\" title=\"Maximiliano 'max' Gonzalez\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Uruguay\" src=\"/img/static/flags/30x20/UY.gif\" class=\"flag\" title=\"Uruguay\"> </span><span class=\"text-ellipsis bold\">max</span></div></div></div></a><a href=\"/player/14736/dgt\" class=\"col-custom\" title=\"dgt\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player dgt\" src=\"https://img-cdn.hltv.org/playerbodyshot/6WgYZCFU9Si5ZpP8-Mx2Xc.png?ixlib=java-2.1.0&amp;w=400&amp;s=c85964b03b119712205b02cc19a1ab11\" class=\"bodyshot-team-img\" title=\"Franco 'dgt' Garcia\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Uruguay\" src=\"/img/static/flags/30x20/UY.gif\" class=\"flag\" title=\"Uruguay\"> </span><span class=\"text-ellipsis bold\">dgt</span></div></div></div></a><a href=\"/player/14737/meyern\" class=\"col-custom\" title=\"meyern\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player meyern\" src=\"https://img-cdn.hltv.org/playerbodyshot/IChotzP5mVSrqVy4PTHYzK.png?ixlib=java-2.1.0&amp;w=400&amp;s=963f6554d0eaa1ae9924c4e9f4188d0f\" class=\"bodyshot-team-img\" title=\"Ignacio 'meyern' Meyer\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Argentina\" src=\"/img/static/flags/30x20/AR.gif\" class=\"flag\" title=\"Argentina\"> </span><span class=\"text-ellipsis bold\">meyern</span></div></div></div></a><a href=\"/player/20394/luchov\" class=\"col-custom\" title=\"luchov\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player luchov\" src=\"https://img-cdn.hltv.org/playerbodyshot/wwhGNwbmraJczwS0mGEHv-.png?ixlib=java-2.1.0&amp;w=400&amp;s=00a1e7261fdcc71a207c6fe5a6aa00bd\" class=\"bodyshot-team-img\" title=\"Luciano 'luchov' Herrera\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Argentina\" src=\"/img/static/flags/30x20/AR.gif\" class=\"flag\" title=\"Argentina\"> </span><span class=\"text-ellipsis bold\">luchov</span></div></div></div></a><a href=\"/player/22613/huasopeek\" class=\"col-custom\" title=\"HUASOPEEK\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player HUASOPEEK\" src=\"https://img-cdn.hltv.org/playerbodyshot/-1_hkAFXOtvEwx4rEHfalZ.png?ixlib=java-2.1.0&amp;w=400&amp;s=335580a2fc9675a1e7517803511bae7c\" class=\"bodyshot-team-img\" title=\"Matias 'HUASOPEEK' Ibañez Hernandez\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Chile\" src=\"/img/static/flags/30x20/CL.gif\" class=\"flag\" title=\"Chile\"> </span><span class=\"text-ellipsis bold\">HUASOPEEK</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Astralis",
+    "url": "https://www.hltv.org/team/6665/astralis",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 16726,
+        "nickname": "phzy",
+        "url": "/player/16726/phzy"
+      },
+      {
+        "id": 16820,
+        "nickname": "siuhy",
+        "url": "/player/16820/siuhy"
+      },
+      {
+        "id": 20304,
+        "nickname": "Staehr",
+        "url": "/player/20304/staehr"
+      },
+      {
+        "id": 21217,
+        "nickname": "ryu",
+        "url": "/player/21217/ryu"
+      },
+      {
+        "id": 22674,
+        "nickname": "cmtry",
+        "url": "/player/22674/cmtry"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/16726/phzy\" class=\"col-custom\" title=\"phzy\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player phzy\" src=\"https://img-cdn.hltv.org/playerbodyshot/5nOzaTt-TUzlshK2dSlRb6.png?ixlib=java-2.1.0&amp;w=400&amp;s=a13dc4060c581443c915ac52476767e4\" class=\"bodyshot-team-img\" title=\"Love 'phzy' Smidebrant\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">phzy</span></div></div></div></a><a href=\"/player/16820/siuhy\" class=\"col-custom\" title=\"siuhy\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player siuhy\" src=\"https://img-cdn.hltv.org/playerbodyshot/ofUYfMzSFIXBKy0Nmuu8_8.png?ixlib=java-2.1.0&amp;w=400&amp;s=b5efac7a107026c1cc04a02be9a5276e\" class=\"bodyshot-team-img\" title=\"Kamil 'siuhy' Szkaradek\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Poland\" src=\"/img/static/flags/30x20/PL.gif\" class=\"flag\" title=\"Poland\"> </span><span class=\"text-ellipsis bold\">siuhy</span></div></div></div></a><a href=\"/player/20304/staehr\" class=\"col-custom\" title=\"Staehr\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Staehr\" src=\"https://img-cdn.hltv.org/playerbodyshot/XggvhWbo2KMe7bOB6AoI86.png?ixlib=java-2.1.0&amp;w=400&amp;s=57569df51e24b0ebf6ce108b1ac05774\" class=\"bodyshot-team-img\" title=\"Victor 'Staehr' Staehr\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Denmark\" src=\"/img/static/flags/30x20/DK.gif\" class=\"flag\" title=\"Denmark\"> </span><span class=\"text-ellipsis bold\">Staehr</span></div></div></div></a><a href=\"/player/21217/ryu\" class=\"col-custom\" title=\"ryu\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player ryu\" src=\"https://img-cdn.hltv.org/playerbodyshot/OaN_EwHXMvNUUEggfjAtJI.png?ixlib=java-2.1.0&amp;w=400&amp;s=a6adee93205e4f32a4db69de0d769181\" class=\"bodyshot-team-img\" title=\"Gytis 'ryu' Glušauskas\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Lithuania\" src=\"/img/static/flags/30x20/LT.gif\" class=\"flag\" title=\"Lithuania\"> </span><span class=\"text-ellipsis bold\">ryu</span></div></div></div></a><a href=\"/player/22674/cmtry\" class=\"col-custom\" title=\"cmtry\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player cmtry\" src=\"https://img-cdn.hltv.org/playerbodyshot/j27UdpFKnNPvDOu2YHjNPV.png?ixlib=java-2.1.0&amp;w=400&amp;s=027775ff3662b04ffd11a910c33ee24c\" class=\"bodyshot-team-img\" title=\"Nikita 'cmtry' Samolotov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">cmtry</span></div></div></div></a></div>"
+  },
+  {
+    "team": "FaZe",
+    "url": "https://www.hltv.org/team/6667/faze",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 9960,
+        "nickname": "frozen",
+        "url": "/player/9960/frozen"
+      },
+      {
+        "id": 10394,
+        "nickname": "Twistzz",
+        "url": "/player/10394/twistzz"
+      },
+      {
+        "id": 21972,
+        "nickname": "Neityu",
+        "url": "/player/21972/neityu"
+      },
+      {
+        "id": 22383,
+        "nickname": "jcobbb",
+        "url": "/player/22383/jcobbb"
+      },
+      {
+        "id": 22866,
+        "nickname": "JBOEN",
+        "url": "/player/22866/jboen"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/9960/frozen\" class=\"col-custom\" title=\"frozen\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player frozen\" src=\"https://img-cdn.hltv.org/playerbodyshot/aFuk-1yq3DatdhVa3kICms.png?ixlib=java-2.1.0&amp;w=400&amp;s=4a99190a6e6eabbfd799ec121c5f9c53\" class=\"bodyshot-team-img\" title=\"David 'frozen' Čerňanský\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Slovakia\" src=\"/img/static/flags/30x20/SK.gif\" class=\"flag\" title=\"Slovakia\"> </span><span class=\"text-ellipsis bold\">frozen</span></div></div></div></a><a href=\"/player/10394/twistzz\" class=\"col-custom\" title=\"Twistzz\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Twistzz\" src=\"https://img-cdn.hltv.org/playerbodyshot/djeIpvmdjSQ_cOHzaomwxF.png?ixlib=java-2.1.0&amp;w=400&amp;s=db0b4311a3a465affa9da3e355cb78cb\" class=\"bodyshot-team-img\" title=\"Russel 'Twistzz' Van Dulken\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Canada\" src=\"/img/static/flags/30x20/CA.gif\" class=\"flag\" title=\"Canada\"> </span><span class=\"text-ellipsis bold\">Twistzz</span></div></div></div></a><a href=\"/player/21972/neityu\" class=\"col-custom\" title=\"Neityu\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Neityu\" src=\"https://img-cdn.hltv.org/playerbodyshot/z7Jeal58NVuDymx4F5O9D6.png?ixlib=java-2.1.0&amp;w=400&amp;s=71798505ba638781aff02d77bef9c9e4\" class=\"bodyshot-team-img\" title=\"Ryan 'Neityu' Aubry\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"France\" src=\"/img/static/flags/30x20/FR.gif\" class=\"flag\" title=\"France\"> </span><span class=\"text-ellipsis bold\">Neityu</span></div></div></div></a><a href=\"/player/22383/jcobbb\" class=\"col-custom\" title=\"jcobbb\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player jcobbb\" src=\"https://img-cdn.hltv.org/playerbodyshot/EEnQR7JP45ECDWPxft2zHF.png?ixlib=java-2.1.0&amp;w=400&amp;s=137010231f6f6b1db77e15f4235dea1f\" class=\"bodyshot-team-img\" title=\"Jakub 'jcobbb' Pietruszewski\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Poland\" src=\"/img/static/flags/30x20/PL.gif\" class=\"flag\" title=\"Poland\"> </span><span class=\"text-ellipsis bold\">jcobbb</span></div></div></div></a><a href=\"/player/22866/jboen\" class=\"col-custom\" title=\"JBOEN\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player JBOEN\" src=\"https://img-cdn.hltv.org/playerbodyshot/7mXOiZDRcCfuVomUVCmGz_.png?ixlib=java-2.1.0&amp;w=400&amp;s=b75e34e067442fcadd34d366e2277bf3\" class=\"bodyshot-team-img\" title=\"Jason 'JBOEN' Boe Nielsen\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Denmark\" src=\"/img/static/flags/30x20/DK.gif\" class=\"flag\" title=\"Denmark\"> </span><span class=\"text-ellipsis bold\">JBOEN</span></div></div></div></a></div>"
+  },
+  {
+    "team": "M80",
+    "url": "https://www.hltv.org/team/12376/m80",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 15370,
+        "nickname": "slaxz-",
+        "url": "/player/15370/slaxz"
+      },
+      {
+        "id": 16599,
+        "nickname": "Swisher",
+        "url": "/player/16599/swisher"
+      },
+      {
+        "id": 20104,
+        "nickname": "s1n",
+        "url": "/player/20104/s1n"
+      },
+      {
+        "id": 21665,
+        "nickname": "JBa",
+        "url": "/player/21665/jba"
+      },
+      {
+        "id": 22921,
+        "nickname": "Lake",
+        "url": "/player/22921/lake"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/15370/slaxz\" class=\"col-custom\" title=\"slaxz-\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player slaxz-\" src=\"https://img-cdn.hltv.org/playerbodyshot/y_IxxTxErUYvRag___p54_.png?ixlib=java-2.1.0&amp;w=400&amp;s=33c80d62cf753b1b6fec95a85f0e87c6\" class=\"bodyshot-team-img\" title=\"Fritz 'slaxz-' Dietrich\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Germany\" src=\"/img/static/flags/30x20/DE.gif\" class=\"flag\" title=\"Germany\"> </span><span class=\"text-ellipsis bold\">slaxz-</span></div></div></div></a><a href=\"/player/16599/swisher\" class=\"col-custom\" title=\"Swisher\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Swisher\" src=\"https://img-cdn.hltv.org/playerbodyshot/29ZsyLzmin7ulOnJCcA3wM.png?ixlib=java-2.1.0&amp;w=400&amp;s=6644ca2a670a81840d9f20cb95676f9e\" class=\"bodyshot-team-img\" title=\"Michael 'Swisher' Schmid\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"United States\" src=\"/img/static/flags/30x20/US.gif\" class=\"flag\" title=\"United States\"> </span><span class=\"text-ellipsis bold\">Swisher</span></div></div></div></a><a href=\"/player/20104/s1n\" class=\"col-custom\" title=\"s1n\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player s1n\" src=\"https://img-cdn.hltv.org/playerbodyshot/omou6FnIFE6WR1gOsMOUYc.png?ixlib=java-2.1.0&amp;w=400&amp;s=d148e6d26f4b9a8a8e8dba45ed31d0c8\" class=\"bodyshot-team-img\" title=\"Elias 's1n' Stein\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Germany\" src=\"/img/static/flags/30x20/DE.gif\" class=\"flag\" title=\"Germany\"> </span><span class=\"text-ellipsis bold\">s1n</span></div></div></div></a><a href=\"/player/21665/jba\" class=\"col-custom\" title=\"JBa\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player JBa\" src=\"https://img-cdn.hltv.org/playerbodyshot/e1F2VxFPrjax_4VC8-tRB0.png?ixlib=java-2.1.0&amp;w=400&amp;s=70d0da40a4f07c6fdb6fda301649e321\" class=\"bodyshot-team-img\" title=\"Josh 'JBa' Barutt\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"United States\" src=\"/img/static/flags/30x20/US.gif\" class=\"flag\" title=\"United States\"> </span><span class=\"text-ellipsis bold\">JBa</span></div></div></div></a><a href=\"/player/22921/lake\" class=\"col-custom\" title=\"Lake\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Lake\" src=\"https://img-cdn.hltv.org/playerbodyshot/fcLbbeY2MoA_9_WCCA-p_R.png?ixlib=java-2.1.0&amp;w=400&amp;s=a8106291a5f1f811c793e2ca5478329b\" class=\"bodyshot-team-img\" title=\"Mason 'Lake' Sanderson\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"United States\" src=\"/img/static/flags/30x20/US.gif\" class=\"flag\" title=\"United States\"> </span><span class=\"text-ellipsis bold\">Lake</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Ninjas in Pyjamas",
+    "url": "https://www.hltv.org/team/4411/ninjas-in-pyjamas",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 10994,
+        "nickname": "stavn",
+        "url": "/player/10994/stavn"
+      },
+      {
+        "id": 14148,
+        "nickname": "sjuush",
+        "url": "/player/14148/sjuush"
+      },
+      {
+        "id": 19899,
+        "nickname": "Krimbo",
+        "url": "/player/19899/krimbo"
+      },
+      {
+        "id": 20878,
+        "nickname": "adamb",
+        "url": "/player/20878/adamb"
+      },
+      {
+        "id": 23372,
+        "nickname": "xKacpersky",
+        "url": "/player/23372/xkacpersky"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/10994/stavn\" class=\"col-custom\" title=\"stavn\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player stavn\" src=\"https://img-cdn.hltv.org/playerbodyshot/qxEOtr88iSDATJo2RyWOeN.png?ixlib=java-2.1.0&amp;w=400&amp;s=b762a2a5a4461996d59fb844782dca1e\" class=\"bodyshot-team-img\" title=\"Martin 'stavn' Lund\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Denmark\" src=\"/img/static/flags/30x20/DK.gif\" class=\"flag\" title=\"Denmark\"> </span><span class=\"text-ellipsis bold\">stavn</span></div></div></div></a><a href=\"/player/14148/sjuush\" class=\"col-custom\" title=\"sjuush\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player sjuush\" src=\"https://img-cdn.hltv.org/playerbodyshot/LI-h-toKvr9SLKJkmUcZ7c.png?ixlib=java-2.1.0&amp;w=400&amp;s=ed39bf3233a0cc390c850d0e4e206a69\" class=\"bodyshot-team-img\" title=\"Rasmus 'sjuush' Beck\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Denmark\" src=\"/img/static/flags/30x20/DK.gif\" class=\"flag\" title=\"Denmark\"> </span><span class=\"text-ellipsis bold\">sjuush</span></div></div></div></a><a href=\"/player/19899/krimbo\" class=\"col-custom\" title=\"Krimbo\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Krimbo\" src=\"https://img-cdn.hltv.org/playerbodyshot/zDGLdTBgIHbB0P2ub8kgFF.png?ixlib=java-2.1.0&amp;w=400&amp;s=0136762a1906eabb01b5c5956cea45e0\" class=\"bodyshot-team-img\" title=\"Karim 'Krimbo' Moussa\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Germany\" src=\"/img/static/flags/30x20/DE.gif\" class=\"flag\" title=\"Germany\"> </span><span class=\"text-ellipsis bold\">Krimbo</span></div></div></div></a><a href=\"/player/20878/adamb\" class=\"col-custom\" title=\"adamb\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player adamb\" src=\"https://img-cdn.hltv.org/playerbodyshot/gV9-Ooi9YyMsb6NsWDwnDg.png?ixlib=java-2.1.0&amp;w=400&amp;s=38c367eeda648eef0eea01625b731aea\" class=\"bodyshot-team-img\" title=\"Adam 'adamb' Ångström\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">adamb</span></div></div></div></a><a href=\"/player/23372/xkacpersky\" class=\"col-custom\" title=\"xKacpersky\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player xKacpersky\" src=\"https://img-cdn.hltv.org/playerbodyshot/4ICjUyvBowN1B8nI2ipn1_.png?ixlib=java-2.1.0&amp;w=400&amp;s=84ca08e91c4000525b16f22d93b321ed\" class=\"bodyshot-team-img\" title=\"Kacper 'xKacpersky' Gabara\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Poland\" src=\"/img/static/flags/30x20/PL.gif\" class=\"flag\" title=\"Poland\"> </span><span class=\"text-ellipsis bold\">xKacpersky</span></div></div></div></a></div>"
+  },
+  {
+    "team": "The MongolZ",
+    "url": "https://www.hltv.org/team/6248/the-mongolz",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 15072,
+        "nickname": "nin9",
+        "url": "/player/15072/nin9"
+      },
+      {
+        "id": 20194,
+        "nickname": "bLitz",
+        "url": "/player/20194/blitz"
+      },
+      {
+        "id": 20275,
+        "nickname": "Techno",
+        "url": "/player/20275/techno"
+      },
+      {
+        "id": 21809,
+        "nickname": "910",
+        "url": "/player/21809/910"
+      },
+      {
+        "id": 23402,
+        "nickname": "cobrazera",
+        "url": "/player/23402/cobrazera"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/15072/nin9\" class=\"col-custom\" title=\"nin9\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player nin9\" src=\"https://img-cdn.hltv.org/playerbodyshot/xrXlmInMyLuHlUfwDiiS_8.png?ixlib=java-2.1.0&amp;w=400&amp;s=1605c93c62d735f639f859460dac545f\" class=\"bodyshot-team-img\" title=\"Yesuntumur 'nin9' Gantulga\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Mongolia\" src=\"/img/static/flags/30x20/MN.gif\" class=\"flag\" title=\"Mongolia\"> </span><span class=\"text-ellipsis bold\">nin9</span></div></div></div></a><a href=\"/player/20194/blitz\" class=\"col-custom\" title=\"bLitz\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player bLitz\" src=\"https://img-cdn.hltv.org/playerbodyshot/o9BY88XexfOgpXkb2i9h8q.png?ixlib=java-2.1.0&amp;w=400&amp;s=42de5cba984aca9dcf03b1f2b5b287be\" class=\"bodyshot-team-img\" title=\"Garidmagnai 'bLitz' Byambasuren\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Mongolia\" src=\"/img/static/flags/30x20/MN.gif\" class=\"flag\" title=\"Mongolia\"> </span><span class=\"text-ellipsis bold\">bLitz</span></div></div></div></a><a href=\"/player/20275/techno\" class=\"col-custom\" title=\"Techno\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Techno\" src=\"https://img-cdn.hltv.org/playerbodyshot/QUQRgY-MO0qH3pir1ddP8r.png?ixlib=java-2.1.0&amp;w=400&amp;s=6f1d738acc06ea171e99345d5c59264a\" class=\"bodyshot-team-img\" title=\"Sodbayar 'Techno' Munkhbold\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Mongolia\" src=\"/img/static/flags/30x20/MN.gif\" class=\"flag\" title=\"Mongolia\"> </span><span class=\"text-ellipsis bold\">Techno</span></div></div></div></a><a href=\"/player/21809/910\" class=\"col-custom\" title=\"910\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player 910\" src=\"https://img-cdn.hltv.org/playerbodyshot/_shv2NQfyIWc8byAJ0RmFF.png?ixlib=java-2.1.0&amp;w=400&amp;s=773d291819e750ace6a7aff8fb27cb07\" class=\"bodyshot-team-img\" title=\"Usukhbayar '910' Banzragch\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Mongolia\" src=\"/img/static/flags/30x20/MN.gif\" class=\"flag\" title=\"Mongolia\"> </span><span class=\"text-ellipsis bold\">910</span></div></div></div></a><a href=\"/player/23402/cobrazera\" class=\"col-custom\" title=\"cobrazera\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player cobrazera\" src=\"https://img-cdn.hltv.org/playerbodyshot/Cvsx7uyeznfZm9QKL84T_9.png?ixlib=java-2.1.0&amp;w=400&amp;s=ff884941d46ef84788cb09867e6d9345\" class=\"bodyshot-team-img\" title=\"Anarbileg 'cobrazera' Uuganbayar\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Mongolia\" src=\"/img/static/flags/30x20/MN.gif\" class=\"flag\" title=\"Mongolia\"> </span><span class=\"text-ellipsis bold\">cobrazera</span></div></div></div></a></div>"
+  },
+  {
+    "team": "B8",
+    "url": "https://www.hltv.org/team/11241/b8",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 20112,
+        "nickname": "alex666",
+        "url": "/player/20112/alex666"
+      },
+      {
+        "id": 21708,
+        "nickname": "npl",
+        "url": "/player/21708/npl"
+      },
+      {
+        "id": 22842,
+        "nickname": "kensizor",
+        "url": "/player/22842/kensizor"
+      },
+      {
+        "id": 23643,
+        "nickname": "esenthial",
+        "url": "/player/23643/esenthial"
+      },
+      {
+        "id": 25619,
+        "nickname": "s1zzi",
+        "url": "/player/25619/s1zzi"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/20112/alex666\" class=\"col-custom\" title=\"alex666\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player alex666\" src=\"https://img-cdn.hltv.org/playerbodyshot/kGubjP-W68zZM7bKB-pq3X.png?ixlib=java-2.1.0&amp;w=400&amp;s=f8173b3ae7567f626c001ce6780e64b7\" class=\"bodyshot-team-img\" title=\"Alexey 'alex666' Yarmoshchuk\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">alex666</span></div></div></div></a><a href=\"/player/21708/npl\" class=\"col-custom\" title=\"npl\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player npl\" src=\"https://img-cdn.hltv.org/playerbodyshot/ikLbsTodutbrStvWokgR_w.png?ixlib=java-2.1.0&amp;w=400&amp;s=b1681801fbaa4a2d2b5a30a332605fe5\" class=\"bodyshot-team-img\" title=\"Andrii 'npl' Kukharskyi\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">npl</span></div></div></div></a><a href=\"/player/22842/kensizor\" class=\"col-custom\" title=\"kensizor\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player kensizor\" src=\"https://img-cdn.hltv.org/playerbodyshot/ggwJBGqRSPt8irtlNEIo2R.png?ixlib=java-2.1.0&amp;w=400&amp;s=4af13872b3dcdbc5dd2ca3353a69d79e\" class=\"bodyshot-team-img\" title=\"Artem 'kensizor' Kapran\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">kensizor</span></div></div></div></a><a href=\"/player/23643/esenthial\" class=\"col-custom\" title=\"esenthial\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player esenthial\" src=\"https://img-cdn.hltv.org/playerbodyshot/MqxnP0w72L9EWsESLPeFoG.png?ixlib=java-2.1.0&amp;w=400&amp;s=e2a0f20fc1887cac80cb5bbe5ed09fde\" class=\"bodyshot-team-img\" title=\"Dmytro 'esenthial' Tsvir\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">esenthial</span></div></div></div></a><a href=\"/player/25619/s1zzi\" class=\"col-custom\" title=\"s1zzi\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player s1zzi\" src=\"https://img-cdn.hltv.org/playerbodyshot/u17qJ2zrqmk8wP9w9xnM8E.png?ixlib=java-2.1.0&amp;w=400&amp;s=7710262085997617d8af98841dea1696\" class=\"bodyshot-team-img\" title=\"Danylo 's1zzi' Vinnyk\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">s1zzi</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Envy",
+    "url": "https://www.hltv.org/team/5991/envy",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 13138,
+        "nickname": "Maka",
+        "url": "/player/13138/maka"
+      },
+      {
+        "id": 13497,
+        "nickname": "Lucky",
+        "url": "/player/13497/lucky"
+      },
+      {
+        "id": 14176,
+        "nickname": "misutaaa",
+        "url": "/player/14176/misutaaa"
+      },
+      {
+        "id": 20482,
+        "nickname": "Kursy",
+        "url": "/player/20482/kursy"
+      },
+      {
+        "id": 21969,
+        "nickname": "Graviti",
+        "url": "/player/21969/graviti"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/13138/maka\" class=\"col-custom\" title=\"Maka\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player Maka\" src=\"https://img-cdn.hltv.org/playerbodyshot/p5pdFC5fNZnCpgklu49xX0.png?ixlib=java-2.1.0&amp;w=400&amp;s=626bd7513007c0a27cb667f331fb94a7\" class=\"bodyshot-team-img\" title=\"Bryan 'Maka' Canda\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"France\" src=\"/img/static/flags/30x20/FR.gif\" class=\"flag\" title=\"France\"> </span><span class=\"text-ellipsis bold\">Maka</span></div></div></div></a><a href=\"/player/13497/lucky\" class=\"col-custom\" title=\"Lucky\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Lucky\" src=\"https://img-cdn.hltv.org/playerbodyshot/MZmzue1k_ws1HYNDz4EJ9Y.png?ixlib=java-2.1.0&amp;w=400&amp;s=168afb42e65f4c9583fb2d8155ff7d91\" class=\"bodyshot-team-img\" title=\"Lucas 'Lucky' Chastang\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"France\" src=\"/img/static/flags/30x20/FR.gif\" class=\"flag\" title=\"France\"> </span><span class=\"text-ellipsis bold\">Lucky</span></div></div></div></a><a href=\"/player/14176/misutaaa\" class=\"col-custom\" title=\"misutaaa\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player misutaaa\" src=\"https://img-cdn.hltv.org/playerbodyshot/DFAoXDgvIgIC4X5STLp1CF.png?ixlib=java-2.1.0&amp;w=400&amp;s=73f15c0af8b6dd32bcf09f207a3ad450\" class=\"bodyshot-team-img\" title=\"Kévin 'misutaaa' Rabier\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"France\" src=\"/img/static/flags/30x20/FR.gif\" class=\"flag\" title=\"France\"> </span><span class=\"text-ellipsis bold\">misutaaa</span></div></div></div></a><a href=\"/player/20482/kursy\" class=\"col-custom\" title=\"Kursy\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Kursy\" src=\"https://img-cdn.hltv.org/playerbodyshot/vWOw0YLcMKPKFH8tGzphdu.png?ixlib=java-2.1.0&amp;w=400&amp;s=1ebcaf75b8ad2709f7bd83585a344a37\" class=\"bodyshot-team-img\" title=\"Jeremy 'Kursy' Gast\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"France\" src=\"/img/static/flags/30x20/FR.gif\" class=\"flag\" title=\"France\"> </span><span class=\"text-ellipsis bold\">Kursy</span></div></div></div></a><a href=\"/player/21969/graviti\" class=\"col-custom\" title=\"Graviti\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Graviti\" src=\"https://img-cdn.hltv.org/playerbodyshot/lDeSWOGAlHaUwFnPnyfqx2.png?ixlib=java-2.1.0&amp;w=400&amp;s=133fd9af2841a284272f18bb3ebab0ee\" class=\"bodyshot-team-img\" title=\"Filip 'Graviti' Brankovic\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"France\" src=\"/img/static/flags/30x20/FR.gif\" class=\"flag\" title=\"France\"> </span><span class=\"text-ellipsis bold\">Graviti</span></div></div></div></a></div>"
+  },
+  {
+    "team": "GamerLegion",
+    "url": "https://www.hltv.org/team/9928/gamerlegion",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 2553,
+        "nickname": "Snax",
+        "url": "/player/2553/snax"
+      },
+      {
+        "id": 9278,
+        "nickname": "REZ",
+        "url": "/player/9278/rez"
+      },
+      {
+        "id": 20301,
+        "nickname": "Tauson",
+        "url": "/player/20301/tauson"
+      },
+      {
+        "id": 20994,
+        "nickname": "FL4MUS",
+        "url": "/player/20994/fl4mus"
+      },
+      {
+        "id": 23766,
+        "nickname": "hypex",
+        "url": "/player/23766/hypex"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/2553/snax\" class=\"col-custom\" title=\"Snax\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Snax\" src=\"https://img-cdn.hltv.org/playerbodyshot/pFKQ-yAzdNYqYTtoRkd00C.png?ixlib=java-2.1.0&amp;w=400&amp;s=745975bdcbb1acd882db62efba76d9f4\" class=\"bodyshot-team-img\" title=\"Janusz 'Snax' Pogorzelski\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Poland\" src=\"/img/static/flags/30x20/PL.gif\" class=\"flag\" title=\"Poland\"> </span><span class=\"text-ellipsis bold\">Snax</span></div></div></div></a><a href=\"/player/9278/rez\" class=\"col-custom\" title=\"REZ\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player REZ\" src=\"https://img-cdn.hltv.org/playerbodyshot/ZtKT_itHAZh67CQ_7H9BQa.png?ixlib=java-2.1.0&amp;w=400&amp;s=c18492948d9a6fe0b62a2f25af6b36c8\" class=\"bodyshot-team-img\" title=\"Fredrik 'REZ' Sterner\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">REZ</span></div></div></div></a><a href=\"/player/20301/tauson\" class=\"col-custom\" title=\"Tauson\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Tauson\" src=\"https://img-cdn.hltv.org/playerbodyshot/Q5pfim9KMWw5m7jLtW5Ugi.png?ixlib=java-2.1.0&amp;w=400&amp;s=6eb7abb55d79cc6ac5ffd891d132f991\" class=\"bodyshot-team-img\" title=\"Sebastian 'Tauson' Tauson Lindelof\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Denmark\" src=\"/img/static/flags/30x20/DK.gif\" class=\"flag\" title=\"Denmark\"> </span><span class=\"text-ellipsis bold\">Tauson</span></div></div></div></a><a href=\"/player/20994/fl4mus\" class=\"col-custom\" title=\"FL4MUS\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player FL4MUS\" src=\"https://img-cdn.hltv.org/playerbodyshot/N5LTczzYJhM_SOoJHyODQf.png?ixlib=java-2.1.0&amp;w=400&amp;s=2522d65fd901be70cb1760c7dc680123\" class=\"bodyshot-team-img\" title=\"Timur 'FL4MUS' Marev\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">FL4MUS</span></div></div></div></a><a href=\"/player/23766/hypex\" class=\"col-custom\" title=\"hypex\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player hypex\" src=\"https://img-cdn.hltv.org/playerbodyshot/K3ghHJ2-blTh2uEpbhLgpo.png?ixlib=java-2.1.0&amp;w=400&amp;s=d88ca72a01d41400c946116e7052a0fa\" class=\"bodyshot-team-img\" title=\"Milan 'hypex' Polowiec\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Poland\" src=\"/img/static/flags/30x20/PL.gif\" class=\"flag\" title=\"Poland\"> </span><span class=\"text-ellipsis bold\">hypex</span></div></div></div></a></div>"
+  },
+  {
+    "team": "HEROIC",
+    "url": "https://www.hltv.org/team/7175/heroic",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 13666,
+        "nickname": "Brollan",
+        "url": "/player/13666/brollan"
+      },
+      {
+        "id": 20119,
+        "nickname": "nilo",
+        "url": "/player/20119/nilo"
+      },
+      {
+        "id": 21163,
+        "nickname": "susp",
+        "url": "/player/21163/susp"
+      },
+      {
+        "id": 21239,
+        "nickname": "MartinezSa",
+        "url": "/player/21239/martinezsa"
+      },
+      {
+        "id": 21983,
+        "nickname": "Chr1zN",
+        "url": "/player/21983/chr1zn"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/13666/brollan\" class=\"col-custom\" title=\"Brollan\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Brollan\" src=\"https://img-cdn.hltv.org/playerbodyshot/WIDGe91cOgns-TZk1NbVPj.png?ixlib=java-2.1.0&amp;w=400&amp;s=3681a54df9b8a9121e92c2db9e66dde8\" class=\"bodyshot-team-img\" title=\"Ludvig 'Brollan' Brolin\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">Brollan</span></div></div></div></a><a href=\"/player/20119/nilo\" class=\"col-custom\" title=\"nilo\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player nilo\" src=\"https://img-cdn.hltv.org/playerbodyshot/IGWheqS79gX17ME_wXcJQ9.png?ixlib=java-2.1.0&amp;w=400&amp;s=04f42493d6ed3f763818041063904c8d\" class=\"bodyshot-team-img\" title=\"Linus 'nilo' Bergman\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">nilo</span></div></div></div></a><a href=\"/player/21163/susp\" class=\"col-custom\" title=\"susp\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player susp\" src=\"https://img-cdn.hltv.org/playerbodyshot/2hF2YRfPBjvq0ozn1Y_hM8.png?ixlib=java-2.1.0&amp;w=400&amp;s=37a712e098c0a07ae269343823e6b4a9\" class=\"bodyshot-team-img\" title=\"Tim 'susp' Ångström\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">susp</span></div></div></div></a><a href=\"/player/21239/martinezsa\" class=\"col-custom\" title=\"MartinezSa\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player MartinezSa\" src=\"https://img-cdn.hltv.org/playerbodyshot/tXR4ovO7doN_4qWNWX83Y6.png?ixlib=java-2.1.0&amp;w=400&amp;s=75a95efe1899a0127d8787582e7f2042\" class=\"bodyshot-team-img\" title=\"Antonio 'MartinezSa' Martinez\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Spain\" src=\"/img/static/flags/30x20/ES.gif\" class=\"flag\" title=\"Spain\"> </span><span class=\"text-ellipsis bold\">MartinezSa</span></div></div></div></a><a href=\"/player/21983/chr1zn\" class=\"col-custom\" title=\"Chr1zN\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Chr1zN\" src=\"https://img-cdn.hltv.org/playerbodyshot/zXIeBk5V2-LIrHTYYby7ym.png?ixlib=java-2.1.0&amp;w=400&amp;s=8943d63eb2ddfe0eea6d5e4d504a4535\" class=\"bodyshot-team-img\" title=\"Christoffer 'Chr1zN' Storgaard\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Denmark\" src=\"/img/static/flags/30x20/DK.gif\" class=\"flag\" title=\"Denmark\"> </span><span class=\"text-ellipsis bold\">Chr1zN</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Liquid",
+    "url": "https://www.hltv.org/team/5973/liquid",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 8520,
+        "nickname": "NAF",
+        "url": "/player/8520/naf"
+      },
+      {
+        "id": 8738,
+        "nickname": "EliGE",
+        "url": "/player/8738/elige"
+      },
+      {
+        "id": 11617,
+        "nickname": "malbsMd",
+        "url": "/player/11617/malbsmd"
+      },
+      {
+        "id": 11630,
+        "nickname": "JT",
+        "url": "/player/11630/jt"
+      },
+      {
+        "id": 24203,
+        "nickname": "Jorko",
+        "url": "/player/24203/jorko"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/8520/naf\" class=\"col-custom\" title=\"NAF\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player NAF\" src=\"https://img-cdn.hltv.org/playerbodyshot/8PojZfV5ivnLrlQY8q55Lh.png?ixlib=java-2.1.0&amp;w=400&amp;s=bd5bc2458b41611b08d875ce468b3b7c\" class=\"bodyshot-team-img\" title=\"Keith 'NAF' Markovic\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Canada\" src=\"/img/static/flags/30x20/CA.gif\" class=\"flag\" title=\"Canada\"> </span><span class=\"text-ellipsis bold\">NAF</span></div></div></div></a><a href=\"/player/8738/elige\" class=\"col-custom\" title=\"EliGE\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player EliGE\" src=\"https://img-cdn.hltv.org/playerbodyshot/TcRKfhgP8gTZ4xt84bxvxw.png?ixlib=java-2.1.0&amp;w=400&amp;s=f418c7d4e203c35939d2c9ad7e03b499\" class=\"bodyshot-team-img\" title=\"Jonathan 'EliGE' Jablonowski\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"United States\" src=\"/img/static/flags/30x20/US.gif\" class=\"flag\" title=\"United States\"> </span><span class=\"text-ellipsis bold\">EliGE</span></div></div></div></a><a href=\"/player/11617/malbsmd\" class=\"col-custom\" title=\"malbsMd\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player malbsMd\" src=\"https://img-cdn.hltv.org/playerbodyshot/Jp6Y0b77HIJ_M7wBxjyzC1.png?ixlib=java-2.1.0&amp;w=400&amp;s=c6856869c9a5ff3c1b66a1eafa47c5fb\" class=\"bodyshot-team-img\" title=\"Mario 'malbsMd' Samayoa\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Guatemala\" src=\"/img/static/flags/30x20/GT.gif\" class=\"flag\" title=\"Guatemala\"> </span><span class=\"text-ellipsis bold\">malbsMd</span></div></div></div></a><a href=\"/player/11630/jt\" class=\"col-custom\" title=\"JT\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player JT\" src=\"https://img-cdn.hltv.org/playerbodyshot/f80kfFbSHORtnVaQz559ha.png?ixlib=java-2.1.0&amp;w=400&amp;s=839cb2658384cc872b6f0b64aec07f2e\" class=\"bodyshot-team-img\" title=\"Johnny 'JT' Theodosiou\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"South Africa\" src=\"/img/static/flags/30x20/ZA.gif\" class=\"flag\" title=\"South Africa\"> </span><span class=\"text-ellipsis bold\">JT</span></div></div></div></a><a href=\"/player/24203/jorko\" class=\"col-custom\" title=\"Jorko\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player Jorko\" src=\"https://img-cdn.hltv.org/playerbodyshot/VdM4WgTpFOapNAwb4DCRR6.png?ixlib=java-2.1.0&amp;w=400&amp;s=0170385e15572d2f8288e09cfccb41fb\" class=\"bodyshot-team-img\" title=\"Georgi 'Jorko' Mitev\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Bulgaria\" src=\"/img/static/flags/30x20/BG.gif\" class=\"flag\" title=\"Bulgaria\"> </span><span class=\"text-ellipsis bold\">Jorko</span></div></div></div></a></div>"
+  },
+  {
+    "team": "100 Thieves",
+    "url": "https://www.hltv.org/team/8474/100-thieves",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 7592,
+        "nickname": "device",
+        "url": "/player/7592/device"
+      },
+      {
+        "id": 8183,
+        "nickname": "rain",
+        "url": "/player/8183/rain"
+      },
+      {
+        "id": 21816,
+        "nickname": "Gizmy",
+        "url": "/player/21816/gizmy"
+      },
+      {
+        "id": 22695,
+        "nickname": "sirah",
+        "url": "/player/22695/sirah"
+      },
+      {
+        "id": 23397,
+        "nickname": "poiii",
+        "url": "/player/23397/poiii"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/7592/device\" class=\"col-custom\" title=\"device\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player device\" src=\"https://img-cdn.hltv.org/playerbodyshot/TE9xSRwRif78uNjfN9VxSY.png?ixlib=java-2.1.0&amp;w=400&amp;s=2051fe1f1e664c8ab005e44e9dc8fd8e\" class=\"bodyshot-team-img\" title=\"Nicolai 'device' Reedtz\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Denmark\" src=\"/img/static/flags/30x20/DK.gif\" class=\"flag\" title=\"Denmark\"> </span><span class=\"text-ellipsis bold\">device</span></div></div></div></a><a href=\"/player/8183/rain\" class=\"col-custom\" title=\"rain\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player rain\" src=\"https://img-cdn.hltv.org/playerbodyshot/oO0Eu3frIZSJrQZeC501Zm.png?ixlib=java-2.1.0&amp;w=400&amp;s=b8aa24aa5e6bc2a87e46cccc9f4c422b\" class=\"bodyshot-team-img\" title=\"Håvard 'rain' Nygaard\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Norway\" src=\"/img/static/flags/30x20/NO.gif\" class=\"flag\" title=\"Norway\"> </span><span class=\"text-ellipsis bold\">rain</span></div></div></div></a><a href=\"/player/21816/gizmy\" class=\"col-custom\" title=\"Gizmy\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Gizmy\" src=\"https://img-cdn.hltv.org/playerbodyshot/pgAFI8Edla2_S667dNoFyi.png?ixlib=java-2.1.0&amp;w=400&amp;s=f55c0861fc22eaf28ec92b6579a0d053\" class=\"bodyshot-team-img\" title=\"Jack 'Gizmy' von Spreckelsen\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"United Kingdom\" src=\"/img/static/flags/30x20/GB.gif\" class=\"flag\" title=\"United Kingdom\"> </span><span class=\"text-ellipsis bold\">Gizmy</span></div></div></div></a><a href=\"/player/22695/sirah\" class=\"col-custom\" title=\"sirah\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player sirah\" src=\"https://img-cdn.hltv.org/playerbodyshot/e0nhlHVYRD790ur8YPG-Xh.png?ixlib=java-2.1.0&amp;w=400&amp;s=e60f1cdc7c450592fed625c0c6a09c37\" class=\"bodyshot-team-img\" title=\"William 'sirah' Kjærsgaard\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Denmark\" src=\"/img/static/flags/30x20/DK.gif\" class=\"flag\" title=\"Denmark\"> </span><span class=\"text-ellipsis bold\">sirah</span></div></div></div></a><a href=\"/player/23397/poiii\" class=\"col-custom\" title=\"poiii\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player poiii\" src=\"https://img-cdn.hltv.org/playerbodyshot/XPEN_4R2umWEMRPqJoIlCY.png?ixlib=java-2.1.0&amp;w=400&amp;s=723848b52f46055a428adc53e40f3a8a\" class=\"bodyshot-team-img\" title=\"Alex 'poiii' Nyholm Sundgren\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">poiii</span></div></div></div></a></div>"
+  },
+  {
+    "team": "TYLOO",
+    "url": "https://www.hltv.org/team/4863/tyloo",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 19645,
+        "nickname": "JamYoung",
+        "url": "/player/19645/jamyoung"
+      },
+      {
+        "id": 20702,
+        "nickname": "Jee",
+        "url": "/player/20702/jee"
+      },
+      {
+        "id": 20895,
+        "nickname": "Mercury",
+        "url": "/player/20895/mercury"
+      },
+      {
+        "id": 21621,
+        "nickname": "Moseyuh",
+        "url": "/player/21621/moseyuh"
+      },
+      {
+        "id": 24857,
+        "nickname": "Zero",
+        "url": "/player/24857/zero"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/19645/jamyoung\" class=\"col-custom\" title=\"JamYoung\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player JamYoung\" src=\"https://img-cdn.hltv.org/playerbodyshot/U9LkjBLzDU-UTgi7WK74xi.png?ixlib=java-2.1.0&amp;w=400&amp;s=8aaee4eee71da8e906abb0dd5d656b1b\" class=\"bodyshot-team-img\" title=\"Yi 'JamYoung' Yang\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">JamYoung</span></div></div></div></a><a href=\"/player/20702/jee\" class=\"col-custom\" title=\"Jee\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player Jee\" src=\"https://img-cdn.hltv.org/playerbodyshot/CKGClHVyKUNZ6rfGk9l21h.png?ixlib=java-2.1.0&amp;w=400&amp;s=eccc0cfff8956e18407a8edd53cecea9\" class=\"bodyshot-team-img\" title=\"Dongkai 'Jee' Ji\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">Jee</span></div></div></div></a><a href=\"/player/20895/mercury\" class=\"col-custom\" title=\"Mercury\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Mercury\" src=\"https://img-cdn.hltv.org/playerbodyshot/I0zCufrR3LZ9HRJSAPMRed.png?ixlib=java-2.1.0&amp;w=400&amp;s=fe5e891d3fe2cec5ae87d3aaa30aad7d\" class=\"bodyshot-team-img\" title=\"Jingxiang 'Mercury' Wang\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">Mercury</span></div></div></div></a><a href=\"/player/21621/moseyuh\" class=\"col-custom\" title=\"Moseyuh\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Moseyuh\" src=\"https://img-cdn.hltv.org/playerbodyshot/ACldtIpWV1sgLOPoFrJf6L.png?ixlib=java-2.1.0&amp;w=400&amp;s=840c2f14058d1f33ce9d64b4f3db9788\" class=\"bodyshot-team-img\" title=\"Qianhao 'Moseyuh' Chen\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">Moseyuh</span></div></div></div></a><a href=\"/player/24857/zero\" class=\"col-custom\" title=\"Zero\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Zero\" src=\"https://img-cdn.hltv.org/playerbodyshot/6q-uT0mSJyubUKR7ralrV6.png?ixlib=java-2.1.0&amp;w=400&amp;s=115571f0ec8579c5ca0e702ae3b291fe\" class=\"bodyshot-team-img\" title=\"Su 'Zero' Jingshen\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">Zero</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Lynn Vision",
+    "url": "https://www.hltv.org/team/8840/lynn-vision",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 16551,
+        "nickname": "Westmelon",
+        "url": "/player/16551/westmelon"
+      },
+      {
+        "id": 18744,
+        "nickname": "z4KR",
+        "url": "/player/18744/z4kr"
+      },
+      {
+        "id": 20254,
+        "nickname": "Starry",
+        "url": "/player/20254/starry"
+      },
+      {
+        "id": 22922,
+        "nickname": "EmiliaQAQ",
+        "url": "/player/22922/emiliaqaq"
+      },
+      {
+        "id": 23100,
+        "nickname": "C4LLM3SU3",
+        "url": "/player/23100/c4llm3su3"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/16551/westmelon\" class=\"col-custom\" title=\"Westmelon\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Westmelon\" src=\"https://img-cdn.hltv.org/playerbodyshot/w9IH6NVwZaEghBrni9KUye.png?ixlib=java-2.1.0&amp;w=400&amp;s=5a1798f197ebed18b8cacd9deb0670d2\" class=\"bodyshot-team-img\" title=\"Zhe 'Westmelon' Niu\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">Westmelon</span></div></div></div></a><a href=\"/player/18744/z4kr\" class=\"col-custom\" title=\"z4KR\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player z4KR\" src=\"https://img-cdn.hltv.org/playerbodyshot/fcO07i0REvntQD_HarJL6R.png?ixlib=java-2.1.0&amp;w=400&amp;s=f2205ac7184639b59abc19ccea375100\" class=\"bodyshot-team-img\" title=\"Sike 'z4KR' Zhang\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">z4KR</span></div></div></div></a><a href=\"/player/20254/starry\" class=\"col-custom\" title=\"Starry\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Starry\" src=\"https://img-cdn.hltv.org/playerbodyshot/tuGiVdrZEWz7RX-GAhNJIn.png?ixlib=java-2.1.0&amp;w=400&amp;s=0173f8b47bff2aa64cc872c0480db277\" class=\"bodyshot-team-img\" title=\"Lizhi 'Starry' Ye\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">Starry</span></div></div></div></a><a href=\"/player/22922/emiliaqaq\" class=\"col-custom\" title=\"EmiliaQAQ\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player EmiliaQAQ\" src=\"https://img-cdn.hltv.org/playerbodyshot/KGJ5Waz1a9xx0avH99wf83.png?ixlib=java-2.1.0&amp;w=400&amp;s=94c341ab7d11b9fe1d650c7f1e27bc00\" class=\"bodyshot-team-img\" title=\"Junjie 'EmiliaQAQ' Tang\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">EmiliaQAQ</span></div></div></div></a><a href=\"/player/23100/c4llm3su3\" class=\"col-custom\" title=\"C4LLM3SU3\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player C4LLM3SU3\" src=\"https://img-cdn.hltv.org/playerbodyshot/l5gxGzlPyAqU3ihCeVYnWS.png?ixlib=java-2.1.0&amp;w=400&amp;s=dc284363d72cbc68efaa6000f196d2b0\" class=\"bodyshot-team-img\" title=\"Qihao 'C4LLM3SU3' Su\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">C4LLM3SU3</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Eternal Fire",
+    "url": "https://www.hltv.org/team/11251/eternal-fire",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 16811,
+        "nickname": "MisteM",
+        "url": "/player/16811/mistem"
+      },
+      {
+        "id": 20123,
+        "nickname": "regali",
+        "url": "/player/20123/regali"
+      },
+      {
+        "id": 20968,
+        "nickname": "soulfly",
+        "url": "/player/20968/soulfly"
+      },
+      {
+        "id": 21452,
+        "nickname": "Kvem",
+        "url": "/player/21452/kvem"
+      },
+      {
+        "id": 22361,
+        "nickname": "jottAAA",
+        "url": "/player/22361/jottaaa"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/16811/mistem\" class=\"col-custom\" title=\"MisteM\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player MisteM\" src=\"https://img-cdn.hltv.org/playerbodyshot/U48puBNZE4VoENCINFZ40f.png?ixlib=java-2.1.0&amp;w=400&amp;s=1def3af3156d0611d9ee9b8751c661e8\" class=\"bodyshot-team-img\" title=\"Gareth 'MisteM' Ries\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"South Africa\" src=\"/img/static/flags/30x20/ZA.gif\" class=\"flag\" title=\"South Africa\"> </span><span class=\"text-ellipsis bold\">MisteM</span></div></div></div></a><a href=\"/player/20123/regali\" class=\"col-custom\" title=\"regali\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player regali\" src=\"https://img-cdn.hltv.org/playerbodyshot/R5EqWJzNu-3lgbssW2WrEQ.png?ixlib=java-2.1.0&amp;w=400&amp;s=8e29442c158cdc09c234c2972cbfcfbf\" class=\"bodyshot-team-img\" title=\"Iulian 'regali' Harjău\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Romania\" src=\"/img/static/flags/30x20/RO.gif\" class=\"flag\" title=\"Romania\"> </span><span class=\"text-ellipsis bold\">regali</span></div></div></div></a><a href=\"/player/20968/soulfly\" class=\"col-custom\" title=\"soulfly\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player soulfly\" src=\"https://img-cdn.hltv.org/playerbodyshot/sf52qo51zQdsl0GhQ2KeXo.png?ixlib=java-2.1.0&amp;w=400&amp;s=0e2dc973a41732cce50414449d550108\" class=\"bodyshot-team-img\" title=\"Caner 'soulfly' Kesici\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Türkiye\" src=\"/img/static/flags/30x20/TR.gif\" class=\"flag\" title=\"Türkiye\"> </span><span class=\"text-ellipsis bold\">soulfly</span></div></div></div></a><a href=\"/player/21452/kvem\" class=\"col-custom\" title=\"Kvem\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Kvem\" src=\"https://img-cdn.hltv.org/playerbodyshot/_doCxD3scybwJ6CI3whsQW.png?ixlib=java-2.1.0&amp;w=400&amp;s=afe1ea1a1e7b97857036e9ee3b922f44\" class=\"bodyshot-team-img\" title=\"Vladyslav 'Kvem' Korol\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">Kvem</span></div></div></div></a><a href=\"/player/22361/jottaaa\" class=\"col-custom\" title=\"jottAAA\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player jottAAA\" src=\"https://img-cdn.hltv.org/playerbodyshot/9Jb7t6FNHswlboXE8veloM.png?ixlib=java-2.1.0&amp;w=400&amp;s=57d0c96a87ab9cfc36abbda5c085b948\" class=\"bodyshot-team-img\" title=\"Samet 'jottAAA' Köklü\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Türkiye\" src=\"/img/static/flags/30x20/TR.gif\" class=\"flag\" title=\"Türkiye\"> </span><span class=\"text-ellipsis bold\">jottAAA</span></div></div></div></a></div>"
+  },
+  {
+    "team": "BC.Game",
+    "url": "https://www.hltv.org/team/12878/bcgame",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 7998,
+        "nickname": "s1mple",
+        "url": "/player/7998/s1mple"
+      },
+      {
+        "id": 9032,
+        "nickname": "Magisk",
+        "url": "/player/9032/magisk"
+      },
+      {
+        "id": 18545,
+        "nickname": "asap",
+        "url": "/player/18545/asap"
+      },
+      {
+        "id": 20903,
+        "nickname": "Senzu",
+        "url": "/player/20903/senzu"
+      },
+      {
+        "id": 21001,
+        "nickname": "mzinho",
+        "url": "/player/21001/mzinho"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/7998/s1mple\" class=\"col-custom\" title=\"s1mple\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player s1mple\" src=\"https://img-cdn.hltv.org/playerbodyshot/7v6JBfu18rzeuLOrgVb0FW.png?ixlib=java-2.1.0&amp;w=400&amp;s=f8c72d4dd116bcd4dbfcc9d3371756a9\" class=\"bodyshot-team-img\" title=\"Oleksandr 's1mple' Kostyliev\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Ukraine\" src=\"/img/static/flags/30x20/UA.gif\" class=\"flag\" title=\"Ukraine\"> </span><span class=\"text-ellipsis bold\">s1mple</span></div></div></div></a><a href=\"/player/9032/magisk\" class=\"col-custom\" title=\"Magisk\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Magisk\" src=\"https://img-cdn.hltv.org/playerbodyshot/liqzXrt4Z5EXlWnWWJYYxG.png?ixlib=java-2.1.0&amp;w=400&amp;s=7595c72ab9331bdec898dc135bc6dcf1\" class=\"bodyshot-team-img\" title=\"Emil 'Magisk' Reif\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Denmark\" src=\"/img/static/flags/30x20/DK.gif\" class=\"flag\" title=\"Denmark\"> </span><span class=\"text-ellipsis bold\">Magisk</span></div></div></div></a><a href=\"/player/18545/asap\" class=\"col-custom\" title=\"asap\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player asap\" src=\"https://img-cdn.hltv.org/playerbodyshot/9OWBc15PhP6fjhIBmZ6EYD.png?ixlib=java-2.1.0&amp;w=400&amp;s=71aa3abe2c1c7019478834af0bd847a6\" class=\"bodyshot-team-img\" title=\"Tyson 'asap' Paterson\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Australia\" src=\"/img/static/flags/30x20/AU.gif\" class=\"flag\" title=\"Australia\"> </span><span class=\"text-ellipsis bold\">asap</span></div></div></div></a><a href=\"/player/20903/senzu\" class=\"col-custom\" title=\"Senzu\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Senzu\" src=\"https://img-cdn.hltv.org/playerbodyshot/5IEtvi_Tg7yKVCtmCYR_m6.png?ixlib=java-2.1.0&amp;w=400&amp;s=0c87ed8b82e1ba5263f393b45d125be7\" class=\"bodyshot-team-img\" title=\"Azbayar 'Senzu' Munkhbold\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Mongolia\" src=\"/img/static/flags/30x20/MN.gif\" class=\"flag\" title=\"Mongolia\"> </span><span class=\"text-ellipsis bold\">Senzu</span></div></div></div></a><a href=\"/player/21001/mzinho\" class=\"col-custom\" title=\"mzinho\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player mzinho\" src=\"https://img-cdn.hltv.org/playerbodyshot/rnJ9WXwUWU_wrL3KzL91s6.png?ixlib=java-2.1.0&amp;w=400&amp;s=cd9c01bb64d5c83a10fd16719dc295d0\" class=\"bodyshot-team-img\" title=\"Ayush 'mzinho' Batbold\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Mongolia\" src=\"/img/static/flags/30x20/MN.gif\" class=\"flag\" title=\"Mongolia\"> </span><span class=\"text-ellipsis bold\">mzinho</span></div></div></div></a></div>"
+  },
+  {
+    "team": "EYEBALLERS",
+    "url": "https://www.hltv.org/team/11737/eyeballers",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 3849,
+        "nickname": "JW",
+        "url": "/player/3849/jw"
+      },
+      {
+        "id": 7528,
+        "nickname": "KRIMZ",
+        "url": "/player/7528/krimz"
+      },
+      {
+        "id": 20879,
+        "nickname": "maxster",
+        "url": "/player/20879/maxster"
+      },
+      {
+        "id": 21012,
+        "nickname": "Ro1f",
+        "url": "/player/21012/ro1f"
+      },
+      {
+        "id": 22914,
+        "nickname": "dex",
+        "url": "/player/22914/dex"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/3849/jw\" class=\"col-custom\" title=\"JW\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player JW\" src=\"https://img-cdn.hltv.org/playerbodyshot/Y73OGg_2QYo95pJ35Bz6Np.png?ixlib=java-2.1.0&amp;w=400&amp;s=d17d321a4426dd7847f2283f6a9b8bef\" class=\"bodyshot-team-img\" title=\"Jesper 'JW' Wecksell\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">JW</span></div></div></div></a><a href=\"/player/7528/krimz\" class=\"col-custom\" title=\"KRIMZ\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player KRIMZ\" src=\"https://img-cdn.hltv.org/playerbodyshot/jWDjmCaNmW5nB_c_roM620.png?ixlib=java-2.1.0&amp;w=400&amp;s=1cd92987ba6b3f6ecf423f02693e5d27\" class=\"bodyshot-team-img\" title=\"Freddy 'KRIMZ' Johansson\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">KRIMZ</span></div></div></div></a><a href=\"/player/20879/maxster\" class=\"col-custom\" title=\"maxster\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player maxster\" src=\"https://img-cdn.hltv.org/playerbodyshot/0pYNC4tmfsnk_C6pcmNYqe.png?ixlib=java-2.1.0&amp;w=400&amp;s=84dbe3b955507a59972fc74d0370c95a\" class=\"bodyshot-team-img\" title=\"Max 'maxster' Jansson\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">maxster</span></div></div></div></a><a href=\"/player/21012/ro1f\" class=\"col-custom\" title=\"Ro1f\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Ro1f\" src=\"https://img-cdn.hltv.org/playerbodyshot/of7tDOeeasysmzuXyHu2h5.png?ixlib=java-2.1.0&amp;w=400&amp;s=8a79cd2a2f81cac4bfd196dcc69506af\" class=\"bodyshot-team-img\" title=\"Kalle 'Ro1f' Johansson\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">Ro1f</span></div></div></div></a><a href=\"/player/22914/dex\" class=\"col-custom\" title=\"dex\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player dex\" src=\"https://img-cdn.hltv.org/playerbodyshot/McoXIxd73nIaNt2b3eZ7IP.png?ixlib=java-2.1.0&amp;w=400&amp;s=026aa2061d389a4302dace16df144f91\" class=\"bodyshot-team-img\" title=\"Sebastian 'dex' Samuelsson\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif\" class=\"flag\" title=\"Sweden\"> </span><span class=\"text-ellipsis bold\">dex</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Virtus.pro",
+    "url": "https://www.hltv.org/team/5378/virtuspro",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 8789,
+        "nickname": "mir",
+        "url": "/player/8789/mir"
+      },
+      {
+        "id": 23637,
+        "nickname": "b1st",
+        "url": "/player/23637/b1st"
+      },
+      {
+        "id": 24292,
+        "nickname": "F0R3VER",
+        "url": "/player/24292/f0r3ver"
+      },
+      {
+        "id": 24950,
+        "nickname": "AquaRS",
+        "url": "/player/24950/aquars"
+      },
+      {
+        "id": 24952,
+        "nickname": "tO0RO",
+        "url": "/player/24952/to0ro"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/8789/mir\" class=\"col-custom\" title=\"mir\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player mir\" src=\"https://img-cdn.hltv.org/playerbodyshot/meU9nRqt3v2RTPIqaWvOb2.png?ixlib=java-2.1.0&amp;w=400&amp;s=cc380608b8de4920b716681c859d9f31\" class=\"bodyshot-team-img\" title=\"Nikolay 'mir' Bityukov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">mir</span></div></div></div></a><a href=\"/player/23637/b1st\" class=\"col-custom\" title=\"b1st\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player b1st\" src=\"https://img-cdn.hltv.org/playerbodyshot/SvKEo73OGvA_ujlsgUtGMa.png?ixlib=java-2.1.0&amp;w=400&amp;s=fa858c5c86db506344ed3be942b5545d\" class=\"bodyshot-team-img\" title=\"Vladimir 'b1st' Krasikov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">b1st</span></div></div></div></a><a href=\"/player/24292/f0r3ver\" class=\"col-custom\" title=\"F0R3VER\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player F0R3VER\" src=\"https://img-cdn.hltv.org/playerbodyshot/K5muX0B1Co4EuUgESQ5Sew.png?ixlib=java-2.1.0&amp;w=400&amp;s=f672c7ed9c8a06dbdb206e7a7c83d69b\" class=\"bodyshot-team-img\" title=\"Dias 'F0R3VER' Kutubay\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Kazakhstan\" src=\"/img/static/flags/30x20/KZ.gif\" class=\"flag\" title=\"Kazakhstan\"> </span><span class=\"text-ellipsis bold\">F0R3VER</span></div></div></div></a><a href=\"/player/24950/aquars\" class=\"col-custom\" title=\"AquaRS\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player AquaRS\" src=\"https://img-cdn.hltv.org/playerbodyshot/Vov7hOXpLI18htkxcoVdBE.png?ixlib=java-2.1.0&amp;w=400&amp;s=8fe73f332294854864023a7e01867fa1\" class=\"bodyshot-team-img\" title=\"Aleksandr 'AquaRS' Kovalev\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">AquaRS</span></div></div></div></a><a href=\"/player/24952/to0ro\" class=\"col-custom\" title=\"tO0RO\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player tO0RO\" src=\"https://img-cdn.hltv.org/playerbodyshot/jXw9G62DwyT4gXU7AsVl0g.png?ixlib=java-2.1.0&amp;w=400&amp;s=86c4ff5739a6a8769737a3932cf4ebeb\" class=\"bodyshot-team-img\" title=\"Vadim 'tO0RO' Arkov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Russia\" src=\"/img/static/flags/30x20/RU.gif\" class=\"flag\" title=\"Russia\"> </span><span class=\"text-ellipsis bold\">tO0RO</span></div></div></div></a></div>"
+  },
+  {
+    "team": "FlyQuest",
+    "url": "https://www.hltv.org/team/12774/flyquest",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 4679,
+        "nickname": "jks",
+        "url": "/player/4679/jks"
+      },
+      {
+        "id": 11139,
+        "nickname": "aliStair",
+        "url": "/player/11139/alistair"
+      },
+      {
+        "id": 11140,
+        "nickname": "INS",
+        "url": "/player/11140/ins"
+      },
+      {
+        "id": 17384,
+        "nickname": "Vexite",
+        "url": "/player/17384/vexite"
+      },
+      {
+        "id": 18214,
+        "nickname": "nettik",
+        "url": "/player/18214/nettik"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/4679/jks\" class=\"col-custom\" title=\"jks\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player jks\" src=\"https://img-cdn.hltv.org/playerbodyshot/7exp6AkMgCrU9sOBEQ2t8q.png?ixlib=java-2.1.0&amp;w=400&amp;s=2262a9235afa03116422acfa90dd3f58\" class=\"bodyshot-team-img\" title=\"Justin 'jks' Savage\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Australia\" src=\"/img/static/flags/30x20/AU.gif\" class=\"flag\" title=\"Australia\"> </span><span class=\"text-ellipsis bold\">jks</span></div></div></div></a><a href=\"/player/11139/alistair\" class=\"col-custom\" title=\"aliStair\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player aliStair\" src=\"https://img-cdn.hltv.org/playerbodyshot/98hGM-nrspsPCZVm_bmFT_.png?ixlib=java-2.1.0&amp;w=400&amp;s=bab5fc5bff179f999fc65faef91f6df3\" class=\"bodyshot-team-img\" title=\"Alistair 'aliStair' Johnston\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Australia\" src=\"/img/static/flags/30x20/AU.gif\" class=\"flag\" title=\"Australia\"> </span><span class=\"text-ellipsis bold\">aliStair</span></div></div></div></a><a href=\"/player/11140/ins\" class=\"col-custom\" title=\"INS\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player INS\" src=\"https://img-cdn.hltv.org/playerbodyshot/4gOa608I0AUVcw9rF6RmBq.png?ixlib=java-2.1.0&amp;w=400&amp;s=9b7d67e5447efcc7c6b87dc4b3561993\" class=\"bodyshot-team-img\" title=\"Joshua 'INS' Potter\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Australia\" src=\"/img/static/flags/30x20/AU.gif\" class=\"flag\" title=\"Australia\"> </span><span class=\"text-ellipsis bold\">INS</span></div></div></div></a><a href=\"/player/17384/vexite\" class=\"col-custom\" title=\"Vexite\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Vexite\" src=\"https://img-cdn.hltv.org/playerbodyshot/ynU960BNbC1FVdnPB4RICp.png?ixlib=java-2.1.0&amp;w=400&amp;s=15fd0f76b605e0eb7770b5572d897a25\" class=\"bodyshot-team-img\" title=\"Declan 'Vexite' Portelli\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Australia\" src=\"/img/static/flags/30x20/AU.gif\" class=\"flag\" title=\"Australia\"> </span><span class=\"text-ellipsis bold\">Vexite</span></div></div></div></a><a href=\"/player/18214/nettik\" class=\"col-custom\" title=\"nettik\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player nettik\" src=\"https://img-cdn.hltv.org/playerbodyshot/NKY9-baYgIbtF5y0OjLZAL.png?ixlib=java-2.1.0&amp;w=400&amp;s=d4b46cd2541b6d74a3cbec199e7de5a7\" class=\"bodyshot-team-img\" title=\"Corey 'nettik' Browne\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"New Zealand\" src=\"/img/static/flags/30x20/NZ.gif\" class=\"flag\" title=\"New Zealand\"> </span><span class=\"text-ellipsis bold\">nettik</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Without a Roof",
+    "url": "https://www.hltv.org/team/6914/without-a-roof",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 8735,
+        "nickname": "autimatic",
+        "url": "/player/8735/autimatic"
+      },
+      {
+        "id": 8797,
+        "nickname": "Stewie2K",
+        "url": "/player/8797/stewie2k"
+      },
+      {
+        "id": 9136,
+        "nickname": "Brehze",
+        "url": "/player/9136/brehze"
+      },
+      {
+        "id": 11219,
+        "nickname": "CeRq",
+        "url": "/player/11219/cerq"
+      },
+      {
+        "id": 17372,
+        "nickname": "FaNg",
+        "url": "/player/17372/fang"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/8735/autimatic\" class=\"col-custom\" title=\"autimatic\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player autimatic\" src=\"https://img-cdn.hltv.org/playerbodyshot/6KSiG7ElWjykOS1pA59nxl.png?ixlib=java-2.1.0&amp;w=400&amp;s=329ae3e2e0bd351f6b9317609bf1e504\" class=\"bodyshot-team-img\" title=\"Timothy 'autimatic' Ta\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"United States\" src=\"/img/static/flags/30x20/US.gif\" class=\"flag\" title=\"United States\"> </span><span class=\"text-ellipsis bold\">autimatic</span></div></div></div></a><a href=\"/player/8797/stewie2k\" class=\"col-custom\" title=\"Stewie2K\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Stewie2K\" src=\"https://img-cdn.hltv.org/playerbodyshot/OA_JDWkLj6FH74BhCZzstx.png?ixlib=java-2.1.0&amp;w=400&amp;s=c4751ba025772df66ba09e9f7340793b\" class=\"bodyshot-team-img\" title=\"Jake 'Stewie2K' Yip\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"United States\" src=\"/img/static/flags/30x20/US.gif\" class=\"flag\" title=\"United States\"> </span><span class=\"text-ellipsis bold\">Stewie2K</span></div></div></div></a><a href=\"/player/9136/brehze\" class=\"col-custom\" title=\"Brehze\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player Brehze\" src=\"https://img-cdn.hltv.org/playerbodyshot/X4c_wVY8szBOLR8lz8zr2L.png?ixlib=java-2.1.0&amp;w=400&amp;s=17dc902e3a1ed3efec27681ae2ead87d\" class=\"bodyshot-team-img\" title=\"Vincent 'Brehze' Cayonte\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"United States\" src=\"/img/static/flags/30x20/US.gif\" class=\"flag\" title=\"United States\"> </span><span class=\"text-ellipsis bold\">Brehze</span></div></div></div></a><a href=\"/player/11219/cerq\" class=\"col-custom\" title=\"CeRq\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player CeRq\" src=\"https://img-cdn.hltv.org/playerbodyshot/B1hGJKkMl6iSEvwoqUWWht.png?ixlib=java-2.1.0&amp;w=400&amp;s=266407df5f500fc7b85889ad5ff7bba0\" class=\"bodyshot-team-img\" title=\"Tsvetelin 'CeRq' Dimitrov\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Bulgaria\" src=\"/img/static/flags/30x20/BG.gif\" class=\"flag\" title=\"Bulgaria\"> </span><span class=\"text-ellipsis bold\">CeRq</span></div></div></div></a><a href=\"/player/17372/fang\" class=\"col-custom\" title=\"FaNg\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player FaNg\" src=\"https://img-cdn.hltv.org/playerbodyshot/nfQTxaPem3_-L59KKwmYIg.png?ixlib=java-2.1.0&amp;w=400&amp;s=8ab7548450b577649f82cda168a82d53\" class=\"bodyshot-team-img\" title=\"Justin 'FaNg' Coakley\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Canada\" src=\"/img/static/flags/30x20/CA.gif\" class=\"flag\" title=\"Canada\"> </span><span class=\"text-ellipsis bold\">FaNg</span></div></div></div></a></div>"
+  },
+  {
+    "team": "Rare Atom",
+    "url": "https://www.hltv.org/team/11514/rare-atom",
+    "status": 200,
+    "checkedAt": "2026-10-21",
+    "roster": [
+      {
+        "id": 7028,
+        "nickname": "Summer",
+        "url": "/player/7028/summer"
+      },
+      {
+        "id": 8950,
+        "nickname": "kaze",
+        "url": "/player/8950/kaze"
+      },
+      {
+        "id": 19681,
+        "nickname": "ChildKing",
+        "url": "/player/19681/childking"
+      },
+      {
+        "id": 21825,
+        "nickname": "L1haNg",
+        "url": "/player/21825/l1hang"
+      },
+      {
+        "id": 24306,
+        "nickname": "3gl",
+        "url": "/player/24306/3gl"
+      }
+    ],
+    "evidence": "<div class=\"bodyshot-team g-grid\"><a href=\"/player/7028/summer\" class=\"col-custom\" title=\"Summer\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--igl\" title=\"In-game leader\"><svg class=\"role-pill-icon\" viewBox=\"0 0 576 512\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M309 106c11.4-7 19-19.7 19-34 0-22.1-17.9-40-40-40s-40 17.9-40 40c0 14.3 7.6 27 19 34L209.7 220.6c-9.1 18.2-32.7 23.4-48.6 10.7L72 160c5-6.7 8-15 8-24 0-22.1-17.9-40-40-40S0 113.9 0 136s17.9 40 40 40c.2 0 .5 0 .7 0l45.7 251.4c3.5 19.3 20.3 33.3 39.9 33.3H449.7c19.6 0 36.4-14 39.9-33.3L535.3 176c.2 0 .5 0 .7 0 22.1 0 40-17.9 40-40s-17.9-40-40-40-40 17.9-40 40c0 9 3 17.3 8 24l-89.1 71.3c-15.9 12.7-39.5 7.5-48.6-10.7L309 106z\"></path></svg></span></div><img alt=\"Image of Counter-Strike player Summer\" src=\"https://img-cdn.hltv.org/playerbodyshot/0XknFPzXFf_b841K-o8-Oe.png?ixlib=java-2.1.0&amp;w=400&amp;s=ffd6534edfc5a37c44ce366e578c7630\" class=\"bodyshot-team-img\" title=\"YuLun 'Summer' Cai\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">Summer</span></div></div></div></a><a href=\"/player/8950/kaze\" class=\"col-custom\" title=\"kaze\"><div class=\"overlayImageFrame\"><div class=\"role-pills\"><span class=\"role-pill role-pill--awp\" title=\"Main AWPer\"><i class=\"fa fa-crosshairs\"></i></span></div><img alt=\"Image of Counter-Strike player kaze\" src=\"https://img-cdn.hltv.org/playerbodyshot/WyBTxa3AW43lQl1roiq2BN.png?ixlib=java-2.1.0&amp;w=400&amp;s=58b9534870308cc1cccf3f94fa47c79a\" class=\"bodyshot-team-img\" title=\"Andrew 'kaze' Khong\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"Malaysia\" src=\"/img/static/flags/30x20/MY.gif\" class=\"flag\" title=\"Malaysia\"> </span><span class=\"text-ellipsis bold\">kaze</span></div></div></div></a><a href=\"/player/19681/childking\" class=\"col-custom\" title=\"ChildKing\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player ChildKing\" src=\"https://img-cdn.hltv.org/playerbodyshot/U2Y77CVQxosT-EsmgLB_Ir.png?ixlib=java-2.1.0&amp;w=400&amp;s=ffc2fc46ad27d94cfc5924cac1941c8c\" class=\"bodyshot-team-img\" title=\"Junhao 'ChildKing' Peng\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">ChildKing</span></div></div></div></a><a href=\"/player/21825/l1hang\" class=\"col-custom\" title=\"L1haNg\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player L1haNg\" src=\"https://img-cdn.hltv.org/playerbodyshot/kOA8p9RqbVo6DdwerB5AKq.png?ixlib=java-2.1.0&amp;w=400&amp;s=2def5cb98b9699badcc673c3c86aea2a\" class=\"bodyshot-team-img\" title=\"Yihang 'L1haNg' Li\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">L1haNg</span></div></div></div></a><a href=\"/player/24306/3gl\" class=\"col-custom\" title=\"3gl\"><div class=\"overlayImageFrame\"><img alt=\"Image of Counter-Strike player 3gl\" src=\"https://img-cdn.hltv.org/playerbodyshot/VDxI09PqNEKykh4HdYhAO2.png?ixlib=java-2.1.0&amp;w=400&amp;s=14af62738224ad8e9f19fc168d291fea\" class=\"bodyshot-team-img\" title=\"Guoliang '3gl' Wang\"><div class=\"text-ellipsis nickname-container\"><div class=\"playerFlagName\"><span class=\"gtSmartphone-only\"><img alt=\"China\" src=\"/img/static/flags/30x20/CN.gif\" class=\"flag\" title=\"China\"> </span><span class=\"text-ellipsis bold\">3gl</span></div></div></div></a></div>"
+  }
+]

@@ -1,0 +1,3311 @@
+[
+  {
+    "hltvId": 16920,
+    "status": 200,
+    "nickname": "sh1ro",
+    "realName": "Dmitry Sokolov",
+    "birthDate": "15 July 2001",
+    "team": "Spirit",
+    "teamUrl": "/team/7020/spirit",
+    "canonical": "https://www.hltv.org/player/16920/sh1ro",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Dmitry Sokolov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>15 July 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 18317,
+    "status": 200,
+    "nickname": "magixx",
+    "realName": "Boris Vorobiev",
+    "birthDate": "3 June 2003",
+    "team": "Spirit",
+    "teamUrl": "/team/7020/spirit",
+    "canonical": "https://www.hltv.org/player/18317/magixx",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Boris Vorobiev</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 June 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 19808,
+    "status": 200,
+    "nickname": "tN1R",
+    "realName": "Andrey Tatarinovich",
+    "birthDate": "14 February 2001",
+    "team": "Spirit",
+    "teamUrl": "/team/7020/spirit",
+    "canonical": "https://www.hltv.org/player/19808/tn1r",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Andrey Tatarinovich</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>14 February 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 20423,
+    "status": 200,
+    "nickname": "zont1x",
+    "realName": "Myroslav Plakhotia",
+    "birthDate": "20 July 2005",
+    "team": "Spirit",
+    "teamUrl": "/team/7020/spirit",
+    "canonical": "https://www.hltv.org/player/20423/zont1x",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Myroslav Plakhotia</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>20 July 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 21167,
+    "status": 200,
+    "nickname": "donk",
+    "realName": "Danil Kryshkovets",
+    "birthDate": "25 January 2007",
+    "team": "Spirit",
+    "teamUrl": "/team/7020/spirit",
+    "canonical": "https://www.hltv.org/player/21167/donk",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Danil Kryshkovets</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>25 January 2007</span></div>"
+    }
+  },
+  {
+    "hltvId": 7322,
+    "status": 200,
+    "nickname": "apEX",
+    "realName": "Dan Madesclaire",
+    "birthDate": "22 February 1993",
+    "team": "Link",
+    "teamUrl": "https://www.hltv.org/news/45267/zywoo-and-apex-talk-vitality-contract-extensions-legacy-and-the-season-ahead",
+    "canonical": "https://www.hltv.org/player/7322/apex",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Dan Madesclaire</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 February 1993</span></div>"
+    }
+  },
+  {
+    "hltvId": 11816,
+    "status": 200,
+    "nickname": "ropz",
+    "realName": "Robin Kool",
+    "birthDate": "22 December 1999",
+    "team": "Vitality",
+    "teamUrl": "/team/9565/vitality",
+    "canonical": "https://www.hltv.org/player/11816/ropz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Robin Kool</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 December 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 11893,
+    "status": 200,
+    "nickname": "ZywOo",
+    "realName": "Mathieu Herbaut",
+    "birthDate": "9 November 2000",
+    "team": "Link",
+    "teamUrl": "https://www.hltv.org/news/45267/zywoo-and-apex-talk-vitality-contract-extensions-legacy-and-the-season-ahead",
+    "canonical": "https://www.hltv.org/player/11893/zywoo",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Mathieu Herbaut</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>9 November 2000</span></div>"
+    }
+  },
+  {
+    "hltvId": 16693,
+    "status": 200,
+    "nickname": "flameZ",
+    "realName": "Shahar Shushan",
+    "birthDate": "22 June 2003",
+    "team": "Link",
+    "teamUrl": "https://x.com/TeamVitalityCS/status/1857423431072989295/photo/1",
+    "canonical": "https://www.hltv.org/player/16693/flamez",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Shahar Shushan</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 June 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 18462,
+    "status": 200,
+    "nickname": "mezii",
+    "realName": "William Merriman",
+    "birthDate": "15 October 1998",
+    "team": "Vitality",
+    "teamUrl": "/team/9565/vitality",
+    "canonical": "https://www.hltv.org/player/18462/mezii",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> William Merriman</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>15 October 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 2023,
+    "status": 200,
+    "nickname": "FalleN",
+    "realName": "Gabriel Toledo",
+    "birthDate": "30 May 1991",
+    "team": "FURIA",
+    "teamUrl": "/team/8297/furia",
+    "canonical": "https://www.hltv.org/player/2023/fallen",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Gabriel Toledo</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>30 May 1991</span></div>"
+    }
+  },
+  {
+    "hltvId": 12553,
+    "status": 200,
+    "nickname": "yuurih",
+    "realName": "Yuri Santos",
+    "birthDate": "22 December 1999",
+    "team": "Link",
+    "teamUrl": "https://www.hltv.org/news/39361/kscerato-and-yuurih-sign-three-year-contract-extensions-they-are-furia",
+    "canonical": "https://www.hltv.org/player/12553/yuurih",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Yuri Santos</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 December 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 13915,
+    "status": 200,
+    "nickname": "YEKINDAR",
+    "realName": "Mareks Gaļinskis",
+    "birthDate": "4 October 1999",
+    "team": "Link",
+    "teamUrl": "https://www.hltv.org/news/42111/furia-announce-yekindar-signing",
+    "canonical": "https://www.hltv.org/player/13915/yekindar",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Mareks Gaļinskis</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>4 October 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 15631,
+    "status": 200,
+    "nickname": "KSCERATO",
+    "realName": "Kaike Cerato",
+    "birthDate": "12 September 1999",
+    "team": "Link",
+    "teamUrl": "https://www.hltv.org/news/39361/kscerato-and-yuurih-sign-three-year-contract-extensions-they-are-furia",
+    "canonical": "https://www.hltv.org/player/15631/kscerato",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Kaike Cerato</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>12 September 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 24144,
+    "status": 200,
+    "nickname": "molodoy",
+    "realName": "Danil Golubenko",
+    "birthDate": "10 January 2005",
+    "team": "FURIA",
+    "teamUrl": "/team/8297/furia",
+    "canonical": "https://www.hltv.org/player/24144/molodoy",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Danil Golubenko</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>10 January 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 18072,
+    "status": 200,
+    "nickname": "torzsi",
+    "realName": "Ádám Torzsás",
+    "birthDate": "17 May 2002",
+    "team": "MOUZ",
+    "teamUrl": "/team/4494/mouz",
+    "canonical": "https://www.hltv.org/player/18072/torzsi",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ádám Torzsás</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>17 May 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 18221,
+    "status": 200,
+    "nickname": "Spinx",
+    "realName": "Lotan Giladi",
+    "birthDate": "13 September 2000",
+    "team": "MOUZ",
+    "teamUrl": "/team/4494/mouz",
+    "canonical": "https://www.hltv.org/player/18221/spinx",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Lotan Giladi</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>13 September 2000</span></div>"
+    }
+  },
+  {
+    "hltvId": 20312,
+    "status": 200,
+    "nickname": "xertioN",
+    "realName": "Dorian Berman",
+    "birthDate": "22 July 2004",
+    "team": "MOUZ",
+    "teamUrl": "/team/4494/mouz",
+    "canonical": "https://www.hltv.org/player/20312/xertion",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Dorian Berman</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 July 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 22279,
+    "status": 200,
+    "nickname": "PR",
+    "realName": "Oldřich Nový",
+    "birthDate": "17 September 2007",
+    "team": "MOUZ",
+    "teamUrl": "/team/4494/mouz",
+    "canonical": "https://www.hltv.org/player/22279/pr",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Oldřich Nový</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>17 September 2007</span></div>"
+    }
+  },
+  {
+    "hltvId": 24457,
+    "status": 200,
+    "nickname": "xelex",
+    "realName": "Adrian Vincze",
+    "birthDate": "3 June 2008",
+    "team": "MOUZ",
+    "teamUrl": "/team/4494/mouz",
+    "canonical": "https://www.hltv.org/player/24457/xelex",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Adrian Vincze</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 June 2008</span></div>"
+    }
+  },
+  {
+    "hltvId": 7938,
+    "status": 200,
+    "nickname": "XANTARES",
+    "realName": "Ismailcan Dörtkardeş",
+    "birthDate": "7 August 1995",
+    "team": "Aurora",
+    "teamUrl": "/team/11861/aurora",
+    "canonical": "https://www.hltv.org/player/7938/xantares",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ismailcan Dörtkardeş</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>7 August 1995</span></div>"
+    }
+  },
+  {
+    "hltvId": 8574,
+    "status": 200,
+    "nickname": "woxic",
+    "realName": "Özgür Eker",
+    "birthDate": "2 September 1998",
+    "team": "Aurora",
+    "teamUrl": "/team/11861/aurora",
+    "canonical": "https://www.hltv.org/player/8574/woxic",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Özgür Eker</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>2 September 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 18850,
+    "status": 200,
+    "nickname": "Jimpphat",
+    "realName": "Jimi Salo",
+    "birthDate": "9 September 2006",
+    "team": "Aurora",
+    "teamUrl": "/team/11861/aurora",
+    "canonical": "https://www.hltv.org/player/18850/jimpphat",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jimi Salo</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>9 September 2006</span></div>"
+    }
+  },
+  {
+    "hltvId": 19677,
+    "status": 200,
+    "nickname": "kyxsan",
+    "realName": "Damjan Stoilkovski",
+    "birthDate": "26 May 2000",
+    "team": "Aurora",
+    "teamUrl": "/team/11861/aurora",
+    "canonical": "https://www.hltv.org/player/19677/kyxsan",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Damjan Stoilkovski</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>26 May 2000</span></div>"
+    }
+  },
+  {
+    "hltvId": 21243,
+    "status": 200,
+    "nickname": "Wicadia",
+    "realName": "Ali Haydar Yalçın",
+    "birthDate": "4 March 2005",
+    "team": "Aurora",
+    "teamUrl": "/team/11861/aurora",
+    "canonical": "https://www.hltv.org/player/21243/wicadia",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ali Haydar Yalçın</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>4 March 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 429,
+    "status": 200,
+    "nickname": "karrigan",
+    "realName": "Finn Andersen",
+    "birthDate": "14 April 1990",
+    "team": "Falcons",
+    "teamUrl": "/team/11283/falcons",
+    "canonical": "https://www.hltv.org/player/429/karrigan",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Finn Andersen</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>14 April 1990</span></div>"
+    }
+  },
+  {
+    "hltvId": 3741,
+    "status": 200,
+    "nickname": "NiKo",
+    "realName": "Nikola Kovač",
+    "birthDate": "16 February 1997",
+    "team": "Falcons",
+    "teamUrl": "/team/11283/falcons",
+    "canonical": "https://www.hltv.org/player/3741/niko",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Nikola Kovač</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>16 February 1997</span></div>"
+    }
+  },
+  {
+    "hltvId": 12018,
+    "status": 200,
+    "nickname": "TeSeS",
+    "realName": "René Madsen",
+    "birthDate": "12 December 2000",
+    "team": "Falcons",
+    "teamUrl": "/team/11283/falcons",
+    "canonical": "https://www.hltv.org/player/12018/teses",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> René Madsen</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>12 December 2000</span></div>"
+    }
+  },
+  {
+    "hltvId": 19230,
+    "status": 200,
+    "nickname": "m0NESY",
+    "realName": "Ilya Osipov",
+    "birthDate": "1 May 2005",
+    "team": "Link",
+    "teamUrl": "https://www.hltv.org/news/45711/falcons-announce-m0nesy-contract-extension",
+    "canonical": "https://www.hltv.org/player/19230/m0nesy",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ilya Osipov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>1 May 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 24177,
+    "status": 200,
+    "nickname": "kyousuke",
+    "realName": "Maksim Lukin",
+    "birthDate": "30 January 2008",
+    "team": "Falcons",
+    "teamUrl": "/team/11283/falcons",
+    "canonical": "https://www.hltv.org/player/24177/kyousuke",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Maksim Lukin</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>30 January 2008</span></div>"
+    }
+  },
+  {
+    "hltvId": 12521,
+    "status": 200,
+    "nickname": "arT",
+    "realName": "Andrei Piovezan",
+    "birthDate": "27 March 1996",
+    "team": "Legacy",
+    "teamUrl": "/team/12468/legacy",
+    "canonical": "https://www.hltv.org/player/12521/art",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Andrei Piovezan</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>27 March 1996</span></div>"
+    }
+  },
+  {
+    "hltvId": 15698,
+    "status": 200,
+    "nickname": "dumau",
+    "realName": "Eduardo Wolkmer",
+    "birthDate": "9 November 2003",
+    "team": "Legacy",
+    "teamUrl": "/team/12468/legacy",
+    "canonical": "https://www.hltv.org/player/15698/dumau",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Eduardo Wolkmer</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>9 November 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 19045,
+    "status": 200,
+    "nickname": "latto",
+    "realName": "Bruno Rebelatto",
+    "birthDate": "21 December 2002",
+    "team": "Legacy",
+    "teamUrl": "/team/12468/legacy",
+    "canonical": "https://www.hltv.org/player/19045/latto",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Bruno Rebelatto</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>21 December 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 19686,
+    "status": 200,
+    "nickname": "n1ssim",
+    "realName": "Vinicius Pereira",
+    "birthDate": "27 April 2001",
+    "team": "Legacy",
+    "teamUrl": "/team/12468/legacy",
+    "canonical": "https://www.hltv.org/player/19686/n1ssim",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Vinicius Pereira</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>27 April 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 19869,
+    "status": 200,
+    "nickname": "try",
+    "realName": "Santino Rigal",
+    "birthDate": "23 September 2004",
+    "team": "Legacy",
+    "teamUrl": "/team/12468/legacy",
+    "canonical": "https://www.hltv.org/player/19869/try",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Santino Rigal</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>23 September 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 3972,
+    "status": 200,
+    "nickname": "huNter-",
+    "realName": "Nemanja Kovač",
+    "birthDate": "3 January 1996",
+    "team": "G2",
+    "teamUrl": "/team/5995/g2",
+    "canonical": "https://www.hltv.org/player/3972/hunter",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Nemanja Kovač</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 January 1996</span></div>"
+    }
+  },
+  {
+    "hltvId": 9436,
+    "status": 200,
+    "nickname": "NertZ",
+    "realName": "Guy Iluz",
+    "birthDate": "12 July 1999",
+    "team": "G2",
+    "teamUrl": "/team/5995/g2",
+    "canonical": "https://www.hltv.org/player/9436/nertz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Guy Iluz</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>12 July 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 20425,
+    "status": 200,
+    "nickname": "r1nkle",
+    "realName": "Artem Moroz",
+    "birthDate": "27 October 2004",
+    "team": "G2",
+    "teamUrl": "/team/5995/g2",
+    "canonical": "https://www.hltv.org/player/20425/r1nkle",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Artem Moroz</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>27 October 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 20447,
+    "status": 200,
+    "nickname": "HeavyGod",
+    "realName": "Nikita Martynenko",
+    "birthDate": "24 July 2002",
+    "team": "G2",
+    "teamUrl": "/team/5995/g2",
+    "canonical": "https://www.hltv.org/player/20447/heavygod",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Nikita Martynenko</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>24 July 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 21062,
+    "status": 200,
+    "nickname": "MATYS",
+    "realName": "Matúš Šimko",
+    "birthDate": "21 April 2002",
+    "team": "G2",
+    "teamUrl": "/team/5995/g2",
+    "canonical": "https://www.hltv.org/player/21062/matys",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Matúš Šimko</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>21 April 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 11840,
+    "status": 200,
+    "nickname": "Boombl4",
+    "realName": "Kirill Mikhailov",
+    "birthDate": "20 December 1998",
+    "team": "BETBOOM",
+    "teamUrl": "/team/12394/betboom",
+    "canonical": "https://www.hltv.org/player/11840/boombl4",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Kirill Mikhailov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>20 December 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 15662,
+    "status": 200,
+    "nickname": "zorte",
+    "realName": "Aleksandr Zagodyrenko",
+    "birthDate": "28 May 1998",
+    "team": "BETBOOM",
+    "teamUrl": "/team/12394/betboom",
+    "canonical": "https://www.hltv.org/player/15662/zorte",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Aleksandr Zagodyrenko</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>28 May 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 18506,
+    "status": 200,
+    "nickname": "S1ren",
+    "realName": "Pavel Ogloblin",
+    "birthDate": "16 July 2002",
+    "team": "BETBOOM",
+    "teamUrl": "/team/12394/betboom",
+    "canonical": "https://www.hltv.org/player/18506/s1ren",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Pavel Ogloblin</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>16 July 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 20357,
+    "status": 200,
+    "nickname": "d1Ledez",
+    "realName": "Daniil Kustov",
+    "birthDate": "3 July 2003",
+    "team": "BETBOOM",
+    "teamUrl": "/team/12394/betboom",
+    "canonical": "https://www.hltv.org/player/20357/d1ledez",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Daniil Kustov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 July 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 21667,
+    "status": 200,
+    "nickname": "Magnojez",
+    "realName": "Kirill Rodnov",
+    "birthDate": "14 October 2004",
+    "team": "BETBOOM",
+    "teamUrl": "/team/12394/betboom",
+    "canonical": "https://www.hltv.org/player/21667/magnojez",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Kirill Rodnov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>14 October 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 19164,
+    "status": 200,
+    "nickname": "SunPayus",
+    "realName": "Álvaro García",
+    "birthDate": "19 November 1998",
+    "team": "FUT",
+    "teamUrl": "/team/13286/fut",
+    "canonical": "https://www.hltv.org/player/19164/sunpayus",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Álvaro García</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>19 November 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 19187,
+    "status": 200,
+    "nickname": "xfl0ud",
+    "realName": "Yasin Koç",
+    "birthDate": "23 December 2002",
+    "team": "FUT",
+    "teamUrl": "/team/13286/fut",
+    "canonical": "https://www.hltv.org/player/19187/xfl0ud",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Yasin Koç</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>23 December 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 20584,
+    "status": 200,
+    "nickname": "dem0n",
+    "realName": "Dmytro Myroshnychenko",
+    "birthDate": "2 October 2007",
+    "team": "FUT",
+    "teamUrl": "/team/13286/fut",
+    "canonical": "https://www.hltv.org/player/20584/dem0n",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Dmytro Myroshnychenko</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>2 October 2007</span></div>"
+    }
+  },
+  {
+    "hltvId": 22203,
+    "status": 200,
+    "nickname": "Krabeni",
+    "realName": "Aulon Fazlija",
+    "birthDate": "7 April 2005",
+    "team": "FUT",
+    "teamUrl": "/team/13286/fut",
+    "canonical": "https://www.hltv.org/player/22203/krabeni",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Aulon Fazlija</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>7 April 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 23553,
+    "status": 200,
+    "nickname": "dziugss",
+    "realName": "Džiugas Steponavičius",
+    "birthDate": "12 September 2008",
+    "team": "FUT",
+    "teamUrl": "/team/13286/fut",
+    "canonical": "https://www.hltv.org/player/23553/dziugss",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Džiugas Steponavičius</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>12 September 2008</span></div>"
+    }
+  },
+  {
+    "hltvId": 9816,
+    "status": 200,
+    "nickname": "Aleksib",
+    "realName": "Aleksi Virolainen",
+    "birthDate": "30 March 1997",
+    "team": "Natus Vincere",
+    "teamUrl": "/team/4608/natus-vincere",
+    "canonical": "https://www.hltv.org/player/9816/aleksib",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Aleksi Virolainen</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>30 March 1997</span></div>"
+    }
+  },
+  {
+    "hltvId": 14759,
+    "status": 200,
+    "nickname": "iM",
+    "realName": "Mihai Ivan",
+    "birthDate": "29 July 1999",
+    "team": "Natus Vincere",
+    "teamUrl": "/team/4608/natus-vincere",
+    "canonical": "https://www.hltv.org/player/14759/im",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Mihai Ivan</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>29 July 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 18987,
+    "status": 200,
+    "nickname": "b1t",
+    "realName": "Valeriy Vakhovskiy",
+    "birthDate": "5 January 2003",
+    "team": "Natus Vincere",
+    "teamUrl": "/team/4608/natus-vincere",
+    "canonical": "https://www.hltv.org/player/18987/b1t",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Valeriy Vakhovskiy</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>5 January 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 20127,
+    "status": 200,
+    "nickname": "w0nderful",
+    "realName": "Ihor Zhdanov",
+    "birthDate": "14 December 2004",
+    "team": "Natus Vincere",
+    "teamUrl": "/team/4608/natus-vincere",
+    "canonical": "https://www.hltv.org/player/20127/w0nderful",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ihor Zhdanov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>14 December 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 22673,
+    "status": 200,
+    "nickname": "makazze",
+    "realName": "Drin Shaqiri",
+    "birthDate": "21 December 2006",
+    "team": "Natus Vincere",
+    "teamUrl": "/team/4608/natus-vincere",
+    "canonical": "https://www.hltv.org/player/22673/makazze",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Drin Shaqiri</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>21 December 2006</span></div>"
+    }
+  },
+  {
+    "hltvId": 19310,
+    "status": 200,
+    "nickname": "LNZ",
+    "realName": "Linus Holtäng",
+    "birthDate": "20 October 2002",
+    "team": "MIBR",
+    "teamUrl": "/team/9215/mibr",
+    "canonical": "https://www.hltv.org/player/19310/lnz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Linus Holtäng</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>20 October 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 19694,
+    "status": 200,
+    "nickname": "nqz",
+    "realName": "Lucas Soares",
+    "birthDate": "18 January 2005",
+    "team": "MIBR",
+    "teamUrl": "/team/9215/mibr",
+    "canonical": "https://www.hltv.org/player/19694/nqz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Lucas Soares</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>18 January 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 21037,
+    "status": 200,
+    "nickname": "insani",
+    "realName": "Felipe Yuji",
+    "birthDate": "25 April 2004",
+    "team": "MIBR",
+    "teamUrl": "/team/9215/mibr",
+    "canonical": "https://www.hltv.org/player/21037/insani",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Felipe Yuji</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>25 April 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 21288,
+    "status": 200,
+    "nickname": "venomzera",
+    "realName": "Carlos Eduardo",
+    "birthDate": "19 August 2004",
+    "team": "MIBR",
+    "teamUrl": "/team/9215/mibr",
+    "canonical": "https://www.hltv.org/player/21288/venomzera",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Carlos Eduardo</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>19 August 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 22570,
+    "status": 200,
+    "nickname": "tomaszin",
+    "realName": "Tomas Corna",
+    "birthDate": "15 February 2004",
+    "team": "MIBR",
+    "teamUrl": "/team/9215/mibr",
+    "canonical": "https://www.hltv.org/player/22570/tomaszin",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Tomas Corna</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>15 February 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 8528,
+    "status": 200,
+    "nickname": "HObbit",
+    "realName": "Abay Khassenov",
+    "birthDate": "18 May 1994",
+    "team": "PARIVISION",
+    "teamUrl": "/team/12467/parivision",
+    "canonical": "https://www.hltv.org/player/8528/hobbit",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Abay Khassenov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>18 May 1994</span></div>"
+    }
+  },
+  {
+    "hltvId": 12732,
+    "status": 200,
+    "nickname": "FL1T",
+    "realName": "Evgenii Lebedev",
+    "birthDate": "21 December 2000",
+    "team": "PARIVISION",
+    "teamUrl": "/team/12467/parivision",
+    "canonical": "https://www.hltv.org/player/12732/fl1t",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Evgenii Lebedev</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>21 December 2000</span></div>"
+    }
+  },
+  {
+    "hltvId": 13776,
+    "status": 200,
+    "nickname": "Jame",
+    "realName": "Dzhami Ali",
+    "birthDate": "23 August 1998",
+    "team": "PARIVISION",
+    "teamUrl": "/team/12467/parivision",
+    "canonical": "https://www.hltv.org/player/13776/jame",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Dzhami Ali</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>23 August 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 22471,
+    "status": 200,
+    "nickname": "xiELO",
+    "realName": "Vladislav Lysov",
+    "birthDate": "28 January 2006",
+    "team": "PARIVISION",
+    "teamUrl": "/team/12467/parivision",
+    "canonical": "https://www.hltv.org/player/22471/xielo",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Vladislav Lysov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>28 January 2006</span></div>"
+    }
+  },
+  {
+    "hltvId": 23685,
+    "status": 200,
+    "nickname": "zweih",
+    "realName": "Ivan Gogin",
+    "birthDate": "19 September 2007",
+    "team": "PARIVISION",
+    "teamUrl": "/team/12467/parivision",
+    "canonical": "https://www.hltv.org/player/23685/zweih",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ivan Gogin</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>19 September 2007</span></div>"
+    }
+  },
+  {
+    "hltvId": 16555,
+    "status": 200,
+    "nickname": "Ax1Le",
+    "realName": "Sergey Rykhtorov",
+    "birthDate": "29 April 2002",
+    "team": "1win",
+    "teamUrl": "/team/10621/1win",
+    "canonical": "https://www.hltv.org/player/16555/ax1le",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Sergey Rykhtorov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>29 April 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 16921,
+    "status": 200,
+    "nickname": "nafany",
+    "realName": "Vladislav Gorshkov",
+    "birthDate": "15 June 2001",
+    "team": "1win",
+    "teamUrl": "/team/10621/1win",
+    "canonical": "https://www.hltv.org/player/16921/nafany",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Vladislav Gorshkov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>15 June 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 20101,
+    "status": 200,
+    "nickname": "fame",
+    "realName": "Petr Bolyshev",
+    "birthDate": "3 March 2003",
+    "team": "1win",
+    "teamUrl": "/team/10621/1win",
+    "canonical": "https://www.hltv.org/player/20101/fame",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Petr Bolyshev</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 March 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 21348,
+    "status": 200,
+    "nickname": "ArtFr0st",
+    "realName": "Artem Kharitonov",
+    "birthDate": "27 November 2001",
+    "team": "1win",
+    "teamUrl": "/team/10621/1win",
+    "canonical": "https://www.hltv.org/player/21348/artfr0st",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Artem Kharitonov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>27 November 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 12092,
+    "status": 200,
+    "nickname": "max",
+    "realName": "Maximiliano Gonzalez",
+    "birthDate": "15 June 1999",
+    "team": "9z",
+    "teamUrl": "/team/9996/9z",
+    "canonical": "https://www.hltv.org/player/12092/max",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Maximiliano Gonzalez</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>15 June 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 14736,
+    "status": 200,
+    "nickname": "dgt",
+    "realName": "Franco Garcia",
+    "birthDate": "12 May 2001",
+    "team": "9z",
+    "teamUrl": "/team/9996/9z",
+    "canonical": "https://www.hltv.org/player/14736/dgt",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Franco Garcia</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>12 May 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 14737,
+    "status": 200,
+    "nickname": "meyern",
+    "realName": "Ignacio Meyer",
+    "birthDate": "10 September 2002",
+    "team": "9z",
+    "teamUrl": "/team/9996/9z",
+    "canonical": "https://www.hltv.org/player/14737/meyern",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ignacio Meyer</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>10 September 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 20394,
+    "status": 200,
+    "nickname": "luchov",
+    "realName": "Luciano Herrera",
+    "birthDate": "11 May 2001",
+    "team": "9z",
+    "teamUrl": "/team/9996/9z",
+    "canonical": "https://www.hltv.org/player/20394/luchov",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Luciano Herrera</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>11 May 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 22613,
+    "status": 200,
+    "nickname": "HUASOPEEK",
+    "realName": "Matias Ibañez Hernandez",
+    "birthDate": "29 April 2003",
+    "team": "9z",
+    "teamUrl": "/team/9996/9z",
+    "canonical": "https://www.hltv.org/player/22613/huasopeek",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Matias Ibañez Hernandez</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>29 April 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 16726,
+    "status": 200,
+    "nickname": "phzy",
+    "realName": "Love Smidebrant",
+    "birthDate": "24 September 2002",
+    "team": "Astralis",
+    "teamUrl": "/team/6665/astralis",
+    "canonical": "https://www.hltv.org/player/16726/phzy",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Love Smidebrant</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>24 September 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 16820,
+    "status": 200,
+    "nickname": "siuhy",
+    "realName": "Kamil Szkaradek",
+    "birthDate": "26 August 2002",
+    "team": "Astralis",
+    "teamUrl": "/team/6665/astralis",
+    "canonical": "https://www.hltv.org/player/16820/siuhy",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Kamil Szkaradek</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>26 August 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 20304,
+    "status": 200,
+    "nickname": "Staehr",
+    "realName": "Victor Staehr",
+    "birthDate": "19 July 2004",
+    "team": "Link",
+    "teamUrl": "https://www.hltv.org/news/41228/staehr-extends-contract-with-astralis-until-2027",
+    "canonical": "https://www.hltv.org/player/20304/staehr",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Victor Staehr</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>19 July 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 21217,
+    "status": 200,
+    "nickname": "ryu",
+    "realName": "Gytis Glušauskas",
+    "birthDate": "25 July 2004",
+    "team": "Astralis",
+    "teamUrl": "/team/6665/astralis",
+    "canonical": "https://www.hltv.org/player/21217/ryu",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Gytis Glušauskas</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>25 July 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 22674,
+    "status": 200,
+    "nickname": "cmtry",
+    "realName": "Nikita Samolotov",
+    "birthDate": "27 September 2007",
+    "team": "Astralis",
+    "teamUrl": "/team/6665/astralis",
+    "canonical": "https://www.hltv.org/player/22674/cmtry",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Nikita Samolotov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>27 September 2007</span></div>"
+    }
+  },
+  {
+    "hltvId": 9960,
+    "status": 200,
+    "nickname": "frozen",
+    "realName": "David Čerňanský",
+    "birthDate": "18 July 2002",
+    "team": "FaZe",
+    "teamUrl": "/team/6667/faze",
+    "canonical": "https://www.hltv.org/player/9960/frozen",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> David Čerňanský</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>18 July 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 10394,
+    "status": 200,
+    "nickname": "Twistzz",
+    "realName": "Russel Van Dulken",
+    "birthDate": "14 November 1999",
+    "team": "FaZe",
+    "teamUrl": "/team/6667/faze",
+    "canonical": "https://www.hltv.org/player/10394/twistzz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Russel Van Dulken</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>14 November 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 21972,
+    "status": 200,
+    "nickname": "Neityu",
+    "realName": "Ryan Aubry",
+    "birthDate": "3 August 2005",
+    "team": "FaZe",
+    "teamUrl": "/team/6667/faze",
+    "canonical": "https://www.hltv.org/player/21972/neityu",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ryan Aubry</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 August 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 22383,
+    "status": 200,
+    "nickname": "jcobbb",
+    "realName": "Jakub Pietruszewski",
+    "birthDate": "27 January 2004",
+    "team": "FaZe",
+    "teamUrl": "/team/6667/faze",
+    "canonical": "https://www.hltv.org/player/22383/jcobbb",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jakub Pietruszewski</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>27 January 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 22866,
+    "status": 200,
+    "nickname": "JBOEN",
+    "realName": "Jason Boe Nielsen",
+    "birthDate": "21 July 2005",
+    "team": "FaZe",
+    "teamUrl": "/team/6667/faze",
+    "canonical": "https://www.hltv.org/player/22866/jboen",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jason Boe Nielsen</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>21 July 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 15370,
+    "status": 200,
+    "nickname": "slaxz-",
+    "realName": "Fritz Dietrich",
+    "birthDate": "25 November 1998",
+    "team": "M80",
+    "teamUrl": "/team/12376/m80",
+    "canonical": "https://www.hltv.org/player/15370/slaxz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Fritz Dietrich</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>25 November 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 16599,
+    "status": 200,
+    "nickname": "Swisher",
+    "realName": "Michael Schmid",
+    "birthDate": "17 September 1998",
+    "team": "M80",
+    "teamUrl": "/team/12376/m80",
+    "canonical": "https://www.hltv.org/player/16599/swisher",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Michael Schmid</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>17 September 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 20104,
+    "status": 200,
+    "nickname": "s1n",
+    "realName": "Elias Stein",
+    "birthDate": "18 March 2002",
+    "team": "M80",
+    "teamUrl": "/team/12376/m80",
+    "canonical": "https://www.hltv.org/player/20104/s1n",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Elias Stein</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>18 March 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 21665,
+    "status": 200,
+    "nickname": "JBa",
+    "realName": "Josh Barutt",
+    "birthDate": "10 June 2004",
+    "team": "M80",
+    "teamUrl": "/team/12376/m80",
+    "canonical": "https://www.hltv.org/player/21665/jba",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Josh Barutt</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>10 June 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 22921,
+    "status": 200,
+    "nickname": "Lake",
+    "realName": "Mason Sanderson",
+    "birthDate": "19 November 2004",
+    "team": "M80",
+    "teamUrl": "/team/12376/m80",
+    "canonical": "https://www.hltv.org/player/22921/lake",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Mason Sanderson</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>19 November 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 10994,
+    "status": 200,
+    "nickname": "stavn",
+    "realName": "Martin Lund",
+    "birthDate": "26 March 2002",
+    "team": "Ninjas in Pyjamas",
+    "teamUrl": "/team/4411/ninjas-in-pyjamas",
+    "canonical": "https://www.hltv.org/player/10994/stavn",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Martin Lund</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>26 March 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 14148,
+    "status": 200,
+    "nickname": "sjuush",
+    "realName": "Rasmus Beck",
+    "birthDate": "3 January 1999",
+    "team": "Ninjas in Pyjamas",
+    "teamUrl": "/team/4411/ninjas-in-pyjamas",
+    "canonical": "https://www.hltv.org/player/14148/sjuush",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Rasmus Beck</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 January 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 19899,
+    "status": 200,
+    "nickname": "Krimbo",
+    "realName": "Karim Moussa",
+    "birthDate": "26 September 2002",
+    "team": "Link",
+    "teamUrl": "https://x.com/NIPCS/status/2095119578619642287",
+    "canonical": "https://www.hltv.org/player/19899/krimbo",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Karim Moussa</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>26 September 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 20878,
+    "status": 200,
+    "nickname": "adamb",
+    "realName": "Adam Ångström",
+    "birthDate": "7 January 2005",
+    "team": "Ninjas in Pyjamas",
+    "teamUrl": "/team/4411/ninjas-in-pyjamas",
+    "canonical": "https://www.hltv.org/player/20878/adamb",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Adam Ångström</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>7 January 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 23372,
+    "status": 200,
+    "nickname": "xKacpersky",
+    "realName": "Kacper Gabara",
+    "birthDate": "22 October 2006",
+    "team": "Ninjas in Pyjamas",
+    "teamUrl": "/team/4411/ninjas-in-pyjamas",
+    "canonical": "https://www.hltv.org/player/23372/xkacpersky",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Kacper Gabara</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 October 2006</span></div>"
+    }
+  },
+  {
+    "hltvId": 15072,
+    "status": 200,
+    "nickname": "nin9",
+    "realName": "Yesuntumur Gantulga",
+    "birthDate": "3 April 1998",
+    "team": "The MongolZ",
+    "teamUrl": "/team/6248/the-mongolz",
+    "canonical": "https://www.hltv.org/player/15072/nin9",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Yesuntumur Gantulga</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 April 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 20194,
+    "status": 200,
+    "nickname": "bLitz",
+    "realName": "Garidmagnai Byambasuren",
+    "birthDate": "26 June 2001",
+    "team": "The MongolZ",
+    "teamUrl": "/team/6248/the-mongolz",
+    "canonical": "https://www.hltv.org/player/20194/blitz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Garidmagnai Byambasuren</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>26 June 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 20275,
+    "status": 200,
+    "nickname": "Techno",
+    "realName": "Sodbayar Munkhbold",
+    "birthDate": "20 May 2005",
+    "team": "The MongolZ",
+    "teamUrl": "/team/6248/the-mongolz",
+    "canonical": "https://www.hltv.org/player/20275/techno",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Sodbayar Munkhbold</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>20 May 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 21809,
+    "status": 200,
+    "nickname": "910",
+    "realName": "Usukhbayar Banzragch",
+    "birthDate": "5 July 2002",
+    "team": "The MongolZ",
+    "teamUrl": "/team/6248/the-mongolz",
+    "canonical": "https://www.hltv.org/player/21809/910",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Usukhbayar Banzragch</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>5 July 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 23402,
+    "status": 200,
+    "nickname": "cobrazera",
+    "realName": "Anarbileg Uuganbayar",
+    "birthDate": "3 August 2005",
+    "team": "The MongolZ",
+    "teamUrl": "/team/6248/the-mongolz",
+    "canonical": "https://www.hltv.org/player/23402/cobrazera",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Anarbileg Uuganbayar</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 August 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 20112,
+    "status": 200,
+    "nickname": "alex666",
+    "realName": "Alexey Yarmoshchuk",
+    "birthDate": "3 August 2001",
+    "team": "B8",
+    "teamUrl": "/team/11241/b8",
+    "canonical": "https://www.hltv.org/player/20112/alex666",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Alexey Yarmoshchuk</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 August 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 21708,
+    "status": 200,
+    "nickname": "npl",
+    "realName": "Andrii Kukharskyi",
+    "birthDate": "21 July 2005",
+    "team": "B8",
+    "teamUrl": "/team/11241/b8",
+    "canonical": "https://www.hltv.org/player/21708/npl",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Andrii Kukharskyi</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>21 July 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 22842,
+    "status": 200,
+    "nickname": "kensizor",
+    "realName": "Artem Kapran",
+    "birthDate": "2 February 2006",
+    "team": "B8",
+    "teamUrl": "/team/11241/b8",
+    "canonical": "https://www.hltv.org/player/22842/kensizor",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Artem Kapran</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>2 February 2006</span></div>"
+    }
+  },
+  {
+    "hltvId": 23643,
+    "status": 200,
+    "nickname": "esenthial",
+    "realName": "Dmytro Tsvir",
+    "birthDate": "26 February 2006",
+    "team": "B8",
+    "teamUrl": "/team/11241/b8",
+    "canonical": "https://www.hltv.org/player/23643/esenthial",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Dmytro Tsvir</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>26 February 2006</span></div>"
+    }
+  },
+  {
+    "hltvId": 25619,
+    "status": 200,
+    "nickname": "s1zzi",
+    "realName": "Danylo Vinnyk",
+    "birthDate": null,
+    "team": "B8",
+    "teamUrl": "/team/11241/b8",
+    "canonical": "https://www.hltv.org/player/25619/s1zzi",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Danylo Vinnyk</div>"
+    }
+  },
+  {
+    "hltvId": 13138,
+    "status": 200,
+    "nickname": "Maka",
+    "realName": "Bryan Canda",
+    "birthDate": "6 July 1997",
+    "team": "Envy",
+    "teamUrl": "/team/5991/envy",
+    "canonical": "https://www.hltv.org/player/13138/maka",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Bryan Canda</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>6 July 1997</span></div>"
+    }
+  },
+  {
+    "hltvId": 13497,
+    "status": 200,
+    "nickname": "Lucky",
+    "realName": "Lucas Chastang",
+    "birthDate": "6 April 1998",
+    "team": "Envy",
+    "teamUrl": "/team/5991/envy",
+    "canonical": "https://www.hltv.org/player/13497/lucky",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Lucas Chastang</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>6 April 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 14176,
+    "status": 200,
+    "nickname": "misutaaa",
+    "realName": "Kévin Rabier",
+    "birthDate": "15 January 2003",
+    "team": "Envy",
+    "teamUrl": "/team/5991/envy",
+    "canonical": "https://www.hltv.org/player/14176/misutaaa",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Kévin Rabier</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>15 January 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 20482,
+    "status": 200,
+    "nickname": "Kursy",
+    "realName": "Jeremy Gast",
+    "birthDate": "17 August 2001",
+    "team": "Envy",
+    "teamUrl": "/team/5991/envy",
+    "canonical": "https://www.hltv.org/player/20482/kursy",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jeremy Gast</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>17 August 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 21969,
+    "status": 200,
+    "nickname": "Graviti",
+    "realName": "Filip Brankovic",
+    "birthDate": "8 November 2003",
+    "team": "Envy",
+    "teamUrl": "/team/5991/envy",
+    "canonical": "https://www.hltv.org/player/21969/graviti",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Filip Brankovic</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>8 November 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 2553,
+    "status": 200,
+    "nickname": "Snax",
+    "realName": "Janusz Pogorzelski",
+    "birthDate": "5 July 1993",
+    "team": "GamerLegion",
+    "teamUrl": "/team/9928/gamerlegion",
+    "canonical": "https://www.hltv.org/player/2553/snax",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Janusz Pogorzelski</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>5 July 1993</span></div>"
+    }
+  },
+  {
+    "hltvId": 9278,
+    "status": 200,
+    "nickname": "REZ",
+    "realName": "Fredrik Sterner",
+    "birthDate": "11 January 1998",
+    "team": "GamerLegion",
+    "teamUrl": "/team/9928/gamerlegion",
+    "canonical": "https://www.hltv.org/player/9278/rez",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Fredrik Sterner</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>11 January 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 20301,
+    "status": 200,
+    "nickname": "Tauson",
+    "realName": "Sebastian Tauson Lindelof",
+    "birthDate": "17 August 2005",
+    "team": "GamerLegion",
+    "teamUrl": "/team/9928/gamerlegion",
+    "canonical": "https://www.hltv.org/player/20301/tauson",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Sebastian Tauson Lindelof</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>17 August 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 20994,
+    "status": 200,
+    "nickname": "FL4MUS",
+    "realName": "Timur Marev",
+    "birthDate": "14 August 2004",
+    "team": "GamerLegion",
+    "teamUrl": "/team/9928/gamerlegion",
+    "canonical": "https://www.hltv.org/player/20994/fl4mus",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Timur Marev</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>14 August 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 23766,
+    "status": 200,
+    "nickname": "hypex",
+    "realName": "Milan Polowiec",
+    "birthDate": "22 December 2003",
+    "team": "GamerLegion",
+    "teamUrl": "/team/9928/gamerlegion",
+    "canonical": "https://www.hltv.org/player/23766/hypex",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Milan Polowiec</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 December 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 13666,
+    "status": 200,
+    "nickname": "Brollan",
+    "realName": "Ludvig Brolin",
+    "birthDate": "17 June 2002",
+    "team": "HEROIC",
+    "teamUrl": "/team/7175/heroic",
+    "canonical": "https://www.hltv.org/player/13666/brollan",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ludvig Brolin</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>17 June 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 20119,
+    "status": 200,
+    "nickname": "nilo",
+    "realName": "Linus Bergman",
+    "birthDate": "4 January 2005",
+    "team": "Link",
+    "teamUrl": "https://www.hltv.org/news/40803/heroic-issue-update-on-nilo-as-maden-steps-in-for-bounty-finals",
+    "canonical": "https://www.hltv.org/player/20119/nilo",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Linus Bergman</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>4 January 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 21163,
+    "status": 200,
+    "nickname": "susp",
+    "realName": "Tim Ångström",
+    "birthDate": "7 January 2005",
+    "team": "HEROIC",
+    "teamUrl": "/team/7175/heroic",
+    "canonical": "https://www.hltv.org/player/21163/susp",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Tim Ångström</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>7 January 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 21239,
+    "status": 200,
+    "nickname": "MartinezSa",
+    "realName": "Antonio Martinez",
+    "birthDate": "29 January 2001",
+    "team": "HEROIC",
+    "teamUrl": "/team/7175/heroic",
+    "canonical": "https://www.hltv.org/player/21239/martinezsa",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Antonio Martinez</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>29 January 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 21983,
+    "status": 200,
+    "nickname": "Chr1zN",
+    "realName": "Christoffer Storgaard",
+    "birthDate": "21 August 2006",
+    "team": "HEROIC",
+    "teamUrl": "/team/7175/heroic",
+    "canonical": "https://www.hltv.org/player/21983/chr1zn",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Christoffer Storgaard</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>21 August 2006</span></div>"
+    }
+  },
+  {
+    "hltvId": 8520,
+    "status": 200,
+    "nickname": "NAF",
+    "realName": "Keith Markovic",
+    "birthDate": "24 November 1997",
+    "team": "Liquid",
+    "teamUrl": "/team/5973/liquid",
+    "canonical": "https://www.hltv.org/player/8520/naf",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Keith Markovic</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>24 November 1997</span></div>"
+    }
+  },
+  {
+    "hltvId": 8738,
+    "status": 200,
+    "nickname": "EliGE",
+    "realName": "Jonathan Jablonowski",
+    "birthDate": "16 July 1997",
+    "team": "Liquid",
+    "teamUrl": "/team/5973/liquid",
+    "canonical": "https://www.hltv.org/player/8738/elige",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jonathan Jablonowski</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>16 July 1997</span></div>"
+    }
+  },
+  {
+    "hltvId": 11617,
+    "status": 200,
+    "nickname": "malbsMd",
+    "realName": "Mario Samayoa",
+    "birthDate": "17 October 2002",
+    "team": "Liquid",
+    "teamUrl": "/team/5973/liquid",
+    "canonical": "https://www.hltv.org/player/11617/malbsmd",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Mario Samayoa</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>17 October 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 11630,
+    "status": 200,
+    "nickname": "JT",
+    "realName": "Johnny Theodosiou",
+    "birthDate": "9 April 1999",
+    "team": "Liquid",
+    "teamUrl": "/team/5973/liquid",
+    "canonical": "https://www.hltv.org/player/11630/jt",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Johnny Theodosiou</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>9 April 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 24203,
+    "status": 200,
+    "nickname": "Jorko",
+    "realName": "Georgi Mitev",
+    "birthDate": null,
+    "team": "Liquid",
+    "teamUrl": "/team/5973/liquid",
+    "canonical": "https://www.hltv.org/player/24203/jorko",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Georgi Mitev</div>"
+    }
+  },
+  {
+    "hltvId": 7592,
+    "status": 200,
+    "nickname": "device",
+    "realName": "Nicolai Reedtz",
+    "birthDate": "8 September 1995",
+    "team": "100 Thieves",
+    "teamUrl": "/team/8474/100-thieves",
+    "canonical": "https://www.hltv.org/player/7592/device",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Nicolai Reedtz</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>8 September 1995</span></div>"
+    }
+  },
+  {
+    "hltvId": 8183,
+    "status": 200,
+    "nickname": "rain",
+    "realName": "Håvard Nygaard",
+    "birthDate": "27 August 1994",
+    "team": "100 Thieves",
+    "teamUrl": "/team/8474/100-thieves",
+    "canonical": "https://www.hltv.org/player/8183/rain",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Håvard Nygaard</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>27 August 1994</span></div>"
+    }
+  },
+  {
+    "hltvId": 21816,
+    "status": 200,
+    "nickname": "Gizmy",
+    "realName": "Jack von Spreckelsen",
+    "birthDate": "20 February 2004",
+    "team": "100 Thieves",
+    "teamUrl": "/team/8474/100-thieves",
+    "canonical": "https://www.hltv.org/player/21816/gizmy",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jack von Spreckelsen</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>20 February 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 22695,
+    "status": 200,
+    "nickname": "sirah",
+    "realName": "William Kjærsgaard",
+    "birthDate": "16 November 2006",
+    "team": "100 Thieves",
+    "teamUrl": "/team/8474/100-thieves",
+    "canonical": "https://www.hltv.org/player/22695/sirah",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> William Kjærsgaard</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>16 November 2006</span></div>"
+    }
+  },
+  {
+    "hltvId": 23397,
+    "status": 200,
+    "nickname": "poiii",
+    "realName": "Alex Nyholm Sundgren",
+    "birthDate": "16 September 2006",
+    "team": "100 Thieves",
+    "teamUrl": "/team/8474/100-thieves",
+    "canonical": "https://www.hltv.org/player/23397/poiii",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Alex Nyholm Sundgren</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>16 September 2006</span></div>"
+    }
+  },
+  {
+    "hltvId": 19645,
+    "status": 200,
+    "nickname": "JamYoung",
+    "realName": "Yi Yang",
+    "birthDate": "23 July 2001",
+    "team": "TYLOO",
+    "teamUrl": "/team/4863/tyloo",
+    "canonical": "https://www.hltv.org/player/19645/jamyoung",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Yi Yang</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>23 July 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 20702,
+    "status": 200,
+    "nickname": "Jee",
+    "realName": "Dongkai Ji",
+    "birthDate": "21 December 2004",
+    "team": "TYLOO",
+    "teamUrl": "/team/4863/tyloo",
+    "canonical": "https://www.hltv.org/player/20702/jee",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Dongkai Ji</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>21 December 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 20895,
+    "status": 200,
+    "nickname": "Mercury",
+    "realName": "Jingxiang Wang",
+    "birthDate": "15 December 2000",
+    "team": "TYLOO",
+    "teamUrl": "/team/4863/tyloo",
+    "canonical": "https://www.hltv.org/player/20895/mercury",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jingxiang Wang</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>15 December 2000</span></div>"
+    }
+  },
+  {
+    "hltvId": 21621,
+    "status": 200,
+    "nickname": "Moseyuh",
+    "realName": "Qianhao Chen",
+    "birthDate": "21 December 2004",
+    "team": "TYLOO",
+    "teamUrl": "/team/4863/tyloo",
+    "canonical": "https://www.hltv.org/player/21621/moseyuh",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Qianhao Chen</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>21 December 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 24857,
+    "status": 200,
+    "nickname": "Zero",
+    "realName": "Su Jingshen",
+    "birthDate": "31 August 2005",
+    "team": "TYLOO",
+    "teamUrl": "/team/4863/tyloo",
+    "canonical": "https://www.hltv.org/player/24857/zero",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Su Jingshen</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>31 August 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 16551,
+    "status": 200,
+    "nickname": "Westmelon",
+    "realName": "Zhe Niu",
+    "birthDate": "4 February 2001",
+    "team": "Lynn Vision",
+    "teamUrl": "/team/8840/lynn-vision",
+    "canonical": "https://www.hltv.org/player/16551/westmelon",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Zhe Niu</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>4 February 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 18744,
+    "status": 200,
+    "nickname": "z4KR",
+    "realName": "Sike Zhang",
+    "birthDate": "14 November 2002",
+    "team": "Lynn Vision",
+    "teamUrl": "/team/8840/lynn-vision",
+    "canonical": "https://www.hltv.org/player/18744/z4kr",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Sike Zhang</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>14 November 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 20254,
+    "status": 200,
+    "nickname": "Starry",
+    "realName": "Lizhi Ye",
+    "birthDate": "3 January 2005",
+    "team": "Lynn Vision",
+    "teamUrl": "/team/8840/lynn-vision",
+    "canonical": "https://www.hltv.org/player/20254/starry",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Lizhi Ye</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 January 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 22922,
+    "status": 200,
+    "nickname": "EmiliaQAQ",
+    "realName": "Junjie Tang",
+    "birthDate": "23 August 2004",
+    "team": "Lynn Vision",
+    "teamUrl": "/team/8840/lynn-vision",
+    "canonical": "https://www.hltv.org/player/22922/emiliaqaq",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Junjie Tang</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>23 August 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 23100,
+    "status": 200,
+    "nickname": "C4LLM3SU3",
+    "realName": "Qihao Su",
+    "birthDate": "9 March 2004",
+    "team": "Lynn Vision",
+    "teamUrl": "/team/8840/lynn-vision",
+    "canonical": "https://www.hltv.org/player/23100/c4llm3su3",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Qihao Su</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>9 March 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 16811,
+    "status": 200,
+    "nickname": "MisteM",
+    "realName": "Gareth Ries",
+    "birthDate": "9 November 2001",
+    "team": "Eternal Fire",
+    "teamUrl": "/team/11251/eternal-fire",
+    "canonical": "https://www.hltv.org/player/16811/mistem",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Gareth Ries</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>9 November 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 20123,
+    "status": 200,
+    "nickname": "regali",
+    "realName": "Iulian Harjău",
+    "birthDate": "26 August 2002",
+    "team": "Eternal Fire",
+    "teamUrl": "/team/11251/eternal-fire",
+    "canonical": "https://www.hltv.org/player/20123/regali",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Iulian Harjău</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>26 August 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 20968,
+    "status": 200,
+    "nickname": "soulfly",
+    "realName": "Caner Kesici",
+    "birthDate": "16 June 2004",
+    "team": "Eternal Fire",
+    "teamUrl": "/team/11251/eternal-fire",
+    "canonical": "https://www.hltv.org/player/20968/soulfly",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Caner Kesici</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>16 June 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 21452,
+    "status": 200,
+    "nickname": "Kvem",
+    "realName": "Vladyslav Korol",
+    "birthDate": "29 August 2001",
+    "team": "Eternal Fire",
+    "teamUrl": "/team/11251/eternal-fire",
+    "canonical": "https://www.hltv.org/player/21452/kvem",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Vladyslav Korol</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>29 August 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 22361,
+    "status": 200,
+    "nickname": "jottAAA",
+    "realName": "Samet Köklü",
+    "birthDate": "15 July 2002",
+    "team": "Eternal Fire",
+    "teamUrl": "/team/11251/eternal-fire",
+    "canonical": "https://www.hltv.org/player/22361/jottaaa",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Samet Köklü</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>15 July 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 7998,
+    "status": 200,
+    "nickname": "s1mple",
+    "realName": "Oleksandr Kostyliev",
+    "birthDate": "2 October 1997",
+    "team": "BC.Game",
+    "teamUrl": "/team/12878/bcgame",
+    "canonical": "https://www.hltv.org/player/7998/s1mple",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Oleksandr Kostyliev</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>2 October 1997</span></div>"
+    }
+  },
+  {
+    "hltvId": 9032,
+    "status": 200,
+    "nickname": "Magisk",
+    "realName": "Emil Reif",
+    "birthDate": "5 March 1998",
+    "team": "BC.Game",
+    "teamUrl": "/team/12878/bcgame",
+    "canonical": "https://www.hltv.org/player/9032/magisk",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Emil Reif</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>5 March 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 18545,
+    "status": 200,
+    "nickname": "asap",
+    "realName": "Tyson Paterson",
+    "birthDate": "1 May 2003",
+    "team": "BC.Game",
+    "teamUrl": "/team/12878/bcgame",
+    "canonical": "https://www.hltv.org/player/18545/asap",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Tyson Paterson</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>1 May 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 20903,
+    "status": 200,
+    "nickname": "Senzu",
+    "realName": "Azbayar Munkhbold",
+    "birthDate": "11 August 2006",
+    "team": "BC.Game",
+    "teamUrl": "/team/12878/bcgame",
+    "canonical": "https://www.hltv.org/player/20903/senzu",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Azbayar Munkhbold</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>11 August 2006</span></div>"
+    }
+  },
+  {
+    "hltvId": 21001,
+    "status": 200,
+    "nickname": "mzinho",
+    "realName": "Ayush Batbold",
+    "birthDate": "28 June 2007",
+    "team": "BC.Game",
+    "teamUrl": "/team/12878/bcgame",
+    "canonical": "https://www.hltv.org/player/21001/mzinho",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ayush Batbold</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>28 June 2007</span></div>"
+    }
+  },
+  {
+    "hltvId": 3849,
+    "status": 200,
+    "nickname": "JW",
+    "realName": "Jesper Wecksell",
+    "birthDate": "23 February 1995",
+    "team": "EYEBALLERS",
+    "teamUrl": "/team/11737/eyeballers",
+    "canonical": "https://www.hltv.org/player/3849/jw",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jesper Wecksell</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>23 February 1995</span></div>"
+    }
+  },
+  {
+    "hltvId": 7528,
+    "status": 200,
+    "nickname": "KRIMZ",
+    "realName": "Freddy Johansson",
+    "birthDate": "25 April 1994",
+    "team": "EYEBALLERS",
+    "teamUrl": "/team/11737/eyeballers",
+    "canonical": "https://www.hltv.org/player/7528/krimz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Freddy Johansson</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>25 April 1994</span></div>"
+    }
+  },
+  {
+    "hltvId": 20879,
+    "status": 200,
+    "nickname": "maxster",
+    "realName": "Max Jansson",
+    "birthDate": "6 August 2004",
+    "team": "EYEBALLERS",
+    "teamUrl": "/team/11737/eyeballers",
+    "canonical": "https://www.hltv.org/player/20879/maxster",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Max Jansson</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>6 August 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 21012,
+    "status": 200,
+    "nickname": "Ro1f",
+    "realName": "Kalle Johansson",
+    "birthDate": "31 July 2004",
+    "team": "EYEBALLERS",
+    "teamUrl": "/team/11737/eyeballers",
+    "canonical": "https://www.hltv.org/player/21012/ro1f",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Kalle Johansson</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>31 July 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 22914,
+    "status": 200,
+    "nickname": "dex",
+    "realName": "Sebastian Samuelsson",
+    "birthDate": "3 July 2001",
+    "team": "EYEBALLERS",
+    "teamUrl": "/team/11737/eyeballers",
+    "canonical": "https://www.hltv.org/player/22914/dex",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Sebastian Samuelsson</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 July 2001</span></div>"
+    }
+  },
+  {
+    "hltvId": 8789,
+    "status": 200,
+    "nickname": "mir",
+    "realName": "Nikolay Bityukov",
+    "birthDate": "10 January 1996",
+    "team": "Virtus.pro",
+    "teamUrl": "/team/5378/virtuspro",
+    "canonical": "https://www.hltv.org/player/8789/mir",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Nikolay Bityukov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>10 January 1996</span></div>"
+    }
+  },
+  {
+    "hltvId": 23637,
+    "status": 200,
+    "nickname": "b1st",
+    "realName": "Vladimir Krasikov",
+    "birthDate": "8 July 2008",
+    "team": "Virtus.pro",
+    "teamUrl": "/team/5378/virtuspro",
+    "canonical": "https://www.hltv.org/player/23637/b1st",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Vladimir Krasikov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>8 July 2008</span></div>"
+    }
+  },
+  {
+    "hltvId": 24292,
+    "status": 200,
+    "nickname": "F0R3VER",
+    "realName": "Dias Kutubay",
+    "birthDate": "31 May 2007",
+    "team": "Virtus.pro",
+    "teamUrl": "/team/5378/virtuspro",
+    "canonical": "https://www.hltv.org/player/24292/f0r3ver",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Dias Kutubay</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>31 May 2007</span></div>"
+    }
+  },
+  {
+    "hltvId": 24950,
+    "status": 200,
+    "nickname": "AquaRS",
+    "realName": "Aleksandr Kovalev",
+    "birthDate": "28 December 2006",
+    "team": "Virtus.pro",
+    "teamUrl": "/team/5378/virtuspro",
+    "canonical": "https://www.hltv.org/player/24950/aquars",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Aleksandr Kovalev</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>28 December 2006</span></div>"
+    }
+  },
+  {
+    "hltvId": 24952,
+    "status": 200,
+    "nickname": "tO0RO",
+    "realName": "Vadim Arkov",
+    "birthDate": "29 September 2007",
+    "team": "Virtus.pro",
+    "teamUrl": "/team/5378/virtuspro",
+    "canonical": "https://www.hltv.org/player/24952/to0ro",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Vadim Arkov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>29 September 2007</span></div>"
+    }
+  },
+  {
+    "hltvId": 4679,
+    "status": 200,
+    "nickname": "jks",
+    "realName": "Justin Savage",
+    "birthDate": "12 December 1995",
+    "team": "FlyQuest",
+    "teamUrl": "/team/12774/flyquest",
+    "canonical": "https://www.hltv.org/player/4679/jks",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Justin Savage</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>12 December 1995</span></div>"
+    }
+  },
+  {
+    "hltvId": 11139,
+    "status": 200,
+    "nickname": "aliStair",
+    "realName": "Alistair Johnston",
+    "birthDate": "7 April 1998",
+    "team": "FlyQuest",
+    "teamUrl": "/team/12774/flyquest",
+    "canonical": "https://www.hltv.org/player/11139/alistair",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Alistair Johnston</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>7 April 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 11140,
+    "status": 200,
+    "nickname": "INS",
+    "realName": "Joshua Potter",
+    "birthDate": "22 September 1998",
+    "team": "FlyQuest",
+    "teamUrl": "/team/12774/flyquest",
+    "canonical": "https://www.hltv.org/player/11140/ins",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Joshua Potter</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 September 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 17384,
+    "status": 200,
+    "nickname": "Vexite",
+    "realName": "Declan Portelli",
+    "birthDate": "5 September 2004",
+    "team": "FlyQuest",
+    "teamUrl": "/team/12774/flyquest",
+    "canonical": "https://www.hltv.org/player/17384/vexite",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Declan Portelli</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>5 September 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 18214,
+    "status": 200,
+    "nickname": "nettik",
+    "realName": "Corey Browne",
+    "birthDate": "30 July 2003",
+    "team": "FlyQuest",
+    "teamUrl": "/team/12774/flyquest",
+    "canonical": "https://www.hltv.org/player/18214/nettik",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Corey Browne</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>30 July 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 8735,
+    "status": 200,
+    "nickname": "autimatic",
+    "realName": "Timothy Ta",
+    "birthDate": "10 September 1996",
+    "team": "Without a Roof",
+    "teamUrl": "/team/6914/without-a-roof",
+    "canonical": "https://www.hltv.org/player/8735/autimatic",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Timothy Ta</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>10 September 1996</span></div>"
+    }
+  },
+  {
+    "hltvId": 8797,
+    "status": 200,
+    "nickname": "Stewie2K",
+    "realName": "Jake Yip",
+    "birthDate": "7 January 1998",
+    "team": "Without a Roof",
+    "teamUrl": "/team/6914/without-a-roof",
+    "canonical": "https://www.hltv.org/player/8797/stewie2k",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jake Yip</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>7 January 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 9136,
+    "status": 200,
+    "nickname": "Brehze",
+    "realName": "Vincent Cayonte",
+    "birthDate": "22 May 1998",
+    "team": "Without a Roof",
+    "teamUrl": "/team/6914/without-a-roof",
+    "canonical": "https://www.hltv.org/player/9136/brehze",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Vincent Cayonte</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 May 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 11219,
+    "status": 200,
+    "nickname": "CeRq",
+    "realName": "Tsvetelin Dimitrov",
+    "birthDate": "8 December 1999",
+    "team": "Without a Roof",
+    "teamUrl": "/team/6914/without-a-roof",
+    "canonical": "https://www.hltv.org/player/11219/cerq",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Tsvetelin Dimitrov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>8 December 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 17372,
+    "status": 200,
+    "nickname": "FaNg",
+    "realName": "Justin Coakley",
+    "birthDate": "7 May 2002",
+    "team": "Without a Roof",
+    "teamUrl": "/team/6914/without-a-roof",
+    "canonical": "https://www.hltv.org/player/17372/fang",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Justin Coakley</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>7 May 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 7028,
+    "status": 200,
+    "nickname": "Summer",
+    "realName": "YuLun Cai",
+    "birthDate": "16 May 1997",
+    "team": "Rare Atom",
+    "teamUrl": "/team/11514/rare-atom",
+    "canonical": "https://www.hltv.org/player/7028/summer",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> YuLun Cai</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>16 May 1997</span></div>"
+    }
+  },
+  {
+    "hltvId": 8950,
+    "status": 200,
+    "nickname": "kaze",
+    "realName": "Andrew Khong",
+    "birthDate": "22 July 1994",
+    "team": "Rare Atom",
+    "teamUrl": "/team/11514/rare-atom",
+    "canonical": "https://www.hltv.org/player/8950/kaze",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Andrew Khong</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 July 1994</span></div>"
+    }
+  },
+  {
+    "hltvId": 19681,
+    "status": 200,
+    "nickname": "ChildKing",
+    "realName": "Junhao Peng",
+    "birthDate": "22 February 2000",
+    "team": "Rare Atom",
+    "teamUrl": "/team/11514/rare-atom",
+    "canonical": "https://www.hltv.org/player/19681/childking",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Junhao Peng</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 February 2000</span></div>"
+    }
+  },
+  {
+    "hltvId": 21825,
+    "status": 200,
+    "nickname": "L1haNg",
+    "realName": "Yihang Li",
+    "birthDate": "14 November 2003",
+    "team": "Rare Atom",
+    "teamUrl": "/team/11514/rare-atom",
+    "canonical": "https://www.hltv.org/player/21825/l1hang",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Yihang Li</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>14 November 2003</span></div>"
+    }
+  },
+  {
+    "hltvId": 24306,
+    "status": 200,
+    "nickname": "3gl",
+    "realName": "Guoliang Wang",
+    "birthDate": "12 February 2005",
+    "team": "Rare Atom",
+    "teamUrl": "/team/11514/rare-atom",
+    "canonical": "https://www.hltv.org/player/24306/3gl",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Guoliang Wang</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>12 February 2005</span></div>"
+    }
+  },
+  {
+    "hltvId": 6451,
+    "status": 200,
+    "nickname": "FNS",
+    "realName": "Pujan Mehta",
+    "birthDate": "19 March 1992",
+    "canonical": "https://www.hltv.org/player/6451/fns",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Pujan Mehta</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>19 March 1992</span></div>"
+    }
+  },
+  {
+    "hltvId": 253,
+    "status": 200,
+    "nickname": "demzu",
+    "realName": "Geoffrey Henry",
+    "birthDate": null,
+    "canonical": "https://www.hltv.org/player/253/demzu",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Geoffrey Henry</div>"
+    }
+  },
+  {
+    "hltvId": 9128,
+    "status": 200,
+    "nickname": "save",
+    "realName": "Anthony Alcala",
+    "birthDate": null,
+    "canonical": "https://www.hltv.org/player/9128/save",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Anthony Alcala</div>"
+    }
+  },
+  {
+    "hltvId": 9398,
+    "status": 200,
+    "nickname": "ALKEE",
+    "realName": "Jurgen Taulla",
+    "birthDate": "9 June 1996",
+    "canonical": "https://www.hltv.org/player/9398/alkee",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jurgen Taulla</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>9 June 1996</span></div>"
+    }
+  },
+  {
+    "hltvId": 19235,
+    "status": 200,
+    "nickname": "BELCHONOKK",
+    "realName": "Andrey Yasinskiy",
+    "birthDate": "14 January 2004",
+    "country": "Russia",
+    "countryCode": "RU",
+    "team": "1win",
+    "teamUrl": "/team/10621/1win",
+    "canonical": "https://www.hltv.org/player/19235/belchonokk",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Andrey Yasinskiy</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>14 January 2004</span></div>"
+    }
+  },
+  {
+    "hltvId": 9216,
+    "status": 200,
+    "nickname": "coldzera",
+    "realName": "Marcelo David",
+    "birthDate": "31 October 1994",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "canonical": "https://www.hltv.org/player/9216/coldzera",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Marcelo David</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>31 October 1994</span></div>"
+    }
+  },
+  {
+    "hltvId": 8564,
+    "status": 200,
+    "nickname": "fer",
+    "realName": "Fernando Alvarenga",
+    "birthDate": "30 October 1991",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "canonical": "https://www.hltv.org/player/8564/fer",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Fernando Alvarenga</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>30 October 1991</span></div>"
+    }
+  },
+  {
+    "hltvId": 557,
+    "status": 200,
+    "nickname": "fnx",
+    "realName": "Lincoln Lau",
+    "birthDate": "30 January 1990",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "canonical": "https://www.hltv.org/player/557/fnx",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Lincoln Lau</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>30 January 1990</span></div>"
+    }
+  },
+  {
+    "hltvId": 885,
+    "status": 200,
+    "nickname": "olofmeister",
+    "realName": "Olof Kajbjer",
+    "birthDate": "31 January 1992",
+    "country": "Russia",
+    "countryCode": "RU",
+    "canonical": "https://www.hltv.org/player/885/olofmeister",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Olof Kajbjer</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>31 January 1992</span></div>"
+    }
+  },
+  {
+    "hltvId": 39,
+    "status": 200,
+    "nickname": "GeT_RiGhT",
+    "realName": "Christopher Alesund",
+    "birthDate": "29 May 1990",
+    "country": "Russia",
+    "countryCode": "RU",
+    "canonical": "https://www.hltv.org/player/39/get-right",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Christopher Alesund</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>29 May 1990</span></div>"
+    }
+  },
+  {
+    "hltvId": 29,
+    "status": 200,
+    "nickname": "f0rest",
+    "realName": "Patrik Lindberg",
+    "birthDate": "10 June 1988",
+    "country": "Russia",
+    "countryCode": "RU",
+    "canonical": "https://www.hltv.org/player/29/f0rest",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Patrik Lindberg</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>10 June 1988</span></div>"
+    }
+  },
+  {
+    "hltvId": 7148,
+    "status": 200,
+    "nickname": "friberg",
+    "realName": "Adam Friberg",
+    "birthDate": "19 October 1991",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "canonical": "https://www.hltv.org/player/7148/friberg",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Adam Friberg</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>19 October 1991</span></div>"
+    }
+  },
+  {
+    "hltvId": 7167,
+    "status": 200,
+    "nickname": "kennyS",
+    "realName": "Kenny Schrub",
+    "birthDate": "19 May 1995",
+    "country": "France",
+    "countryCode": "FR",
+    "canonical": "https://www.hltv.org/player/7167/kennys",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Kenny Schrub</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>19 May 1995</span></div>"
+    }
+  },
+  {
+    "hltvId": 2757,
+    "status": 200,
+    "nickname": "GuardiaN",
+    "realName": "Ladislav Kovács",
+    "birthDate": "9 July 1991",
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "canonical": "https://www.hltv.org/player/2757/guardian",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ladislav Kovács</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>9 July 1991</span></div>"
+    }
+  },
+  {
+    "hltvId": 1225,
+    "status": 200,
+    "nickname": "shox",
+    "realName": "Richard Papillon",
+    "birthDate": "27 May 1992",
+    "country": "France",
+    "countryCode": "FR",
+    "canonical": "https://www.hltv.org/player/1225/shox",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Richard Papillon</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>27 May 1992</span></div>"
+    }
+  },
+  {
+    "hltvId": 7390,
+    "status": 200,
+    "nickname": "ScreaM",
+    "realName": "Adil Benrlitom",
+    "birthDate": "2 July 1994",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "team": "Clutchain",
+    "teamUrl": "/team/13798/clutchain",
+    "canonical": "https://www.hltv.org/player/7390/scream",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Adil Benrlitom</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>2 July 1994</span></div>"
+    }
+  },
+  {
+    "hltvId": 8349,
+    "status": 200,
+    "nickname": "shroud",
+    "realName": "Mike Grzesiek",
+    "birthDate": "2 June 1994",
+    "country": "Canada",
+    "countryCode": "CA",
+    "canonical": "https://www.hltv.org/player/8349/shroud",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Mike Grzesiek</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>2 June 1994</span></div>"
+    }
+  },
+  {
+    "hltvId": 8523,
+    "status": 200,
+    "nickname": "tarik",
+    "realName": "Tarik Celik",
+    "birthDate": "18 February 1996",
+    "country": "United States",
+    "countryCode": "US",
+    "canonical": "https://www.hltv.org/player/8523/tarik",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Tarik Celik</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>18 February 1996</span></div>"
+    }
+  },
+  {
+    "hltvId": 8918,
+    "status": 200,
+    "nickname": "electroNic",
+    "realName": "Denis Sharipov",
+    "birthDate": "2 September 1998",
+    "country": "Russia",
+    "countryCode": "RU",
+    "team": "BC.Game",
+    "teamUrl": "/team/12878/bcgame",
+    "canonical": "https://www.hltv.org/player/8918/electronic",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Denis Sharipov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>2 September 1998</span></div>"
+    }
+  },
+  {
+    "hltvId": 16947,
+    "status": 200,
+    "nickname": "Perfecto",
+    "realName": "Ilya Zalutskiy",
+    "birthDate": "24 November 1999",
+    "country": "Russia",
+    "countryCode": "RU",
+    "canonical": "https://www.hltv.org/player/16947/perfecto",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ilya Zalutskiy</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>24 November 1999</span></div>"
+    }
+  },
+  {
+    "hltvId": 7594,
+    "status": 200,
+    "nickname": "flamie",
+    "realName": "Egor Vasilyev",
+    "birthDate": "5 April 1997",
+    "country": "Russia",
+    "countryCode": "RU",
+    "canonical": "https://www.hltv.org/player/7594/flamie",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Egor Vasilyev</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>5 April 1997</span></div>"
+    }
+  },
+  {
+    "hltvId": 483,
+    "status": 200,
+    "nickname": "Edward",
+    "realName": "Ioann Sukhariev",
+    "birthDate": "28 December 1987",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "canonical": "https://www.hltv.org/player/483/edward",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ioann Sukhariev</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>28 December 1987</span></div>"
+    }
+  },
+  {
+    "hltvId": 484,
+    "status": 200,
+    "nickname": "Zeus",
+    "realName": "Danylo Teslenko",
+    "birthDate": "8 October 1987",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "canonical": "https://www.hltv.org/player/484/zeus",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Danylo Teslenko</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>8 October 1987</span></div>"
+    }
+  },
+  {
+    "hltvId": 338,
+    "status": 200,
+    "nickname": "markeloff",
+    "realName": "Yegor Markelov",
+    "birthDate": "12 February 1988",
+    "country": "Russia",
+    "countryCode": "RU",
+    "canonical": "https://www.hltv.org/player/338/markeloff",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Yegor Markelov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>12 February 1988</span></div>"
+    }
+  },
+  {
+    "hltvId": 7398,
+    "status": 200,
+    "nickname": "dupreeh",
+    "realName": "Peter Rasmussen",
+    "birthDate": "26 March 1993",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "canonical": "https://www.hltv.org/player/7398/dupreeh",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Peter Rasmussen</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>26 March 1993</span></div>"
+    }
+  },
+  {
+    "hltvId": 7412,
+    "status": 200,
+    "nickname": "gla1ve",
+    "realName": "Lukas Rossander",
+    "birthDate": "7 June 1995",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "team": "100 Thieves",
+    "teamUrl": "/team/8474/100-thieves",
+    "canonical": "https://www.hltv.org/player/7412/gla1ve",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Lukas Rossander</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>7 June 1995</span></div>"
+    }
+  },
+  {
+    "hltvId": 4954,
+    "status": 200,
+    "nickname": "Xyp9x",
+    "realName": "Andreas Højsleth",
+    "birthDate": "11 September 1995",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "canonical": "https://www.hltv.org/player/4954/xyp9x",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Andreas Højsleth</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>11 September 1995</span></div>"
+    }
+  },
+  {
+    "hltvId": 3055,
+    "status": 200,
+    "nickname": "flusha",
+    "realName": "Robin Rönnquist",
+    "birthDate": "12 August 1993",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "canonical": "https://www.hltv.org/player/3055/flusha",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Robin Rönnquist</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>12 August 1993</span></div>"
+    }
+  },
+  {
+    "hltvId": 317,
+    "status": 200,
+    "nickname": "pashaBiceps",
+    "realName": "Jarosław Jarząbkowski",
+    "birthDate": "11 April 1988",
+    "country": "Poland",
+    "countryCode": "PL",
+    "canonical": "https://www.hltv.org/player/317/pashabiceps",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jarosław Jarząbkowski</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>11 April 1988</span></div>"
+    }
+  },
+  {
+    "hltvId": 165,
+    "status": 200,
+    "nickname": "NEO",
+    "realName": "Filip Kubski",
+    "birthDate": "15 June 1987",
+    "country": "Poland",
+    "countryCode": "PL",
+    "team": "Astralis",
+    "teamUrl": "/team/6665/astralis",
+    "canonical": "https://www.hltv.org/player/165/neo",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Filip Kubski</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>15 June 1987</span></div>"
+    }
+  },
+  {
+    "hltvId": 161,
+    "status": 200,
+    "nickname": "TaZ",
+    "realName": "Wiktor Wojtas",
+    "birthDate": "6 June 1986",
+    "country": "Poland",
+    "countryCode": "PL",
+    "team": "BC.Game",
+    "teamUrl": "/team/12878/bcgame",
+    "canonical": "https://www.hltv.org/player/161/taz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Wiktor Wojtas</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>6 June 1986</span></div>"
+    }
+  },
+  {
+    "hltvId": 2644,
+    "status": 200,
+    "nickname": "Hiko",
+    "realName": "Spencer Martin",
+    "birthDate": "6 March 1990",
+    "country": "United States",
+    "countryCode": "US",
+    "canonical": "https://www.hltv.org/player/2644/hiko",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Spencer Martin</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>6 March 1990</span></div>"
+    }
+  },
+  {
+    "hltvId": 203,
+    "status": 200,
+    "nickname": "n0thing",
+    "realName": "Jordan Gilbert",
+    "birthDate": "25 October 1990",
+    "country": "United States",
+    "countryCode": "US",
+    "canonical": "https://www.hltv.org/player/203/n0thing",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jordan Gilbert</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>25 October 1990</span></div>"
+    }
+  },
+  {
+    "hltvId": 7440,
+    "status": 200,
+    "nickname": "Skadoodle",
+    "realName": "Tyler Latham",
+    "birthDate": "21 July 1993",
+    "country": "United States",
+    "countryCode": "US",
+    "canonical": "https://www.hltv.org/player/7440/skadoodle",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Tyler Latham</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>21 July 1993</span></div>"
+    }
+  },
+  {
+    "hltvId": 7168,
+    "status": 200,
+    "nickname": "NBK-",
+    "realName": "Nathan Schmitt",
+    "birthDate": "5 June 1994",
+    "country": "France",
+    "countryCode": "FR",
+    "canonical": "https://www.hltv.org/player/7168/nbk",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Nathan Schmitt</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>5 June 1994</span></div>"
+    }
+  },
+  {
+    "hltvId": 7429,
+    "status": 200,
+    "nickname": "Happy",
+    "realName": "Vincent Schopenhauer",
+    "birthDate": "23 November 1991",
+    "country": "France",
+    "countryCode": "FR",
+    "canonical": "https://www.hltv.org/player/7429/happy",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Vincent Schopenhauer</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>23 November 1991</span></div>"
+    }
+  },
+  {
+    "hltvId": 7170,
+    "status": 200,
+    "nickname": "SmithZz",
+    "realName": "Edouard Dubourdeaux",
+    "birthDate": "17 December 1988",
+    "country": "France",
+    "countryCode": "FR",
+    "canonical": "https://www.hltv.org/player/7170/smithzz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Edouard Dubourdeaux</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>17 December 1988</span></div>"
+    }
+  },
+  {
+    "hltvId": 7166,
+    "status": 200,
+    "nickname": "Ex6TenZ",
+    "realName": "Kévin Droolans",
+    "birthDate": "30 April 1990",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "canonical": "https://www.hltv.org/player/7166/ex6tenz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Kévin Droolans</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>30 April 1990</span></div>"
+    }
+  },
+  {
+    "hltvId": 41,
+    "status": 200,
+    "nickname": "pronax",
+    "realName": "Markus Wallsten",
+    "birthDate": "24 June 1991",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "canonical": "https://www.hltv.org/player/41/pronax",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Markus Wallsten</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>24 June 1991</span></div>"
+    }
+  },
+  {
+    "hltvId": 9217,
+    "status": 200,
+    "nickname": "TACO",
+    "realName": "Epitacio de Melo",
+    "birthDate": "24 January 1995",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "canonical": "https://www.hltv.org/player/9217/taco",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Epitacio de Melo</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>24 January 1995</span></div>"
+    }
+  },
+  {
+    "hltvId": 8568,
+    "status": 200,
+    "nickname": "boltz",
+    "realName": "Ricardo Prass",
+    "birthDate": "10 April 1997",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "canonical": "https://www.hltv.org/player/8568/boltz",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ricardo Prass</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>10 April 1997</span></div>"
+    }
+  },
+  {
+    "hltvId": 695,
+    "status": 200,
+    "nickname": "allu",
+    "realName": "Aleksi Jalli",
+    "birthDate": "20 May 1992",
+    "country": "Finland",
+    "countryCode": "FI",
+    "team": "ENCE",
+    "teamUrl": "/team/4869/ence",
+    "canonical": "https://www.hltv.org/player/695/allu",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Aleksi Jalli</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>20 May 1992</span></div>"
+    }
+  },
+  {
+    "hltvId": 7248,
+    "status": 200,
+    "nickname": "xseveN",
+    "realName": "Sami Laasanen",
+    "birthDate": "14 August 1994",
+    "country": "Finland",
+    "countryCode": "FI",
+    "canonical": "https://www.hltv.org/player/7248/xseven",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Sami Laasanen</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>14 August 1994</span></div>"
+    }
+  },
+  {
+    "hltvId": 11916,
+    "status": 200,
+    "nickname": "sergej",
+    "realName": "Jere Salo",
+    "birthDate": "1 March 2002",
+    "country": "Finland",
+    "countryCode": "FI",
+    "canonical": "https://www.hltv.org/player/11916/sergej",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Jere Salo</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>1 March 2002</span></div>"
+    }
+  },
+  {
+    "hltvId": 334,
+    "status": 200,
+    "nickname": "AdreN",
+    "realName": "Dauren Kystaubayev",
+    "birthDate": "4 February 1990",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "team": "NOVAQ",
+    "teamUrl": "/team/13178/novaq",
+    "canonical": "https://www.hltv.org/player/334/adren",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Dauren Kystaubayev</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>4 February 1990</span></div>"
+    }
+  },
+  {
+    "hltvId": 735,
+    "status": 200,
+    "nickname": "Dosia",
+    "realName": "Mihail Stolyarov",
+    "birthDate": "19 June 1988",
+    "country": "Russia",
+    "countryCode": "RU",
+    "canonical": "https://www.hltv.org/player/735/dosia",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Mihail Stolyarov</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>19 June 1988</span></div>"
+    }
+  },
+  {
+    "hltvId": 1146,
+    "status": 200,
+    "nickname": "dennis",
+    "realName": "Dennis Edman",
+    "birthDate": "7 January 1991",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "canonical": "https://www.hltv.org/player/1146/dennis",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Dennis Edman</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>7 January 1991</span></div>"
+    }
+  },
+  {
+    "hltvId": 7131,
+    "status": 200,
+    "nickname": "BnTeT",
+    "realName": "Hansel Ferdinand",
+    "birthDate": "28 August 1995",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "team": "Alter Ego",
+    "teamUrl": "/team/9958/alter-ego",
+    "canonical": "https://www.hltv.org/player/7131/bntet",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Hansel Ferdinand</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>28 August 1995</span></div>"
+    }
+  },
+  {
+    "hltvId": 8552,
+    "status": 200,
+    "nickname": "Attacker",
+    "realName": "YuanZhang Sheng",
+    "birthDate": "7 January 1997",
+    "country": "China",
+    "countryCode": "CN",
+    "canonical": "https://www.hltv.org/player/8552/attacker",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> YuanZhang Sheng</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>7 January 1997</span></div>"
+    }
+  },
+  {
+    "hltvId": 8603,
+    "status": 200,
+    "nickname": "MoriartyS",
+    "realName": "JunBen Lin",
+    "birthDate": null,
+    "country": "China",
+    "countryCode": "CN",
+    "canonical": "https://www.hltv.org/player/8603/moriartys",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> JunBen Lin</div>"
+    }
+  },
+  {
+    "hltvId": 8605,
+    "status": 200,
+    "nickname": "somebody",
+    "realName": "HaoWen Xu",
+    "birthDate": "3 July 1995",
+    "country": "China",
+    "countryCode": "CN",
+    "canonical": "https://www.hltv.org/player/8605/somebody",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> HaoWen Xu</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>3 July 1995</span></div>"
+    }
+  },
+  {
+    "hltvId": 5187,
+    "status": 200,
+    "nickname": "captainMo",
+    "realName": "Ke Liu",
+    "birthDate": "30 May 1989",
+    "country": "China",
+    "countryCode": "CN",
+    "team": "Steel Helmet",
+    "teamUrl": "/team/11273/steel-helmet",
+    "canonical": "https://www.hltv.org/player/5187/captainmo",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Ke Liu</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>30 May 1989</span></div>"
+    }
+  },
+  {
+    "hltvId": 8600,
+    "status": 200,
+    "nickname": "advent",
+    "realName": "Zhuo Liang",
+    "birthDate": "16 June 1992",
+    "country": "China",
+    "countryCode": "CN",
+    "canonical": "https://www.hltv.org/player/8600/advent",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Zhuo Liang</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>16 June 1992</span></div>"
+    }
+  },
+  {
+    "hltvId": 8601,
+    "status": 200,
+    "nickname": "zhokiNg",
+    "realName": "WeiJie Zhong",
+    "birthDate": "7 December 1993",
+    "country": "China",
+    "countryCode": "CN",
+    "team": "TYLOO",
+    "teamUrl": "/team/4863/tyloo",
+    "canonical": "https://www.hltv.org/player/8601/zhoking",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> WeiJie Zhong</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>7 December 1993</span></div>"
+    }
+  },
+  {
+    "hltvId": 8604,
+    "status": 200,
+    "nickname": "aumaN",
+    "realName": "ZhiHong Liu",
+    "birthDate": "16 July 1994",
+    "country": "China",
+    "countryCode": "CN",
+    "canonical": "https://www.hltv.org/player/8604/auman",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> ZhiHong Liu</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>16 July 1994</span></div>"
+    }
+  },
+  {
+    "hltvId": 7026,
+    "nickname": "DD",
+    "realName": "Hui Wu",
+    "birthDate": "11 August 1994",
+    "country": "China",
+    "countryCode": "CN",
+    "canonical": "https://www.hltv.org/player/7026/dd",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Hui Wu</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>11 August 1994</span></div>"
+    }
+  },
+  {
+    "hltvId": 150,
+    "status": 200,
+    "nickname": "MAJ3R",
+    "realName": "Engin Küpeli",
+    "birthDate": "25 January 1991",
+    "team": "Aurora",
+    "teamUrl": "/team/11861/aurora",
+    "canonical": "https://www.hltv.org/player/150/maj3r",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Engin Küpeli</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>25 January 1991</span></div>",
+      "country": "player-summary-stat-box-left-flag\"><img alt=\"Türkiye\" src=\"/img/static/flags/30x20/TR.gif"
+    },
+    "country": "Türkiye",
+    "countryCode": "TR"
+  },
+  {
+    "hltvId": 8575,
+    "status": 200,
+    "nickname": "Calyx",
+    "realName": "Buğra Arkın",
+    "birthDate": "28 July 1998",
+    "canonical": "https://www.hltv.org/player/8575/calyx",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Buğra Arkın</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>28 July 1998</span></div>",
+      "country": "player-summary-stat-box-left-flag\"><img alt=\"Türkiye\" src=\"/img/static/flags/30x20/TR.gif"
+    },
+    "country": "Türkiye",
+    "countryCode": "TR"
+  },
+  {
+    "hltvId": 5386,
+    "status": 200,
+    "nickname": "byali",
+    "realName": "Paweł Bieliński",
+    "birthDate": "30 April 1994",
+    "team": "Toobisie",
+    "teamUrl": "/team/13993/toobisie",
+    "canonical": "https://www.hltv.org/player/5386/byali",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Paweł Bieliński</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>30 April 1994</span></div>",
+      "country": "player-summary-stat-box-left-flag\"><img alt=\"Poland\" src=\"/img/static/flags/30x20/PL.gif"
+    },
+    "country": "Poland",
+    "countryCode": "PL"
+  },
+  {
+    "hltvId": 884,
+    "status": 200,
+    "nickname": "Xizt",
+    "realName": "Richard Landström",
+    "birthDate": "22 February 1991",
+    "team": "Ninjas in Pyjamas",
+    "teamUrl": "/team/4411/ninjas-in-pyjamas",
+    "canonical": "https://www.hltv.org/player/884/xizt",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Richard Landström</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>22 February 1991</span></div>",
+      "country": "player-summary-stat-box-left-flag\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif"
+    },
+    "country": "Sweden",
+    "countryCode": "SE"
+  },
+  {
+    "hltvId": 7147,
+    "status": 200,
+    "nickname": "Fifflaren",
+    "realName": "Robin Johansson",
+    "birthDate": "2 December 1987",
+    "canonical": "https://www.hltv.org/player/7147/fifflaren",
+    "provenance": {
+      "name": "<div class=\"playerRealname\" itemprop=\"name\"> Robin Johansson</div>",
+      "dob": "<div class=\"dob-popup-row\"><span>Born</span><span>2 December 1987</span></div>",
+      "country": "player-summary-stat-box-left-flag\"><img alt=\"Sweden\" src=\"/img/static/flags/30x20/SE.gif"
+    },
+    "country": "Sweden",
+    "countryCode": "SE"
+  }
+]

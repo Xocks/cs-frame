@@ -1,0 +1,4042 @@
+[
+  {
+    "id": "hltv-16920",
+    "hltvId": 16920,
+    "nickname": "sh1ro",
+    "realName": "Dmitry Sokolov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/16920/sh1ro",
+    "teamId": "hltv-team-7020",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-18317",
+    "hltvId": 18317,
+    "nickname": "magixx",
+    "realName": "Boris Vorobiev",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/18317/magixx",
+    "teamId": "hltv-team-7020",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19808",
+    "hltvId": 19808,
+    "nickname": "tN1R",
+    "realName": "Andrey Tatarinovich",
+    "country": "Belarus",
+    "countryCode": "BY",
+    "profileUrl": "https://www.hltv.org/player/19808/tn1r",
+    "teamId": "hltv-team-7020",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20423",
+    "hltvId": 20423,
+    "nickname": "zont1x",
+    "realName": "Myroslav Plakhotia",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/20423/zont1x",
+    "teamId": "hltv-team-7020",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21167",
+    "hltvId": 21167,
+    "nickname": "donk",
+    "realName": "Danil Kryshkovets",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/21167/donk",
+    "teamId": "hltv-team-7020",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-7322",
+    "hltvId": 7322,
+    "nickname": "apEX",
+    "realName": "Dan Madesclaire",
+    "country": "France",
+    "countryCode": "FR",
+    "profileUrl": "https://www.hltv.org/player/7322/apex",
+    "teamId": "hltv-team-9565",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-11816",
+    "hltvId": 11816,
+    "nickname": "ropz",
+    "realName": "Robin Kool",
+    "country": "Estonia",
+    "countryCode": "EE",
+    "profileUrl": "https://www.hltv.org/player/11816/ropz",
+    "teamId": "hltv-team-9565",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-11893",
+    "hltvId": 11893,
+    "nickname": "ZywOo",
+    "realName": "Mathieu Herbaut",
+    "country": "France",
+    "countryCode": "FR",
+    "profileUrl": "https://www.hltv.org/player/11893/zywoo",
+    "teamId": "hltv-team-9565",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-16693",
+    "hltvId": 16693,
+    "nickname": "flameZ",
+    "realName": "Shahar Shushan",
+    "country": "Israel",
+    "countryCode": "IL",
+    "profileUrl": "https://www.hltv.org/player/16693/flamez",
+    "teamId": "hltv-team-9565",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-18462",
+    "hltvId": 18462,
+    "nickname": "mezii",
+    "realName": "William Merriman",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "profileUrl": "https://www.hltv.org/player/18462/mezii",
+    "teamId": "hltv-team-9565",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-2023",
+    "hltvId": 2023,
+    "nickname": "FalleN",
+    "realName": "Gabriel Toledo",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "profileUrl": "https://www.hltv.org/player/2023/fallen",
+    "teamId": "hltv-team-8297",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-12553",
+    "hltvId": 12553,
+    "nickname": "yuurih",
+    "realName": "Yuri Santos",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "profileUrl": "https://www.hltv.org/player/12553/yuurih",
+    "teamId": "hltv-team-8297",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-13915",
+    "hltvId": 13915,
+    "nickname": "YEKINDAR",
+    "realName": "Mareks Gaļinskis",
+    "country": "Latvia",
+    "countryCode": "LV",
+    "profileUrl": "https://www.hltv.org/player/13915/yekindar",
+    "teamId": "hltv-team-8297",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-15631",
+    "hltvId": 15631,
+    "nickname": "KSCERATO",
+    "realName": "Kaike Cerato",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "profileUrl": "https://www.hltv.org/player/15631/kscerato",
+    "teamId": "hltv-team-8297",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-24144",
+    "hltvId": 24144,
+    "nickname": "molodoy",
+    "realName": "Danil Golubenko",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "profileUrl": "https://www.hltv.org/player/24144/molodoy",
+    "teamId": "hltv-team-8297",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-18072",
+    "hltvId": 18072,
+    "nickname": "torzsi",
+    "realName": "Ádám Torzsás",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "profileUrl": "https://www.hltv.org/player/18072/torzsi",
+    "teamId": "hltv-team-4494",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-18221",
+    "hltvId": 18221,
+    "nickname": "Spinx",
+    "realName": "Lotan Giladi",
+    "country": "Israel",
+    "countryCode": "IL",
+    "profileUrl": "https://www.hltv.org/player/18221/spinx",
+    "teamId": "hltv-team-4494",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20312",
+    "hltvId": 20312,
+    "nickname": "xertioN",
+    "realName": "Dorian Berman",
+    "country": "Israel",
+    "countryCode": "IL",
+    "profileUrl": "https://www.hltv.org/player/20312/xertion",
+    "teamId": "hltv-team-4494",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22279",
+    "hltvId": 22279,
+    "nickname": "PR",
+    "realName": "Oldřich Nový",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "profileUrl": "https://www.hltv.org/player/22279/pr",
+    "teamId": "hltv-team-4494",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-24457",
+    "hltvId": 24457,
+    "nickname": "xelex",
+    "realName": "Adrian Vincze",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "profileUrl": "https://www.hltv.org/player/24457/xelex",
+    "teamId": "hltv-team-4494",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-7938",
+    "hltvId": 7938,
+    "nickname": "XANTARES",
+    "realName": "Ismailcan Dörtkardeş",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "profileUrl": "https://www.hltv.org/player/7938/xantares",
+    "teamId": "hltv-team-11861",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-8574",
+    "hltvId": 8574,
+    "nickname": "woxic",
+    "realName": "Özgür Eker",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "profileUrl": "https://www.hltv.org/player/8574/woxic",
+    "teamId": "hltv-team-11861",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-18850",
+    "hltvId": 18850,
+    "nickname": "Jimpphat",
+    "realName": "Jimi Salo",
+    "country": "Finland",
+    "countryCode": "FI",
+    "profileUrl": "https://www.hltv.org/player/18850/jimpphat",
+    "teamId": "hltv-team-11861",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19677",
+    "hltvId": 19677,
+    "nickname": "kyxsan",
+    "realName": "Damjan Stoilkovski",
+    "country": "North Macedonia",
+    "countryCode": "MK",
+    "profileUrl": "https://www.hltv.org/player/19677/kyxsan",
+    "teamId": "hltv-team-11861",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21243",
+    "hltvId": 21243,
+    "nickname": "Wicadia",
+    "realName": "Ali Haydar Yalçın",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "profileUrl": "https://www.hltv.org/player/21243/wicadia",
+    "teamId": "hltv-team-11861",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-429",
+    "hltvId": 429,
+    "nickname": "karrigan",
+    "realName": "Finn Andersen",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "profileUrl": "https://www.hltv.org/player/429/karrigan",
+    "teamId": "hltv-team-11283",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-3741",
+    "hltvId": 3741,
+    "nickname": "NiKo",
+    "realName": "Nikola Kovač",
+    "country": "Bosnia and Herzegovina",
+    "countryCode": "BA",
+    "profileUrl": "https://www.hltv.org/player/3741/niko",
+    "teamId": "hltv-team-11283",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-12018",
+    "hltvId": 12018,
+    "nickname": "TeSeS",
+    "realName": "René Madsen",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "profileUrl": "https://www.hltv.org/player/12018/teses",
+    "teamId": "hltv-team-11283",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19230",
+    "hltvId": 19230,
+    "nickname": "m0NESY",
+    "realName": "Ilya Osipov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/19230/m0nesy",
+    "teamId": "hltv-team-11283",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-24177",
+    "hltvId": 24177,
+    "nickname": "kyousuke",
+    "realName": "Maksim Lukin",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/24177/kyousuke",
+    "teamId": "hltv-team-11283",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-12521",
+    "hltvId": 12521,
+    "nickname": "arT",
+    "realName": "Andrei Piovezan",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "profileUrl": "https://www.hltv.org/player/12521/art",
+    "teamId": "hltv-team-12468",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-15698",
+    "hltvId": 15698,
+    "nickname": "dumau",
+    "realName": "Eduardo Wolkmer",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "profileUrl": "https://www.hltv.org/player/15698/dumau",
+    "teamId": "hltv-team-12468",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19045",
+    "hltvId": 19045,
+    "nickname": "latto",
+    "realName": "Bruno Rebelatto",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "profileUrl": "https://www.hltv.org/player/19045/latto",
+    "teamId": "hltv-team-12468",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19686",
+    "hltvId": 19686,
+    "nickname": "n1ssim",
+    "realName": "Vinicius Pereira",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "profileUrl": "https://www.hltv.org/player/19686/n1ssim",
+    "teamId": "hltv-team-12468",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19869",
+    "hltvId": 19869,
+    "nickname": "try",
+    "realName": "Santino Rigal",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "profileUrl": "https://www.hltv.org/player/19869/try",
+    "teamId": "hltv-team-12468",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-3972",
+    "hltvId": 3972,
+    "nickname": "huNter-",
+    "realName": "Nemanja Kovač",
+    "country": "Bosnia and Herzegovina",
+    "countryCode": "BA",
+    "profileUrl": "https://www.hltv.org/player/3972/hunter",
+    "teamId": "hltv-team-5995",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-9436",
+    "hltvId": 9436,
+    "nickname": "NertZ",
+    "realName": "Guy Iluz",
+    "country": "Israel",
+    "countryCode": "IL",
+    "profileUrl": "https://www.hltv.org/player/9436/nertz",
+    "teamId": "hltv-team-5995",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20425",
+    "hltvId": 20425,
+    "nickname": "r1nkle",
+    "realName": "Artem Moroz",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/20425/r1nkle",
+    "teamId": "hltv-team-5995",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20447",
+    "hltvId": 20447,
+    "nickname": "HeavyGod",
+    "realName": "Nikita Martynenko",
+    "country": "Israel",
+    "countryCode": "IL",
+    "profileUrl": "https://www.hltv.org/player/20447/heavygod",
+    "teamId": "hltv-team-5995",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21062",
+    "hltvId": 21062,
+    "nickname": "MATYS",
+    "realName": "Matúš Šimko",
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "profileUrl": "https://www.hltv.org/player/21062/matys",
+    "teamId": "hltv-team-5995",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-11840",
+    "hltvId": 11840,
+    "nickname": "Boombl4",
+    "realName": "Kirill Mikhailov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/11840/boombl4",
+    "teamId": "hltv-team-12394",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-15662",
+    "hltvId": 15662,
+    "nickname": "zorte",
+    "realName": "Aleksandr Zagodyrenko",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/15662/zorte",
+    "teamId": "hltv-team-12394",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-18506",
+    "hltvId": 18506,
+    "nickname": "S1ren",
+    "realName": "Pavel Ogloblin",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/18506/s1ren",
+    "teamId": "hltv-team-12394",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20357",
+    "hltvId": 20357,
+    "nickname": "d1Ledez",
+    "realName": "Daniil Kustov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/20357/d1ledez",
+    "teamId": "hltv-team-12394",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21667",
+    "hltvId": 21667,
+    "nickname": "Magnojez",
+    "realName": "Kirill Rodnov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/21667/magnojez",
+    "teamId": "hltv-team-12394",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19164",
+    "hltvId": 19164,
+    "nickname": "SunPayus",
+    "realName": "Álvaro García",
+    "country": "Spain",
+    "countryCode": "ES",
+    "profileUrl": "https://www.hltv.org/player/19164/sunpayus",
+    "teamId": "hltv-team-13286",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19187",
+    "hltvId": 19187,
+    "nickname": "xfl0ud",
+    "realName": "Yasin Koç",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "profileUrl": "https://www.hltv.org/player/19187/xfl0ud",
+    "teamId": "hltv-team-13286",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20584",
+    "hltvId": 20584,
+    "nickname": "dem0n",
+    "realName": "Dmytro Myroshnychenko",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/20584/dem0n",
+    "teamId": "hltv-team-13286",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22203",
+    "hltvId": 22203,
+    "nickname": "Krabeni",
+    "realName": "Aulon Fazlija",
+    "country": "Kosovo",
+    "countryCode": "XK",
+    "profileUrl": "https://www.hltv.org/player/22203/krabeni",
+    "teamId": "hltv-team-13286",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-23553",
+    "hltvId": 23553,
+    "nickname": "dziugss",
+    "realName": "Džiugas Steponavičius",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "profileUrl": "https://www.hltv.org/player/23553/dziugss",
+    "teamId": "hltv-team-13286",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-9816",
+    "hltvId": 9816,
+    "nickname": "Aleksib",
+    "realName": "Aleksi Virolainen",
+    "country": "Finland",
+    "countryCode": "FI",
+    "profileUrl": "https://www.hltv.org/player/9816/aleksib",
+    "teamId": "hltv-team-4608",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-14759",
+    "hltvId": 14759,
+    "nickname": "iM",
+    "realName": "Mihai Ivan",
+    "country": "Romania",
+    "countryCode": "RO",
+    "profileUrl": "https://www.hltv.org/player/14759/im",
+    "teamId": "hltv-team-4608",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-18987",
+    "hltvId": 18987,
+    "nickname": "b1t",
+    "realName": "Valeriy Vakhovskiy",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/18987/b1t",
+    "teamId": "hltv-team-4608",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20127",
+    "hltvId": 20127,
+    "nickname": "w0nderful",
+    "realName": "Ihor Zhdanov",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/20127/w0nderful",
+    "teamId": "hltv-team-4608",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22673",
+    "hltvId": 22673,
+    "nickname": "makazze",
+    "realName": "Drin Shaqiri",
+    "country": "Kosovo",
+    "countryCode": "XK",
+    "profileUrl": "https://www.hltv.org/player/22673/makazze",
+    "teamId": "hltv-team-4608",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19310",
+    "hltvId": 19310,
+    "nickname": "LNZ",
+    "realName": "Linus Holtäng",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/19310/lnz",
+    "teamId": "hltv-team-9215",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19694",
+    "hltvId": 19694,
+    "nickname": "nqz",
+    "realName": "Lucas Soares",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "profileUrl": "https://www.hltv.org/player/19694/nqz",
+    "teamId": "hltv-team-9215",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21037",
+    "hltvId": 21037,
+    "nickname": "insani",
+    "realName": "Felipe Yuji",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "profileUrl": "https://www.hltv.org/player/21037/insani",
+    "teamId": "hltv-team-9215",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21288",
+    "hltvId": 21288,
+    "nickname": "venomzera",
+    "realName": "Carlos Eduardo",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "profileUrl": "https://www.hltv.org/player/21288/venomzera",
+    "teamId": "hltv-team-9215",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22570",
+    "hltvId": 22570,
+    "nickname": "tomaszin",
+    "realName": "Tomas Corna",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "profileUrl": "https://www.hltv.org/player/22570/tomaszin",
+    "teamId": "hltv-team-9215",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-8528",
+    "hltvId": 8528,
+    "nickname": "HObbit",
+    "realName": "Abay Khassenov",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "profileUrl": "https://www.hltv.org/player/8528/hobbit",
+    "teamId": "hltv-team-12467",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-12732",
+    "hltvId": 12732,
+    "nickname": "FL1T",
+    "realName": "Evgenii Lebedev",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/12732/fl1t",
+    "teamId": "hltv-team-12467",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-13776",
+    "hltvId": 13776,
+    "nickname": "Jame",
+    "realName": "Dzhami Ali",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/13776/jame",
+    "teamId": "hltv-team-12467",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22471",
+    "hltvId": 22471,
+    "nickname": "xiELO",
+    "realName": "Vladislav Lysov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/22471/xielo",
+    "teamId": "hltv-team-12467",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-23685",
+    "hltvId": 23685,
+    "nickname": "zweih",
+    "realName": "Ivan Gogin",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/23685/zweih",
+    "teamId": "hltv-team-12467",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-16555",
+    "hltvId": 16555,
+    "nickname": "Ax1Le",
+    "realName": "Sergey Rykhtorov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/16555/ax1le",
+    "teamId": "hltv-team-10621",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-16921",
+    "hltvId": 16921,
+    "nickname": "nafany",
+    "realName": "Vladislav Gorshkov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/16921/nafany",
+    "teamId": "hltv-team-10621",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19235",
+    "hltvId": 19235,
+    "nickname": "BELCHONOKK",
+    "realName": "Andrey Yasinskiy",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/19235/belchonokk",
+    "teamId": "hltv-team-10621",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20101",
+    "hltvId": 20101,
+    "nickname": "fame",
+    "realName": "Petr Bolyshev",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/20101/fame",
+    "teamId": "hltv-team-10621",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21348",
+    "hltvId": 21348,
+    "nickname": "ArtFr0st",
+    "realName": "Artem Kharitonov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/21348/artfr0st",
+    "teamId": "hltv-team-10621",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-12092",
+    "hltvId": 12092,
+    "nickname": "max",
+    "realName": "Maximiliano Gonzalez",
+    "country": "Uruguay",
+    "countryCode": "UY",
+    "profileUrl": "https://www.hltv.org/player/12092/max",
+    "teamId": "hltv-team-9996",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-14736",
+    "hltvId": 14736,
+    "nickname": "dgt",
+    "realName": "Franco Garcia",
+    "country": "Uruguay",
+    "countryCode": "UY",
+    "profileUrl": "https://www.hltv.org/player/14736/dgt",
+    "teamId": "hltv-team-9996",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-14737",
+    "hltvId": 14737,
+    "nickname": "meyern",
+    "realName": "Ignacio Meyer",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "profileUrl": "https://www.hltv.org/player/14737/meyern",
+    "teamId": "hltv-team-9996",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20394",
+    "hltvId": 20394,
+    "nickname": "luchov",
+    "realName": "Luciano Herrera",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "profileUrl": "https://www.hltv.org/player/20394/luchov",
+    "teamId": "hltv-team-9996",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22613",
+    "hltvId": 22613,
+    "nickname": "HUASOPEEK",
+    "realName": "Matias Ibañez Hernandez",
+    "country": "Chile",
+    "countryCode": "CL",
+    "profileUrl": "https://www.hltv.org/player/22613/huasopeek",
+    "teamId": "hltv-team-9996",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-16726",
+    "hltvId": 16726,
+    "nickname": "phzy",
+    "realName": "Love Smidebrant",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/16726/phzy",
+    "teamId": "hltv-team-6665",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-16820",
+    "hltvId": 16820,
+    "nickname": "siuhy",
+    "realName": "Kamil Szkaradek",
+    "country": "Poland",
+    "countryCode": "PL",
+    "profileUrl": "https://www.hltv.org/player/16820/siuhy",
+    "teamId": "hltv-team-6665",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20304",
+    "hltvId": 20304,
+    "nickname": "Staehr",
+    "realName": "Victor Staehr",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "profileUrl": "https://www.hltv.org/player/20304/staehr",
+    "teamId": "hltv-team-6665",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21217",
+    "hltvId": 21217,
+    "nickname": "ryu",
+    "realName": "Gytis Glušauskas",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "profileUrl": "https://www.hltv.org/player/21217/ryu",
+    "teamId": "hltv-team-6665",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22674",
+    "hltvId": 22674,
+    "nickname": "cmtry",
+    "realName": "Nikita Samolotov",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/22674/cmtry",
+    "teamId": "hltv-team-6665",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-9960",
+    "hltvId": 9960,
+    "nickname": "frozen",
+    "realName": "David Čerňanský",
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "profileUrl": "https://www.hltv.org/player/9960/frozen",
+    "teamId": "hltv-team-6667",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-10394",
+    "hltvId": 10394,
+    "nickname": "Twistzz",
+    "realName": "Russel Van Dulken",
+    "country": "Canada",
+    "countryCode": "CA",
+    "profileUrl": "https://www.hltv.org/player/10394/twistzz",
+    "teamId": "hltv-team-6667",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21972",
+    "hltvId": 21972,
+    "nickname": "Neityu",
+    "realName": "Ryan Aubry",
+    "country": "France",
+    "countryCode": "FR",
+    "profileUrl": "https://www.hltv.org/player/21972/neityu",
+    "teamId": "hltv-team-6667",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22383",
+    "hltvId": 22383,
+    "nickname": "jcobbb",
+    "realName": "Jakub Pietruszewski",
+    "country": "Poland",
+    "countryCode": "PL",
+    "profileUrl": "https://www.hltv.org/player/22383/jcobbb",
+    "teamId": "hltv-team-6667",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22866",
+    "hltvId": 22866,
+    "nickname": "JBOEN",
+    "realName": "Jason Boe Nielsen",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "profileUrl": "https://www.hltv.org/player/22866/jboen",
+    "teamId": "hltv-team-6667",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-15370",
+    "hltvId": 15370,
+    "nickname": "slaxz-",
+    "realName": "Fritz Dietrich",
+    "country": "Germany",
+    "countryCode": "DE",
+    "profileUrl": "https://www.hltv.org/player/15370/slaxz",
+    "teamId": "hltv-team-12376",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-16599",
+    "hltvId": 16599,
+    "nickname": "Swisher",
+    "realName": "Michael Schmid",
+    "country": "United States",
+    "countryCode": "US",
+    "profileUrl": "https://www.hltv.org/player/16599/swisher",
+    "teamId": "hltv-team-12376",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20104",
+    "hltvId": 20104,
+    "nickname": "s1n",
+    "realName": "Elias Stein",
+    "country": "Germany",
+    "countryCode": "DE",
+    "profileUrl": "https://www.hltv.org/player/20104/s1n",
+    "teamId": "hltv-team-12376",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21665",
+    "hltvId": 21665,
+    "nickname": "JBa",
+    "realName": "Josh Barutt",
+    "country": "United States",
+    "countryCode": "US",
+    "profileUrl": "https://www.hltv.org/player/21665/jba",
+    "teamId": "hltv-team-12376",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22921",
+    "hltvId": 22921,
+    "nickname": "Lake",
+    "realName": "Mason Sanderson",
+    "country": "United States",
+    "countryCode": "US",
+    "profileUrl": "https://www.hltv.org/player/22921/lake",
+    "teamId": "hltv-team-12376",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-10994",
+    "hltvId": 10994,
+    "nickname": "stavn",
+    "realName": "Martin Lund",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "profileUrl": "https://www.hltv.org/player/10994/stavn",
+    "teamId": "hltv-team-4411",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-14148",
+    "hltvId": 14148,
+    "nickname": "sjuush",
+    "realName": "Rasmus Beck",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "profileUrl": "https://www.hltv.org/player/14148/sjuush",
+    "teamId": "hltv-team-4411",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19899",
+    "hltvId": 19899,
+    "nickname": "Krimbo",
+    "realName": "Karim Moussa",
+    "country": "Germany",
+    "countryCode": "DE",
+    "profileUrl": "https://www.hltv.org/player/19899/krimbo",
+    "teamId": "hltv-team-4411",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20878",
+    "hltvId": 20878,
+    "nickname": "adamb",
+    "realName": "Adam Ångström",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/20878/adamb",
+    "teamId": "hltv-team-4411",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-23372",
+    "hltvId": 23372,
+    "nickname": "xKacpersky",
+    "realName": "Kacper Gabara",
+    "country": "Poland",
+    "countryCode": "PL",
+    "profileUrl": "https://www.hltv.org/player/23372/xkacpersky",
+    "teamId": "hltv-team-4411",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-15072",
+    "hltvId": 15072,
+    "nickname": "nin9",
+    "realName": "Yesuntumur Gantulga",
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "profileUrl": "https://www.hltv.org/player/15072/nin9",
+    "teamId": "hltv-team-6248",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20194",
+    "hltvId": 20194,
+    "nickname": "bLitz",
+    "realName": "Garidmagnai Byambasuren",
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "profileUrl": "https://www.hltv.org/player/20194/blitz",
+    "teamId": "hltv-team-6248",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20275",
+    "hltvId": 20275,
+    "nickname": "Techno",
+    "realName": "Sodbayar Munkhbold",
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "profileUrl": "https://www.hltv.org/player/20275/techno",
+    "teamId": "hltv-team-6248",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21809",
+    "hltvId": 21809,
+    "nickname": "910",
+    "realName": "Usukhbayar Banzragch",
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "profileUrl": "https://www.hltv.org/player/21809/910",
+    "teamId": "hltv-team-6248",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-23402",
+    "hltvId": 23402,
+    "nickname": "cobrazera",
+    "realName": "Anarbileg Uuganbayar",
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "profileUrl": "https://www.hltv.org/player/23402/cobrazera",
+    "teamId": "hltv-team-6248",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20112",
+    "hltvId": 20112,
+    "nickname": "alex666",
+    "realName": "Alexey Yarmoshchuk",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/20112/alex666",
+    "teamId": "hltv-team-11241",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21708",
+    "hltvId": 21708,
+    "nickname": "npl",
+    "realName": "Andrii Kukharskyi",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/21708/npl",
+    "teamId": "hltv-team-11241",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22842",
+    "hltvId": 22842,
+    "nickname": "kensizor",
+    "realName": "Artem Kapran",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/22842/kensizor",
+    "teamId": "hltv-team-11241",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-23643",
+    "hltvId": 23643,
+    "nickname": "esenthial",
+    "realName": "Dmytro Tsvir",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/23643/esenthial",
+    "teamId": "hltv-team-11241",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-25619",
+    "hltvId": 25619,
+    "nickname": "s1zzi",
+    "realName": "Danylo Vinnyk",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/25619/s1zzi",
+    "teamId": "hltv-team-11241",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-13138",
+    "hltvId": 13138,
+    "nickname": "Maka",
+    "realName": "Bryan Canda",
+    "country": "France",
+    "countryCode": "FR",
+    "profileUrl": "https://www.hltv.org/player/13138/maka",
+    "teamId": "hltv-team-5991",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-13497",
+    "hltvId": 13497,
+    "nickname": "Lucky",
+    "realName": "Lucas Chastang",
+    "country": "France",
+    "countryCode": "FR",
+    "profileUrl": "https://www.hltv.org/player/13497/lucky",
+    "teamId": "hltv-team-5991",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-14176",
+    "hltvId": 14176,
+    "nickname": "misutaaa",
+    "realName": "Kévin Rabier",
+    "country": "France",
+    "countryCode": "FR",
+    "profileUrl": "https://www.hltv.org/player/14176/misutaaa",
+    "teamId": "hltv-team-5991",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20482",
+    "hltvId": 20482,
+    "nickname": "Kursy",
+    "realName": "Jeremy Gast",
+    "country": "France",
+    "countryCode": "FR",
+    "profileUrl": "https://www.hltv.org/player/20482/kursy",
+    "teamId": "hltv-team-5991",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21969",
+    "hltvId": 21969,
+    "nickname": "Graviti",
+    "realName": "Filip Brankovic",
+    "country": "France",
+    "countryCode": "FR",
+    "profileUrl": "https://www.hltv.org/player/21969/graviti",
+    "teamId": "hltv-team-5991",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-2553",
+    "hltvId": 2553,
+    "nickname": "Snax",
+    "realName": "Janusz Pogorzelski",
+    "country": "Poland",
+    "countryCode": "PL",
+    "profileUrl": "https://www.hltv.org/player/2553/snax",
+    "teamId": "hltv-team-9928",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-9278",
+    "hltvId": 9278,
+    "nickname": "REZ",
+    "realName": "Fredrik Sterner",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/9278/rez",
+    "teamId": "hltv-team-9928",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20301",
+    "hltvId": 20301,
+    "nickname": "Tauson",
+    "realName": "Sebastian Tauson Lindelof",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "profileUrl": "https://www.hltv.org/player/20301/tauson",
+    "teamId": "hltv-team-9928",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20994",
+    "hltvId": 20994,
+    "nickname": "FL4MUS",
+    "realName": "Timur Marev",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/20994/fl4mus",
+    "teamId": "hltv-team-9928",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-23766",
+    "hltvId": 23766,
+    "nickname": "hypex",
+    "realName": "Milan Polowiec",
+    "country": "Poland",
+    "countryCode": "PL",
+    "profileUrl": "https://www.hltv.org/player/23766/hypex",
+    "teamId": "hltv-team-9928",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-13666",
+    "hltvId": 13666,
+    "nickname": "Brollan",
+    "realName": "Ludvig Brolin",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/13666/brollan",
+    "teamId": "hltv-team-7175",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20119",
+    "hltvId": 20119,
+    "nickname": "nilo",
+    "realName": "Linus Bergman",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/20119/nilo",
+    "teamId": "hltv-team-7175",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21163",
+    "hltvId": 21163,
+    "nickname": "susp",
+    "realName": "Tim Ångström",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/21163/susp",
+    "teamId": "hltv-team-7175",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21239",
+    "hltvId": 21239,
+    "nickname": "MartinezSa",
+    "realName": "Antonio Martinez",
+    "country": "Spain",
+    "countryCode": "ES",
+    "profileUrl": "https://www.hltv.org/player/21239/martinezsa",
+    "teamId": "hltv-team-7175",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21983",
+    "hltvId": 21983,
+    "nickname": "Chr1zN",
+    "realName": "Christoffer Storgaard",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "profileUrl": "https://www.hltv.org/player/21983/chr1zn",
+    "teamId": "hltv-team-7175",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-8520",
+    "hltvId": 8520,
+    "nickname": "NAF",
+    "realName": "Keith Markovic",
+    "country": "Canada",
+    "countryCode": "CA",
+    "profileUrl": "https://www.hltv.org/player/8520/naf",
+    "teamId": "hltv-team-5973",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-8738",
+    "hltvId": 8738,
+    "nickname": "EliGE",
+    "realName": "Jonathan Jablonowski",
+    "country": "United States",
+    "countryCode": "US",
+    "profileUrl": "https://www.hltv.org/player/8738/elige",
+    "teamId": "hltv-team-5973",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-11617",
+    "hltvId": 11617,
+    "nickname": "malbsMd",
+    "realName": "Mario Samayoa",
+    "country": "Guatemala",
+    "countryCode": "GT",
+    "profileUrl": "https://www.hltv.org/player/11617/malbsmd",
+    "teamId": "hltv-team-5973",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-11630",
+    "hltvId": 11630,
+    "nickname": "JT",
+    "realName": "Johnny Theodosiou",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "profileUrl": "https://www.hltv.org/player/11630/jt",
+    "teamId": "hltv-team-5973",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-24203",
+    "hltvId": 24203,
+    "nickname": "Jorko",
+    "realName": "Georgi Mitev",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "profileUrl": "https://www.hltv.org/player/24203/jorko",
+    "teamId": "hltv-team-5973",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-7592",
+    "hltvId": 7592,
+    "nickname": "device",
+    "realName": "Nicolai Reedtz",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "profileUrl": "https://www.hltv.org/player/7592/device",
+    "teamId": "hltv-team-8474",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-8183",
+    "hltvId": 8183,
+    "nickname": "rain",
+    "realName": "Håvard Nygaard",
+    "country": "Norway",
+    "countryCode": "NO",
+    "profileUrl": "https://www.hltv.org/player/8183/rain",
+    "teamId": "hltv-team-8474",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21816",
+    "hltvId": 21816,
+    "nickname": "Gizmy",
+    "realName": "Jack von Spreckelsen",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "profileUrl": "https://www.hltv.org/player/21816/gizmy",
+    "teamId": "hltv-team-8474",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22695",
+    "hltvId": 22695,
+    "nickname": "sirah",
+    "realName": "William Kjærsgaard",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "profileUrl": "https://www.hltv.org/player/22695/sirah",
+    "teamId": "hltv-team-8474",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-23397",
+    "hltvId": 23397,
+    "nickname": "poiii",
+    "realName": "Alex Nyholm Sundgren",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/23397/poiii",
+    "teamId": "hltv-team-8474",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19645",
+    "hltvId": 19645,
+    "nickname": "JamYoung",
+    "realName": "Yi Yang",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/19645/jamyoung",
+    "teamId": "hltv-team-4863",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20702",
+    "hltvId": 20702,
+    "nickname": "Jee",
+    "realName": "Dongkai Ji",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/20702/jee",
+    "teamId": "hltv-team-4863",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20895",
+    "hltvId": 20895,
+    "nickname": "Mercury",
+    "realName": "Jingxiang Wang",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/20895/mercury",
+    "teamId": "hltv-team-4863",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21621",
+    "hltvId": 21621,
+    "nickname": "Moseyuh",
+    "realName": "Qianhao Chen",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/21621/moseyuh",
+    "teamId": "hltv-team-4863",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-24857",
+    "hltvId": 24857,
+    "nickname": "Zero",
+    "realName": "Su Jingshen",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/24857/zero",
+    "teamId": "hltv-team-4863",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-16551",
+    "hltvId": 16551,
+    "nickname": "Westmelon",
+    "realName": "Zhe Niu",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/16551/westmelon",
+    "teamId": "hltv-team-8840",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-18744",
+    "hltvId": 18744,
+    "nickname": "z4KR",
+    "realName": "Sike Zhang",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/18744/z4kr",
+    "teamId": "hltv-team-8840",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20254",
+    "hltvId": 20254,
+    "nickname": "Starry",
+    "realName": "Lizhi Ye",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/20254/starry",
+    "teamId": "hltv-team-8840",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22922",
+    "hltvId": 22922,
+    "nickname": "EmiliaQAQ",
+    "realName": "Junjie Tang",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/22922/emiliaqaq",
+    "teamId": "hltv-team-8840",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-23100",
+    "hltvId": 23100,
+    "nickname": "C4LLM3SU3",
+    "realName": "Qihao Su",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/23100/c4llm3su3",
+    "teamId": "hltv-team-8840",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-16811",
+    "hltvId": 16811,
+    "nickname": "MisteM",
+    "realName": "Gareth Ries",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "profileUrl": "https://www.hltv.org/player/16811/mistem",
+    "teamId": "hltv-team-11251",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20123",
+    "hltvId": 20123,
+    "nickname": "regali",
+    "realName": "Iulian Harjău",
+    "country": "Romania",
+    "countryCode": "RO",
+    "profileUrl": "https://www.hltv.org/player/20123/regali",
+    "teamId": "hltv-team-11251",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20968",
+    "hltvId": 20968,
+    "nickname": "soulfly",
+    "realName": "Caner Kesici",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "profileUrl": "https://www.hltv.org/player/20968/soulfly",
+    "teamId": "hltv-team-11251",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21452",
+    "hltvId": 21452,
+    "nickname": "Kvem",
+    "realName": "Vladyslav Korol",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/21452/kvem",
+    "teamId": "hltv-team-11251",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22361",
+    "hltvId": 22361,
+    "nickname": "jottAAA",
+    "realName": "Samet Köklü",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "profileUrl": "https://www.hltv.org/player/22361/jottaaa",
+    "teamId": "hltv-team-11251",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-7998",
+    "hltvId": 7998,
+    "nickname": "s1mple",
+    "realName": "Oleksandr Kostyliev",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "profileUrl": "https://www.hltv.org/player/7998/s1mple",
+    "teamId": "hltv-team-12878",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-9032",
+    "hltvId": 9032,
+    "nickname": "Magisk",
+    "realName": "Emil Reif",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "profileUrl": "https://www.hltv.org/player/9032/magisk",
+    "teamId": "hltv-team-12878",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-18545",
+    "hltvId": 18545,
+    "nickname": "asap",
+    "realName": "Tyson Paterson",
+    "country": "Australia",
+    "countryCode": "AU",
+    "profileUrl": "https://www.hltv.org/player/18545/asap",
+    "teamId": "hltv-team-12878",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20903",
+    "hltvId": 20903,
+    "nickname": "Senzu",
+    "realName": "Azbayar Munkhbold",
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "profileUrl": "https://www.hltv.org/player/20903/senzu",
+    "teamId": "hltv-team-12878",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21001",
+    "hltvId": 21001,
+    "nickname": "mzinho",
+    "realName": "Ayush Batbold",
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "profileUrl": "https://www.hltv.org/player/21001/mzinho",
+    "teamId": "hltv-team-12878",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-3849",
+    "hltvId": 3849,
+    "nickname": "JW",
+    "realName": "Jesper Wecksell",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/3849/jw",
+    "teamId": "hltv-team-11737",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-7528",
+    "hltvId": 7528,
+    "nickname": "KRIMZ",
+    "realName": "Freddy Johansson",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/7528/krimz",
+    "teamId": "hltv-team-11737",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-20879",
+    "hltvId": 20879,
+    "nickname": "maxster",
+    "realName": "Max Jansson",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/20879/maxster",
+    "teamId": "hltv-team-11737",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21012",
+    "hltvId": 21012,
+    "nickname": "Ro1f",
+    "realName": "Kalle Johansson",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/21012/ro1f",
+    "teamId": "hltv-team-11737",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-22914",
+    "hltvId": 22914,
+    "nickname": "dex",
+    "realName": "Sebastian Samuelsson",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "profileUrl": "https://www.hltv.org/player/22914/dex",
+    "teamId": "hltv-team-11737",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-8789",
+    "hltvId": 8789,
+    "nickname": "mir",
+    "realName": "Nikolay Bityukov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/8789/mir",
+    "teamId": "hltv-team-5378",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-23637",
+    "hltvId": 23637,
+    "nickname": "b1st",
+    "realName": "Vladimir Krasikov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/23637/b1st",
+    "teamId": "hltv-team-5378",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-24292",
+    "hltvId": 24292,
+    "nickname": "F0R3VER",
+    "realName": "Dias Kutubay",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "profileUrl": "https://www.hltv.org/player/24292/f0r3ver",
+    "teamId": "hltv-team-5378",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-24950",
+    "hltvId": 24950,
+    "nickname": "AquaRS",
+    "realName": "Aleksandr Kovalev",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/24950/aquars",
+    "teamId": "hltv-team-5378",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-24952",
+    "hltvId": 24952,
+    "nickname": "tO0RO",
+    "realName": "Vadim Arkov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "profileUrl": "https://www.hltv.org/player/24952/to0ro",
+    "teamId": "hltv-team-5378",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-4679",
+    "hltvId": 4679,
+    "nickname": "jks",
+    "realName": "Justin Savage",
+    "country": "Australia",
+    "countryCode": "AU",
+    "profileUrl": "https://www.hltv.org/player/4679/jks",
+    "teamId": "hltv-team-12774",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-11139",
+    "hltvId": 11139,
+    "nickname": "aliStair",
+    "realName": "Alistair Johnston",
+    "country": "Australia",
+    "countryCode": "AU",
+    "profileUrl": "https://www.hltv.org/player/11139/alistair",
+    "teamId": "hltv-team-12774",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-11140",
+    "hltvId": 11140,
+    "nickname": "INS",
+    "realName": "Joshua Potter",
+    "country": "Australia",
+    "countryCode": "AU",
+    "profileUrl": "https://www.hltv.org/player/11140/ins",
+    "teamId": "hltv-team-12774",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-17384",
+    "hltvId": 17384,
+    "nickname": "Vexite",
+    "realName": "Declan Portelli",
+    "country": "Australia",
+    "countryCode": "AU",
+    "profileUrl": "https://www.hltv.org/player/17384/vexite",
+    "teamId": "hltv-team-12774",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-18214",
+    "hltvId": 18214,
+    "nickname": "nettik",
+    "realName": "Corey Browne",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "profileUrl": "https://www.hltv.org/player/18214/nettik",
+    "teamId": "hltv-team-12774",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-8735",
+    "hltvId": 8735,
+    "nickname": "autimatic",
+    "realName": "Timothy Ta",
+    "country": "United States",
+    "countryCode": "US",
+    "profileUrl": "https://www.hltv.org/player/8735/autimatic",
+    "teamId": "hltv-team-6914",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-8797",
+    "hltvId": 8797,
+    "nickname": "Stewie2K",
+    "realName": "Jake Yip",
+    "country": "United States",
+    "countryCode": "US",
+    "profileUrl": "https://www.hltv.org/player/8797/stewie2k",
+    "teamId": "hltv-team-6914",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-9136",
+    "hltvId": 9136,
+    "nickname": "Brehze",
+    "realName": "Vincent Cayonte",
+    "country": "United States",
+    "countryCode": "US",
+    "profileUrl": "https://www.hltv.org/player/9136/brehze",
+    "teamId": "hltv-team-6914",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-11219",
+    "hltvId": 11219,
+    "nickname": "CeRq",
+    "realName": "Tsvetelin Dimitrov",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "profileUrl": "https://www.hltv.org/player/11219/cerq",
+    "teamId": "hltv-team-6914",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-17372",
+    "hltvId": 17372,
+    "nickname": "FaNg",
+    "realName": "Justin Coakley",
+    "country": "Canada",
+    "countryCode": "CA",
+    "profileUrl": "https://www.hltv.org/player/17372/fang",
+    "teamId": "hltv-team-6914",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-7028",
+    "hltvId": 7028,
+    "nickname": "Summer",
+    "realName": "YuLun Cai",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/7028/summer",
+    "teamId": "hltv-team-11514",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-8950",
+    "hltvId": 8950,
+    "nickname": "kaze",
+    "realName": "Andrew Khong",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "profileUrl": "https://www.hltv.org/player/8950/kaze",
+    "teamId": "hltv-team-11514",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-19681",
+    "hltvId": 19681,
+    "nickname": "ChildKing",
+    "realName": "Junhao Peng",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/19681/childking",
+    "teamId": "hltv-team-11514",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-21825",
+    "hltvId": 21825,
+    "nickname": "L1haNg",
+    "realName": "Yihang Li",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/21825/l1hang",
+    "teamId": "hltv-team-11514",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-24306",
+    "hltvId": 24306,
+    "nickname": "3gl",
+    "realName": "Guoliang Wang",
+    "country": "China",
+    "countryCode": "CN",
+    "profileUrl": "https://www.hltv.org/player/24306/3gl",
+    "teamId": "hltv-team-11514",
+    "collection": "current",
+    "birthDate": null,
+    "sources": [
+      {
+        "url": "https://www.hltv.org/ranking/teams/2026/october/19",
+        "checkedAt": "2026-10-21",
+        "kind": "ranking-lineup"
+      }
+    ]
+  },
+  {
+    "id": "hltv-150",
+    "hltvId": 150,
+    "nickname": "MAJ3R",
+    "profileUrl": "https://www.hltv.org/player/150/maj3r",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-8575",
+    "hltvId": 8575,
+    "nickname": "Calyx",
+    "profileUrl": "https://www.hltv.org/player/8575/calyx",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-5386",
+    "hltvId": 5386,
+    "nickname": "byali",
+    "profileUrl": "https://www.hltv.org/player/5386/byali",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-884",
+    "hltvId": 884,
+    "nickname": "Xizt",
+    "profileUrl": "https://www.hltv.org/player/884/xizt",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7147",
+    "hltvId": 7147,
+    "nickname": "Fifflaren",
+    "profileUrl": "https://www.hltv.org/player/7147/fifflaren",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-9216",
+    "hltvId": 9216,
+    "nickname": "coldzera",
+    "profileUrl": "https://www.hltv.org/player/9216/coldzera",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-8564",
+    "hltvId": 8564,
+    "nickname": "fer",
+    "profileUrl": "https://www.hltv.org/player/8564/fer",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-557",
+    "hltvId": 557,
+    "nickname": "fnx",
+    "profileUrl": "https://www.hltv.org/player/557/fnx",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-885",
+    "hltvId": 885,
+    "nickname": "olofmeister",
+    "profileUrl": "https://www.hltv.org/player/885/olofmeister",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-39",
+    "hltvId": 39,
+    "nickname": "GeT_RiGhT",
+    "profileUrl": "https://www.hltv.org/player/39/get_right",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-29",
+    "hltvId": 29,
+    "nickname": "f0rest",
+    "profileUrl": "https://www.hltv.org/player/29/f0rest",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7148",
+    "hltvId": 7148,
+    "nickname": "friberg",
+    "profileUrl": "https://www.hltv.org/player/7148/friberg",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7167",
+    "hltvId": 7167,
+    "nickname": "kennyS",
+    "profileUrl": "https://www.hltv.org/player/7167/kennys",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-2757",
+    "hltvId": 2757,
+    "nickname": "GuardiaN",
+    "profileUrl": "https://www.hltv.org/player/2757/guardian",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-1225",
+    "hltvId": 1225,
+    "nickname": "shox",
+    "profileUrl": "https://www.hltv.org/player/1225/shox",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7390",
+    "hltvId": 7390,
+    "nickname": "ScreaM",
+    "profileUrl": "https://www.hltv.org/player/7390/scream",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-8349",
+    "hltvId": 8349,
+    "nickname": "shroud",
+    "profileUrl": "https://www.hltv.org/player/8349/shroud",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-8523",
+    "hltvId": 8523,
+    "nickname": "tarik",
+    "profileUrl": "https://www.hltv.org/player/8523/tarik",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-8918",
+    "hltvId": 8918,
+    "nickname": "electroNic",
+    "profileUrl": "https://www.hltv.org/player/8918/electronic",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-16947",
+    "hltvId": 16947,
+    "nickname": "Perfecto",
+    "profileUrl": "https://www.hltv.org/player/16947/perfecto",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7594",
+    "hltvId": 7594,
+    "nickname": "flamie",
+    "profileUrl": "https://www.hltv.org/player/7594/flamie",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-483",
+    "hltvId": 483,
+    "nickname": "Edward",
+    "profileUrl": "https://www.hltv.org/player/483/edward",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-484",
+    "hltvId": 484,
+    "nickname": "Zeus",
+    "profileUrl": "https://www.hltv.org/player/484/zeus",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-338",
+    "hltvId": 338,
+    "nickname": "markeloff",
+    "profileUrl": "https://www.hltv.org/player/338/markeloff",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7398",
+    "hltvId": 7398,
+    "nickname": "dupreeh",
+    "profileUrl": "https://www.hltv.org/player/7398/dupreeh",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7412",
+    "hltvId": 7412,
+    "nickname": "gla1ve",
+    "profileUrl": "https://www.hltv.org/player/7412/gla1ve",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-4954",
+    "hltvId": 4954,
+    "nickname": "Xyp9x",
+    "profileUrl": "https://www.hltv.org/player/4954/xyp9x",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-3055",
+    "hltvId": 3055,
+    "nickname": "flusha",
+    "profileUrl": "https://www.hltv.org/player/3055/flusha",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-317",
+    "hltvId": 317,
+    "nickname": "pashaBiceps",
+    "profileUrl": "https://www.hltv.org/player/317/pashabiceps",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-165",
+    "hltvId": 165,
+    "nickname": "NEO",
+    "profileUrl": "https://www.hltv.org/player/165/neo",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-161",
+    "hltvId": 161,
+    "nickname": "TaZ",
+    "profileUrl": "https://www.hltv.org/player/161/taz",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-2644",
+    "hltvId": 2644,
+    "nickname": "Hiko",
+    "profileUrl": "https://www.hltv.org/player/2644/hiko",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-203",
+    "hltvId": 203,
+    "nickname": "n0thing",
+    "profileUrl": "https://www.hltv.org/player/203/n0thing",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7440",
+    "hltvId": 7440,
+    "nickname": "Skadoodle",
+    "profileUrl": "https://www.hltv.org/player/7440/skadoodle",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7168",
+    "hltvId": 7168,
+    "nickname": "NBK",
+    "profileUrl": "https://www.hltv.org/player/7168/nbk",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7429",
+    "hltvId": 7429,
+    "nickname": "Happy",
+    "profileUrl": "https://www.hltv.org/player/7429/happy",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7170",
+    "hltvId": 7170,
+    "nickname": "SmithZz",
+    "profileUrl": "https://www.hltv.org/player/7170/smithzz",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7166",
+    "hltvId": 7166,
+    "nickname": "Ex6TenZ",
+    "profileUrl": "https://www.hltv.org/player/7166/ex6tenz",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-41",
+    "hltvId": 41,
+    "nickname": "pronax",
+    "profileUrl": "https://www.hltv.org/player/41/pronax",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-9217",
+    "hltvId": 9217,
+    "nickname": "TACO",
+    "profileUrl": "https://www.hltv.org/player/9217/taco",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-8568",
+    "hltvId": 8568,
+    "nickname": "boltz",
+    "profileUrl": "https://www.hltv.org/player/8568/boltz",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-695",
+    "hltvId": 695,
+    "nickname": "allu",
+    "profileUrl": "https://www.hltv.org/player/695/allu",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7248",
+    "hltvId": 7248,
+    "nickname": "xseveN",
+    "profileUrl": "https://www.hltv.org/player/7248/xseven",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-11916",
+    "hltvId": 11916,
+    "nickname": "sergej",
+    "profileUrl": "https://www.hltv.org/player/11916/sergej",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-334",
+    "hltvId": 334,
+    "nickname": "AdreN",
+    "profileUrl": "https://www.hltv.org/player/334/adren",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-735",
+    "hltvId": 735,
+    "nickname": "Dosia",
+    "profileUrl": "https://www.hltv.org/player/735/dosia",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-1146",
+    "hltvId": 1146,
+    "nickname": "dennis",
+    "profileUrl": "https://www.hltv.org/player/1146/dennis",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7131",
+    "hltvId": 7131,
+    "nickname": "BnTeT",
+    "profileUrl": "https://www.hltv.org/player/7131/bntet",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-8552",
+    "hltvId": 8552,
+    "nickname": "Attacker",
+    "profileUrl": "https://www.hltv.org/player/8552/attacker",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-7026",
+    "hltvId": 7026,
+    "nickname": "DD",
+    "profileUrl": "https://www.hltv.org/player/7026/dd",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-8605",
+    "hltvId": 8605,
+    "nickname": "somebody",
+    "profileUrl": "https://www.hltv.org/player/8605/somebody",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-5187",
+    "hltvId": 5187,
+    "nickname": "captainMo",
+    "profileUrl": "https://www.hltv.org/player/5187/captainmo",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-8600",
+    "hltvId": 8600,
+    "nickname": "advent",
+    "profileUrl": "https://www.hltv.org/player/8600/advent",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-8601",
+    "hltvId": 8601,
+    "nickname": "zhokiNg",
+    "profileUrl": "https://www.hltv.org/player/8601/zhoking",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  },
+  {
+    "id": "hltv-8604",
+    "hltvId": 8604,
+    "nickname": "aumaN",
+    "profileUrl": "https://www.hltv.org/player/8604/auman",
+    "collection": "legacy",
+    "birthDate": null,
+    "teamId": null,
+    "realName": "",
+    "country": "",
+    "countryCode": "",
+    "sources": []
+  }
+]

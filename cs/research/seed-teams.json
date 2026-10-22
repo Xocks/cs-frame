@@ -1,0 +1,1507 @@
+[
+  {
+    "rank": 1,
+    "name": "Spirit",
+    "points": 922,
+    "url": "https://www.hltv.org/team/7020/spirit",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/16920/sh1ro",
+        "nick": "sh1ro",
+        "name": "Dmitry 'sh1ro' Sokolov",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/18317/magixx",
+        "nick": "magixx",
+        "name": "Boris 'magixx' Vorobiev",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/19808/tn1r",
+        "nick": "tN1R",
+        "name": "Andrey 'tN1R' Tatarinovich",
+        "country": "Belarus",
+        "countryCode": "BY"
+      },
+      {
+        "url": "https://www.hltv.org/player/20423/zont1x",
+        "nick": "zont1x",
+        "name": "Myroslav 'zont1x' Plakhotia",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      },
+      {
+        "url": "https://www.hltv.org/player/21167/donk",
+        "nick": "donk",
+        "name": "Danil 'donk' Kryshkovets",
+        "country": "Russia",
+        "countryCode": "RU"
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "name": "Vitality",
+    "points": 890,
+    "url": "https://www.hltv.org/team/9565/vitality",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/7322/apex",
+        "nick": "apEX",
+        "name": "Dan 'apEX' Madesclaire",
+        "country": "France",
+        "countryCode": "FR"
+      },
+      {
+        "url": "https://www.hltv.org/player/11816/ropz",
+        "nick": "ropz",
+        "name": "Robin 'ropz' Kool",
+        "country": "Estonia",
+        "countryCode": "EE"
+      },
+      {
+        "url": "https://www.hltv.org/player/11893/zywoo",
+        "nick": "ZywOo",
+        "name": "Mathieu 'ZywOo' Herbaut",
+        "country": "France",
+        "countryCode": "FR"
+      },
+      {
+        "url": "https://www.hltv.org/player/16693/flamez",
+        "nick": "flameZ",
+        "name": "Shahar 'flameZ' Shushan",
+        "country": "Israel",
+        "countryCode": "IL"
+      },
+      {
+        "url": "https://www.hltv.org/player/18462/mezii",
+        "nick": "mezii",
+        "name": "William 'mezii' Merriman",
+        "country": "United Kingdom",
+        "countryCode": "GB"
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "name": "FURIA",
+    "points": 702,
+    "url": "https://www.hltv.org/team/8297/furia",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/2023/fallen",
+        "nick": "FalleN",
+        "name": "Gabriel 'FalleN' Toledo",
+        "country": "Brazil",
+        "countryCode": "BR"
+      },
+      {
+        "url": "https://www.hltv.org/player/12553/yuurih",
+        "nick": "yuurih",
+        "name": "Yuri 'yuurih' Santos",
+        "country": "Brazil",
+        "countryCode": "BR"
+      },
+      {
+        "url": "https://www.hltv.org/player/13915/yekindar",
+        "nick": "YEKINDAR",
+        "name": "Mareks 'YEKINDAR' Gaļinskis",
+        "country": "Latvia",
+        "countryCode": "LV"
+      },
+      {
+        "url": "https://www.hltv.org/player/15631/kscerato",
+        "nick": "KSCERATO",
+        "name": "Kaike 'KSCERATO' Cerato",
+        "country": "Brazil",
+        "countryCode": "BR"
+      },
+      {
+        "url": "https://www.hltv.org/player/24144/molodoy",
+        "nick": "molodoy",
+        "name": "Danil 'molodoy' Golubenko",
+        "country": "Kazakhstan",
+        "countryCode": "KZ"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "name": "MOUZ",
+    "points": 694,
+    "url": "https://www.hltv.org/team/4494/mouz",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/18072/torzsi",
+        "nick": "torzsi",
+        "name": "Ádám 'torzsi' Torzsás",
+        "country": "Hungary",
+        "countryCode": "HU"
+      },
+      {
+        "url": "https://www.hltv.org/player/18221/spinx",
+        "nick": "Spinx",
+        "name": "Lotan 'Spinx' Giladi",
+        "country": "Israel",
+        "countryCode": "IL"
+      },
+      {
+        "url": "https://www.hltv.org/player/20312/xertion",
+        "nick": "xertioN",
+        "name": "Dorian 'xertioN' Berman",
+        "country": "Israel",
+        "countryCode": "IL"
+      },
+      {
+        "url": "https://www.hltv.org/player/22279/pr",
+        "nick": "PR",
+        "name": "Oldřich 'PR' Nový",
+        "country": "Czech Republic",
+        "countryCode": "CZ"
+      },
+      {
+        "url": "https://www.hltv.org/player/24457/xelex",
+        "nick": "xelex",
+        "name": "Adrian 'xelex' Vincze",
+        "country": "Hungary",
+        "countryCode": "HU"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "name": "Aurora",
+    "points": 542,
+    "url": "https://www.hltv.org/team/11861/aurora",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/7938/xantares",
+        "nick": "XANTARES",
+        "name": "Ismailcan 'XANTARES' Dörtkardeş",
+        "country": "Türkiye",
+        "countryCode": "TR"
+      },
+      {
+        "url": "https://www.hltv.org/player/8574/woxic",
+        "nick": "woxic",
+        "name": "Özgür 'woxic' Eker",
+        "country": "Türkiye",
+        "countryCode": "TR"
+      },
+      {
+        "url": "https://www.hltv.org/player/18850/jimpphat",
+        "nick": "Jimpphat",
+        "name": "Jimi 'Jimpphat' Salo",
+        "country": "Finland",
+        "countryCode": "FI"
+      },
+      {
+        "url": "https://www.hltv.org/player/19677/kyxsan",
+        "nick": "kyxsan",
+        "name": "Damjan 'kyxsan' Stoilkovski",
+        "country": "North Macedonia",
+        "countryCode": "MK"
+      },
+      {
+        "url": "https://www.hltv.org/player/21243/wicadia",
+        "nick": "Wicadia",
+        "name": "Ali 'Wicadia' Haydar Yalçın",
+        "country": "Türkiye",
+        "countryCode": "TR"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "name": "Falcons",
+    "points": 529,
+    "url": "https://www.hltv.org/team/11283/falcons",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/429/karrigan",
+        "nick": "karrigan",
+        "name": "Finn 'karrigan' Andersen",
+        "country": "Denmark",
+        "countryCode": "DK"
+      },
+      {
+        "url": "https://www.hltv.org/player/3741/niko",
+        "nick": "NiKo",
+        "name": "Nikola 'NiKo' Kovač",
+        "country": "Bosnia and Herzegovina",
+        "countryCode": "BA"
+      },
+      {
+        "url": "https://www.hltv.org/player/12018/teses",
+        "nick": "TeSeS",
+        "name": "René 'TeSeS' Madsen",
+        "country": "Denmark",
+        "countryCode": "DK"
+      },
+      {
+        "url": "https://www.hltv.org/player/19230/m0nesy",
+        "nick": "m0NESY",
+        "name": "Ilya 'm0NESY' Osipov",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/24177/kyousuke",
+        "nick": "kyousuke",
+        "name": "Maksim 'kyousuke' Lukin",
+        "country": "Russia",
+        "countryCode": "RU"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "name": "Legacy",
+    "points": 341,
+    "url": "https://www.hltv.org/team/12468/legacy",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/12521/art",
+        "nick": "arT",
+        "name": "Andrei 'arT' Piovezan",
+        "country": "Brazil",
+        "countryCode": "BR"
+      },
+      {
+        "url": "https://www.hltv.org/player/15698/dumau",
+        "nick": "dumau",
+        "name": "Eduardo 'dumau' Wolkmer",
+        "country": "Brazil",
+        "countryCode": "BR"
+      },
+      {
+        "url": "https://www.hltv.org/player/19045/latto",
+        "nick": "latto",
+        "name": "Bruno 'latto' Rebelatto",
+        "country": "Brazil",
+        "countryCode": "BR"
+      },
+      {
+        "url": "https://www.hltv.org/player/19686/n1ssim",
+        "nick": "n1ssim",
+        "name": "Vinicius 'n1ssim' Pereira",
+        "country": "Brazil",
+        "countryCode": "BR"
+      },
+      {
+        "url": "https://www.hltv.org/player/19869/try",
+        "nick": "try",
+        "name": "Santino 'try' Rigal",
+        "country": "Argentina",
+        "countryCode": "AR"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "name": "G2",
+    "points": 332,
+    "url": "https://www.hltv.org/team/5995/g2",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/3972/hunter",
+        "nick": "huNter-",
+        "name": "Nemanja 'huNter-' Kovač",
+        "country": "Bosnia and Herzegovina",
+        "countryCode": "BA"
+      },
+      {
+        "url": "https://www.hltv.org/player/9436/nertz",
+        "nick": "NertZ",
+        "name": "Guy 'NertZ' Iluz",
+        "country": "Israel",
+        "countryCode": "IL"
+      },
+      {
+        "url": "https://www.hltv.org/player/20425/r1nkle",
+        "nick": "r1nkle",
+        "name": "Artem 'r1nkle' Moroz",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      },
+      {
+        "url": "https://www.hltv.org/player/20447/heavygod",
+        "nick": "HeavyGod",
+        "name": "Nikita 'HeavyGod' Martynenko",
+        "country": "Israel",
+        "countryCode": "IL"
+      },
+      {
+        "url": "https://www.hltv.org/player/21062/matys",
+        "nick": "MATYS",
+        "name": "Matúš 'MATYS' Šimko",
+        "country": "Slovakia",
+        "countryCode": "SK"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "name": "BETBOOM",
+    "points": 284,
+    "url": "https://www.hltv.org/team/12394/betboom",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/11840/boombl4",
+        "nick": "Boombl4",
+        "name": "Kirill 'Boombl4' Mikhailov",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/15662/zorte",
+        "nick": "zorte",
+        "name": "Aleksandr 'zorte' Zagodyrenko",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/18506/s1ren",
+        "nick": "S1ren",
+        "name": "Pavel 'S1ren' Ogloblin",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/20357/d1ledez",
+        "nick": "d1Ledez",
+        "name": "Daniil 'd1Ledez' Kustov",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/21667/magnojez",
+        "nick": "Magnojez",
+        "name": "Kirill 'Magnojez' Rodnov",
+        "country": "Russia",
+        "countryCode": "RU"
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "name": "FUT",
+    "points": 284,
+    "url": "https://www.hltv.org/team/13286/fut",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/19164/sunpayus",
+        "nick": "SunPayus",
+        "name": "Álvaro 'SunPayus' García",
+        "country": "Spain",
+        "countryCode": "ES"
+      },
+      {
+        "url": "https://www.hltv.org/player/19187/xfl0ud",
+        "nick": "xfl0ud",
+        "name": "Yasin 'xfl0ud' Koç",
+        "country": "Türkiye",
+        "countryCode": "TR"
+      },
+      {
+        "url": "https://www.hltv.org/player/20584/dem0n",
+        "nick": "dem0n",
+        "name": "Dmytro 'dem0n' Myroshnychenko",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      },
+      {
+        "url": "https://www.hltv.org/player/22203/krabeni",
+        "nick": "Krabeni",
+        "name": "Aulon 'Krabeni' Fazlija",
+        "country": "Kosovo",
+        "countryCode": "XK"
+      },
+      {
+        "url": "https://www.hltv.org/player/23553/dziugss",
+        "nick": "dziugss",
+        "name": "Džiugas 'dziugss' Steponavičius",
+        "country": "Lithuania",
+        "countryCode": "LT"
+      }
+    ]
+  },
+  {
+    "rank": 11,
+    "name": "Natus Vincere",
+    "points": 215,
+    "url": "https://www.hltv.org/team/4608/natus-vincere",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/9816/aleksib",
+        "nick": "Aleksib",
+        "name": "Aleksi 'Aleksib' Virolainen",
+        "country": "Finland",
+        "countryCode": "FI"
+      },
+      {
+        "url": "https://www.hltv.org/player/14759/im",
+        "nick": "iM",
+        "name": "Mihai 'iM' Ivan",
+        "country": "Romania",
+        "countryCode": "RO"
+      },
+      {
+        "url": "https://www.hltv.org/player/18987/b1t",
+        "nick": "b1t",
+        "name": "Valeriy 'b1t' Vakhovskiy",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      },
+      {
+        "url": "https://www.hltv.org/player/20127/w0nderful",
+        "nick": "w0nderful",
+        "name": "Ihor 'w0nderful' Zhdanov",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      },
+      {
+        "url": "https://www.hltv.org/player/22673/makazze",
+        "nick": "makazze",
+        "name": "Drin 'makazze' Shaqiri",
+        "country": "Kosovo",
+        "countryCode": "XK"
+      }
+    ]
+  },
+  {
+    "rank": 12,
+    "name": "MIBR",
+    "points": 176,
+    "url": "https://www.hltv.org/team/9215/mibr",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/19310/lnz",
+        "nick": "LNZ",
+        "name": "Linus 'LNZ' Holtäng",
+        "country": "Sweden",
+        "countryCode": "SE"
+      },
+      {
+        "url": "https://www.hltv.org/player/19694/nqz",
+        "nick": "nqz",
+        "name": "Lucas 'nqz' Soares",
+        "country": "Brazil",
+        "countryCode": "BR"
+      },
+      {
+        "url": "https://www.hltv.org/player/21037/insani",
+        "nick": "insani",
+        "name": "Felipe 'insani' Yuji",
+        "country": "Brazil",
+        "countryCode": "BR"
+      },
+      {
+        "url": "https://www.hltv.org/player/21288/venomzera",
+        "nick": "venomzera",
+        "name": "Carlos 'venomzera' Eduardo",
+        "country": "Brazil",
+        "countryCode": "BR"
+      },
+      {
+        "url": "https://www.hltv.org/player/22570/tomaszin",
+        "nick": "tomaszin",
+        "name": "Tomas 'tomaszin' Corna",
+        "country": "Argentina",
+        "countryCode": "AR"
+      }
+    ]
+  },
+  {
+    "rank": 13,
+    "name": "PARIVISION",
+    "points": 168,
+    "url": "https://www.hltv.org/team/12467/parivision",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/8528/hobbit",
+        "nick": "HObbit",
+        "name": "Abay 'HObbit' Khassenov",
+        "country": "Kazakhstan",
+        "countryCode": "KZ"
+      },
+      {
+        "url": "https://www.hltv.org/player/12732/fl1t",
+        "nick": "FL1T",
+        "name": "Evgenii 'FL1T' Lebedev",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/13776/jame",
+        "nick": "Jame",
+        "name": "Dzhami 'Jame' Ali",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/22471/xielo",
+        "nick": "xiELO",
+        "name": "Vladislav 'xiELO' Lysov",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/23685/zweih",
+        "nick": "zweih",
+        "name": "Ivan 'zweih' Gogin",
+        "country": "Russia",
+        "countryCode": "RU"
+      }
+    ]
+  },
+  {
+    "rank": 14,
+    "name": "1win",
+    "points": 158,
+    "url": "https://www.hltv.org/team/10621/1win",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/16555/ax1le",
+        "nick": "Ax1Le",
+        "name": "Sergey 'Ax1Le' Rykhtorov",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/16921/nafany",
+        "nick": "nafany",
+        "name": "Vladislav 'nafany' Gorshkov",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/19235/belchonokk",
+        "nick": "BELCHONOKK",
+        "name": "Andrey 'BELCHONOKK' Yasinskiy",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/20101/fame",
+        "nick": "fame",
+        "name": "Petr 'fame' Bolyshev",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/21348/artfr0st",
+        "nick": "ArtFr0st",
+        "name": "Artem 'ArtFr0st' Kharitonov",
+        "country": "Russia",
+        "countryCode": "RU"
+      }
+    ]
+  },
+  {
+    "rank": 15,
+    "name": "9z",
+    "points": 155,
+    "url": "https://www.hltv.org/team/9996/9z",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/12092/max",
+        "nick": "max",
+        "name": "Maximiliano 'max' Gonzalez",
+        "country": "Uruguay",
+        "countryCode": "UY"
+      },
+      {
+        "url": "https://www.hltv.org/player/14736/dgt",
+        "nick": "dgt",
+        "name": "Franco 'dgt' Garcia",
+        "country": "Uruguay",
+        "countryCode": "UY"
+      },
+      {
+        "url": "https://www.hltv.org/player/14737/meyern",
+        "nick": "meyern",
+        "name": "Ignacio 'meyern' Meyer",
+        "country": "Argentina",
+        "countryCode": "AR"
+      },
+      {
+        "url": "https://www.hltv.org/player/20394/luchov",
+        "nick": "luchov",
+        "name": "Luciano 'luchov' Herrera",
+        "country": "Argentina",
+        "countryCode": "AR"
+      },
+      {
+        "url": "https://www.hltv.org/player/22613/huasopeek",
+        "nick": "HUASOPEEK",
+        "name": "Matias 'HUASOPEEK' Ibañez Hernandez",
+        "country": "Chile",
+        "countryCode": "CL"
+      }
+    ]
+  },
+  {
+    "rank": 16,
+    "name": "Astralis",
+    "points": 135,
+    "url": "https://www.hltv.org/team/6665/astralis",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/16726/phzy",
+        "nick": "phzy",
+        "name": "Love 'phzy' Smidebrant",
+        "country": "Sweden",
+        "countryCode": "SE"
+      },
+      {
+        "url": "https://www.hltv.org/player/16820/siuhy",
+        "nick": "siuhy",
+        "name": "Kamil 'siuhy' Szkaradek",
+        "country": "Poland",
+        "countryCode": "PL"
+      },
+      {
+        "url": "https://www.hltv.org/player/20304/staehr",
+        "nick": "Staehr",
+        "name": "Victor 'Staehr' Staehr",
+        "country": "Denmark",
+        "countryCode": "DK"
+      },
+      {
+        "url": "https://www.hltv.org/player/21217/ryu",
+        "nick": "ryu",
+        "name": "Gytis 'ryu' Glušauskas",
+        "country": "Lithuania",
+        "countryCode": "LT"
+      },
+      {
+        "url": "https://www.hltv.org/player/22674/cmtry",
+        "nick": "cmtry",
+        "name": "Nikita 'cmtry' Samolotov",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      }
+    ]
+  },
+  {
+    "rank": 17,
+    "name": "FaZe",
+    "points": 127,
+    "url": "https://www.hltv.org/team/6667/faze",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/9960/frozen",
+        "nick": "frozen",
+        "name": "David 'frozen' Čerňanský",
+        "country": "Slovakia",
+        "countryCode": "SK"
+      },
+      {
+        "url": "https://www.hltv.org/player/10394/twistzz",
+        "nick": "Twistzz",
+        "name": "Russel 'Twistzz' Van Dulken",
+        "country": "Canada",
+        "countryCode": "CA"
+      },
+      {
+        "url": "https://www.hltv.org/player/21972/neityu",
+        "nick": "Neityu",
+        "name": "Ryan 'Neityu' Aubry",
+        "country": "France",
+        "countryCode": "FR"
+      },
+      {
+        "url": "https://www.hltv.org/player/22383/jcobbb",
+        "nick": "jcobbb",
+        "name": "Jakub 'jcobbb' Pietruszewski",
+        "country": "Poland",
+        "countryCode": "PL"
+      },
+      {
+        "url": "https://www.hltv.org/player/22866/jboen",
+        "nick": "JBOEN",
+        "name": "Jason 'JBOEN' Boe Nielsen",
+        "country": "Denmark",
+        "countryCode": "DK"
+      }
+    ]
+  },
+  {
+    "rank": 18,
+    "name": "M80",
+    "points": 109,
+    "url": "https://www.hltv.org/team/12376/m80",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/15370/slaxz",
+        "nick": "slaxz-",
+        "name": "Fritz 'slaxz-' Dietrich",
+        "country": "Germany",
+        "countryCode": "DE"
+      },
+      {
+        "url": "https://www.hltv.org/player/16599/swisher",
+        "nick": "Swisher",
+        "name": "Michael 'Swisher' Schmid",
+        "country": "United States",
+        "countryCode": "US"
+      },
+      {
+        "url": "https://www.hltv.org/player/20104/s1n",
+        "nick": "s1n",
+        "name": "Elias 's1n' Stein",
+        "country": "Germany",
+        "countryCode": "DE"
+      },
+      {
+        "url": "https://www.hltv.org/player/21665/jba",
+        "nick": "JBa",
+        "name": "Josh 'JBa' Barutt",
+        "country": "United States",
+        "countryCode": "US"
+      },
+      {
+        "url": "https://www.hltv.org/player/22921/lake",
+        "nick": "Lake",
+        "name": "Mason 'Lake' Sanderson",
+        "country": "United States",
+        "countryCode": "US"
+      }
+    ]
+  },
+  {
+    "rank": 19,
+    "name": "Ninjas in Pyjamas",
+    "points": 103,
+    "url": "https://www.hltv.org/team/4411/ninjas-in-pyjamas",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/10994/stavn",
+        "nick": "stavn",
+        "name": "Martin 'stavn' Lund",
+        "country": "Denmark",
+        "countryCode": "DK"
+      },
+      {
+        "url": "https://www.hltv.org/player/14148/sjuush",
+        "nick": "sjuush",
+        "name": "Rasmus 'sjuush' Beck",
+        "country": "Denmark",
+        "countryCode": "DK"
+      },
+      {
+        "url": "https://www.hltv.org/player/19899/krimbo",
+        "nick": "Krimbo",
+        "name": "Karim 'Krimbo' Moussa",
+        "country": "Germany",
+        "countryCode": "DE"
+      },
+      {
+        "url": "https://www.hltv.org/player/20878/adamb",
+        "nick": "adamb",
+        "name": "Adam 'adamb' Ångström",
+        "country": "Sweden",
+        "countryCode": "SE"
+      },
+      {
+        "url": "https://www.hltv.org/player/23372/xkacpersky",
+        "nick": "xKacpersky",
+        "name": "Kacper 'xKacpersky' Gabara",
+        "country": "Poland",
+        "countryCode": "PL"
+      }
+    ]
+  },
+  {
+    "rank": 20,
+    "name": "The MongolZ",
+    "points": 102,
+    "url": "https://www.hltv.org/team/6248/the-mongolz",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/15072/nin9",
+        "nick": "nin9",
+        "name": "Yesuntumur 'nin9' Gantulga",
+        "country": "Mongolia",
+        "countryCode": "MN"
+      },
+      {
+        "url": "https://www.hltv.org/player/20194/blitz",
+        "nick": "bLitz",
+        "name": "Garidmagnai 'bLitz' Byambasuren",
+        "country": "Mongolia",
+        "countryCode": "MN"
+      },
+      {
+        "url": "https://www.hltv.org/player/20275/techno",
+        "nick": "Techno",
+        "name": "Sodbayar 'Techno' Munkhbold",
+        "country": "Mongolia",
+        "countryCode": "MN"
+      },
+      {
+        "url": "https://www.hltv.org/player/21809/910",
+        "nick": "910",
+        "name": "Usukhbayar '910' Banzragch",
+        "country": "Mongolia",
+        "countryCode": "MN"
+      },
+      {
+        "url": "https://www.hltv.org/player/23402/cobrazera",
+        "nick": "cobrazera",
+        "name": "Anarbileg 'cobrazera' Uuganbayar",
+        "country": "Mongolia",
+        "countryCode": "MN"
+      }
+    ]
+  },
+  {
+    "rank": 21,
+    "name": "B8",
+    "points": 98,
+    "url": "https://www.hltv.org/team/11241/b8",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/20112/alex666",
+        "nick": "alex666",
+        "name": "Alexey 'alex666' Yarmoshchuk",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      },
+      {
+        "url": "https://www.hltv.org/player/21708/npl",
+        "nick": "npl",
+        "name": "Andrii 'npl' Kukharskyi",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      },
+      {
+        "url": "https://www.hltv.org/player/22842/kensizor",
+        "nick": "kensizor",
+        "name": "Artem 'kensizor' Kapran",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      },
+      {
+        "url": "https://www.hltv.org/player/23643/esenthial",
+        "nick": "esenthial",
+        "name": "Dmytro 'esenthial' Tsvir",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      },
+      {
+        "url": "https://www.hltv.org/player/25619/s1zzi",
+        "nick": "s1zzi",
+        "name": "Danylo 's1zzi' Vinnyk",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      }
+    ]
+  },
+  {
+    "rank": 22,
+    "name": "Envy",
+    "points": 94,
+    "url": "https://www.hltv.org/team/5991/envy",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/13138/maka",
+        "nick": "Maka",
+        "name": "Bryan 'Maka' Canda",
+        "country": "France",
+        "countryCode": "FR"
+      },
+      {
+        "url": "https://www.hltv.org/player/13497/lucky",
+        "nick": "Lucky",
+        "name": "Lucas 'Lucky' Chastang",
+        "country": "France",
+        "countryCode": "FR"
+      },
+      {
+        "url": "https://www.hltv.org/player/14176/misutaaa",
+        "nick": "misutaaa",
+        "name": "Kévin 'misutaaa' Rabier",
+        "country": "France",
+        "countryCode": "FR"
+      },
+      {
+        "url": "https://www.hltv.org/player/20482/kursy",
+        "nick": "Kursy",
+        "name": "Jeremy 'Kursy' Gast",
+        "country": "France",
+        "countryCode": "FR"
+      },
+      {
+        "url": "https://www.hltv.org/player/21969/graviti",
+        "nick": "Graviti",
+        "name": "Filip 'Graviti' Brankovic",
+        "country": "France",
+        "countryCode": "FR"
+      }
+    ]
+  },
+  {
+    "rank": 23,
+    "name": "GamerLegion",
+    "points": 87,
+    "url": "https://www.hltv.org/team/9928/gamerlegion",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/2553/snax",
+        "nick": "Snax",
+        "name": "Janusz 'Snax' Pogorzelski",
+        "country": "Poland",
+        "countryCode": "PL"
+      },
+      {
+        "url": "https://www.hltv.org/player/9278/rez",
+        "nick": "REZ",
+        "name": "Fredrik 'REZ' Sterner",
+        "country": "Sweden",
+        "countryCode": "SE"
+      },
+      {
+        "url": "https://www.hltv.org/player/20301/tauson",
+        "nick": "Tauson",
+        "name": "Sebastian 'Tauson' Tauson Lindelof",
+        "country": "Denmark",
+        "countryCode": "DK"
+      },
+      {
+        "url": "https://www.hltv.org/player/20994/fl4mus",
+        "nick": "FL4MUS",
+        "name": "Timur 'FL4MUS' Marev",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/23766/hypex",
+        "nick": "hypex",
+        "name": "Milan 'hypex' Polowiec",
+        "country": "Poland",
+        "countryCode": "PL"
+      }
+    ]
+  },
+  {
+    "rank": 25,
+    "name": "HEROIC",
+    "points": 83,
+    "url": "https://www.hltv.org/team/7175/heroic",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/13666/brollan",
+        "nick": "Brollan",
+        "name": "Ludvig 'Brollan' Brolin",
+        "country": "Sweden",
+        "countryCode": "SE"
+      },
+      {
+        "url": "https://www.hltv.org/player/20119/nilo",
+        "nick": "nilo",
+        "name": "Linus 'nilo' Bergman",
+        "country": "Sweden",
+        "countryCode": "SE"
+      },
+      {
+        "url": "https://www.hltv.org/player/21163/susp",
+        "nick": "susp",
+        "name": "Tim 'susp' Ångström",
+        "country": "Sweden",
+        "countryCode": "SE"
+      },
+      {
+        "url": "https://www.hltv.org/player/21239/martinezsa",
+        "nick": "MartinezSa",
+        "name": "Antonio 'MartinezSa' Martinez",
+        "country": "Spain",
+        "countryCode": "ES"
+      },
+      {
+        "url": "https://www.hltv.org/player/21983/chr1zn",
+        "nick": "Chr1zN",
+        "name": "Christoffer 'Chr1zN' Storgaard",
+        "country": "Denmark",
+        "countryCode": "DK"
+      }
+    ]
+  },
+  {
+    "rank": 27,
+    "name": "Liquid",
+    "points": 77,
+    "url": "https://www.hltv.org/team/5973/liquid",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/8520/naf",
+        "nick": "NAF",
+        "name": "Keith 'NAF' Markovic",
+        "country": "Canada",
+        "countryCode": "CA"
+      },
+      {
+        "url": "https://www.hltv.org/player/8738/elige",
+        "nick": "EliGE",
+        "name": "Jonathan 'EliGE' Jablonowski",
+        "country": "United States",
+        "countryCode": "US"
+      },
+      {
+        "url": "https://www.hltv.org/player/11617/malbsmd",
+        "nick": "malbsMd",
+        "name": "Mario 'malbsMd' Samayoa",
+        "country": "Guatemala",
+        "countryCode": "GT"
+      },
+      {
+        "url": "https://www.hltv.org/player/11630/jt",
+        "nick": "JT",
+        "name": "Johnny 'JT' Theodosiou",
+        "country": "South Africa",
+        "countryCode": "ZA"
+      },
+      {
+        "url": "https://www.hltv.org/player/24203/jorko",
+        "nick": "Jorko",
+        "name": "Georgi 'Jorko' Mitev",
+        "country": "Bulgaria",
+        "countryCode": "BG"
+      }
+    ]
+  },
+  {
+    "rank": 33,
+    "name": "100 Thieves",
+    "points": 55,
+    "url": "https://www.hltv.org/team/8474/100-thieves",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/7592/device",
+        "nick": "device",
+        "name": "Nicolai 'device' Reedtz",
+        "country": "Denmark",
+        "countryCode": "DK"
+      },
+      {
+        "url": "https://www.hltv.org/player/8183/rain",
+        "nick": "rain",
+        "name": "Håvard 'rain' Nygaard",
+        "country": "Norway",
+        "countryCode": "NO"
+      },
+      {
+        "url": "https://www.hltv.org/player/21816/gizmy",
+        "nick": "Gizmy",
+        "name": "Jack 'Gizmy' von Spreckelsen",
+        "country": "United Kingdom",
+        "countryCode": "GB"
+      },
+      {
+        "url": "https://www.hltv.org/player/22695/sirah",
+        "nick": "sirah",
+        "name": "William 'sirah' Kjærsgaard",
+        "country": "Denmark",
+        "countryCode": "DK"
+      },
+      {
+        "url": "https://www.hltv.org/player/23397/poiii",
+        "nick": "poiii",
+        "name": "Alex 'poiii' Nyholm Sundgren",
+        "country": "Sweden",
+        "countryCode": "SE"
+      }
+    ]
+  },
+  {
+    "rank": 35,
+    "name": "TYLOO",
+    "points": 50,
+    "url": "https://www.hltv.org/team/4863/tyloo",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/19645/jamyoung",
+        "nick": "JamYoung",
+        "name": "Yi 'JamYoung' Yang",
+        "country": "China",
+        "countryCode": "CN"
+      },
+      {
+        "url": "https://www.hltv.org/player/20702/jee",
+        "nick": "Jee",
+        "name": "Dongkai 'Jee' Ji",
+        "country": "China",
+        "countryCode": "CN"
+      },
+      {
+        "url": "https://www.hltv.org/player/20895/mercury",
+        "nick": "Mercury",
+        "name": "Jingxiang 'Mercury' Wang",
+        "country": "China",
+        "countryCode": "CN"
+      },
+      {
+        "url": "https://www.hltv.org/player/21621/moseyuh",
+        "nick": "Moseyuh",
+        "name": "Qianhao 'Moseyuh' Chen",
+        "country": "China",
+        "countryCode": "CN"
+      },
+      {
+        "url": "https://www.hltv.org/player/24857/zero",
+        "nick": "Zero",
+        "name": "Su 'Zero' Jingshen",
+        "country": "China",
+        "countryCode": "CN"
+      }
+    ]
+  },
+  {
+    "rank": 39,
+    "name": "Lynn Vision",
+    "points": 41,
+    "url": "https://www.hltv.org/team/8840/lynn-vision",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/16551/westmelon",
+        "nick": "Westmelon",
+        "name": "Zhe 'Westmelon' Niu",
+        "country": "China",
+        "countryCode": "CN"
+      },
+      {
+        "url": "https://www.hltv.org/player/18744/z4kr",
+        "nick": "z4KR",
+        "name": "Sike 'z4KR' Zhang",
+        "country": "China",
+        "countryCode": "CN"
+      },
+      {
+        "url": "https://www.hltv.org/player/20254/starry",
+        "nick": "Starry",
+        "name": "Lizhi 'Starry' Ye",
+        "country": "China",
+        "countryCode": "CN"
+      },
+      {
+        "url": "https://www.hltv.org/player/22922/emiliaqaq",
+        "nick": "EmiliaQAQ",
+        "name": "Junjie 'EmiliaQAQ' Tang",
+        "country": "China",
+        "countryCode": "CN"
+      },
+      {
+        "url": "https://www.hltv.org/player/23100/c4llm3su3",
+        "nick": "C4LLM3SU3",
+        "name": "Qihao 'C4LLM3SU3' Su",
+        "country": "China",
+        "countryCode": "CN"
+      }
+    ]
+  },
+  {
+    "rank": 43,
+    "name": "Eternal Fire",
+    "points": 38,
+    "url": "https://www.hltv.org/team/11251/eternal-fire",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/16811/mistem",
+        "nick": "MisteM",
+        "name": "Gareth 'MisteM' Ries",
+        "country": "South Africa",
+        "countryCode": "ZA"
+      },
+      {
+        "url": "https://www.hltv.org/player/20123/regali",
+        "nick": "regali",
+        "name": "Iulian 'regali' Harjău",
+        "country": "Romania",
+        "countryCode": "RO"
+      },
+      {
+        "url": "https://www.hltv.org/player/20968/soulfly",
+        "nick": "soulfly",
+        "name": "Caner 'soulfly' Kesici",
+        "country": "Türkiye",
+        "countryCode": "TR"
+      },
+      {
+        "url": "https://www.hltv.org/player/21452/kvem",
+        "nick": "Kvem",
+        "name": "Vladyslav 'Kvem' Korol",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      },
+      {
+        "url": "https://www.hltv.org/player/22361/jottaaa",
+        "nick": "jottAAA",
+        "name": "Samet 'jottAAA' Köklü",
+        "country": "Türkiye",
+        "countryCode": "TR"
+      }
+    ]
+  },
+  {
+    "rank": 51,
+    "name": "BC.Game",
+    "points": 23,
+    "url": "https://www.hltv.org/team/12878/bcgame",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/7998/s1mple",
+        "nick": "s1mple",
+        "name": "Oleksandr 's1mple' Kostyliev",
+        "country": "Ukraine",
+        "countryCode": "UA"
+      },
+      {
+        "url": "https://www.hltv.org/player/9032/magisk",
+        "nick": "Magisk",
+        "name": "Emil 'Magisk' Reif",
+        "country": "Denmark",
+        "countryCode": "DK"
+      },
+      {
+        "url": "https://www.hltv.org/player/18545/asap",
+        "nick": "asap",
+        "name": "Tyson 'asap' Paterson",
+        "country": "Australia",
+        "countryCode": "AU"
+      },
+      {
+        "url": "https://www.hltv.org/player/20903/senzu",
+        "nick": "Senzu",
+        "name": "Azbayar 'Senzu' Munkhbold",
+        "country": "Mongolia",
+        "countryCode": "MN"
+      },
+      {
+        "url": "https://www.hltv.org/player/21001/mzinho",
+        "nick": "mzinho",
+        "name": "Ayush 'mzinho' Batbold",
+        "country": "Mongolia",
+        "countryCode": "MN"
+      }
+    ]
+  },
+  {
+    "rank": 54,
+    "name": "EYEBALLERS",
+    "points": 21,
+    "url": "https://www.hltv.org/team/11737/eyeballers",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/3849/jw",
+        "nick": "JW",
+        "name": "Jesper 'JW' Wecksell",
+        "country": "Sweden",
+        "countryCode": "SE"
+      },
+      {
+        "url": "https://www.hltv.org/player/7528/krimz",
+        "nick": "KRIMZ",
+        "name": "Freddy 'KRIMZ' Johansson",
+        "country": "Sweden",
+        "countryCode": "SE"
+      },
+      {
+        "url": "https://www.hltv.org/player/20879/maxster",
+        "nick": "maxster",
+        "name": "Max 'maxster' Jansson",
+        "country": "Sweden",
+        "countryCode": "SE"
+      },
+      {
+        "url": "https://www.hltv.org/player/21012/ro1f",
+        "nick": "Ro1f",
+        "name": "Kalle 'Ro1f' Johansson",
+        "country": "Sweden",
+        "countryCode": "SE"
+      },
+      {
+        "url": "https://www.hltv.org/player/22914/dex",
+        "nick": "dex",
+        "name": "Sebastian 'dex' Samuelsson",
+        "country": "Sweden",
+        "countryCode": "SE"
+      }
+    ]
+  },
+  {
+    "rank": 56,
+    "name": "Virtus.pro",
+    "points": 19,
+    "url": "https://www.hltv.org/team/5378/virtuspro",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/8789/mir",
+        "nick": "mir",
+        "name": "Nikolay 'mir' Bityukov",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/23637/b1st",
+        "nick": "b1st",
+        "name": "Vladimir 'b1st' Krasikov",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/24292/f0r3ver",
+        "nick": "F0R3VER",
+        "name": "Dias 'F0R3VER' Kutubay",
+        "country": "Kazakhstan",
+        "countryCode": "KZ"
+      },
+      {
+        "url": "https://www.hltv.org/player/24950/aquars",
+        "nick": "AquaRS",
+        "name": "Aleksandr 'AquaRS' Kovalev",
+        "country": "Russia",
+        "countryCode": "RU"
+      },
+      {
+        "url": "https://www.hltv.org/player/24952/to0ro",
+        "nick": "tO0RO",
+        "name": "Vadim 'tO0RO' Arkov",
+        "country": "Russia",
+        "countryCode": "RU"
+      }
+    ]
+  },
+  {
+    "rank": 61,
+    "name": "FlyQuest",
+    "points": 16,
+    "url": "https://www.hltv.org/team/12774/flyquest",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/4679/jks",
+        "nick": "jks",
+        "name": "Justin 'jks' Savage",
+        "country": "Australia",
+        "countryCode": "AU"
+      },
+      {
+        "url": "https://www.hltv.org/player/11139/alistair",
+        "nick": "aliStair",
+        "name": "Alistair 'aliStair' Johnston",
+        "country": "Australia",
+        "countryCode": "AU"
+      },
+      {
+        "url": "https://www.hltv.org/player/11140/ins",
+        "nick": "INS",
+        "name": "Joshua 'INS' Potter",
+        "country": "Australia",
+        "countryCode": "AU"
+      },
+      {
+        "url": "https://www.hltv.org/player/17384/vexite",
+        "nick": "Vexite",
+        "name": "Declan 'Vexite' Portelli",
+        "country": "Australia",
+        "countryCode": "AU"
+      },
+      {
+        "url": "https://www.hltv.org/player/18214/nettik",
+        "nick": "nettik",
+        "name": "Corey 'nettik' Browne",
+        "country": "New Zealand",
+        "countryCode": "NZ"
+      }
+    ]
+  },
+  {
+    "rank": 71,
+    "name": "Without a Roof",
+    "points": 13,
+    "url": "https://www.hltv.org/team/6914/without-a-roof",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/8735/autimatic",
+        "nick": "autimatic",
+        "name": "Timothy 'autimatic' Ta",
+        "country": "United States",
+        "countryCode": "US"
+      },
+      {
+        "url": "https://www.hltv.org/player/8797/stewie2k",
+        "nick": "Stewie2K",
+        "name": "Jake 'Stewie2K' Yip",
+        "country": "United States",
+        "countryCode": "US"
+      },
+      {
+        "url": "https://www.hltv.org/player/9136/brehze",
+        "nick": "Brehze",
+        "name": "Vincent 'Brehze' Cayonte",
+        "country": "United States",
+        "countryCode": "US"
+      },
+      {
+        "url": "https://www.hltv.org/player/11219/cerq",
+        "nick": "CeRq",
+        "name": "Tsvetelin 'CeRq' Dimitrov",
+        "country": "Bulgaria",
+        "countryCode": "BG"
+      },
+      {
+        "url": "https://www.hltv.org/player/17372/fang",
+        "nick": "FaNg",
+        "name": "Justin 'FaNg' Coakley",
+        "country": "Canada",
+        "countryCode": "CA"
+      }
+    ]
+  },
+  {
+    "rank": 127,
+    "name": "Rare Atom",
+    "points": 6,
+    "url": "https://www.hltv.org/team/11514/rare-atom",
+    "players": [
+      {
+        "url": "https://www.hltv.org/player/7028/summer",
+        "nick": "Summer",
+        "name": "YuLun 'Summer' Cai",
+        "country": "China",
+        "countryCode": "CN"
+      },
+      {
+        "url": "https://www.hltv.org/player/8950/kaze",
+        "nick": "kaze",
+        "name": "Andrew 'kaze' Khong",
+        "country": "Malaysia",
+        "countryCode": "MY"
+      },
+      {
+        "url": "https://www.hltv.org/player/19681/childking",
+        "nick": "ChildKing",
+        "name": "Junhao 'ChildKing' Peng",
+        "country": "China",
+        "countryCode": "CN"
+      },
+      {
+        "url": "https://www.hltv.org/player/21825/l1hang",
+        "nick": "L1haNg",
+        "name": "Yihang 'L1haNg' Li",
+        "country": "China",
+        "countryCode": "CN"
+      },
+      {
+        "url": "https://www.hltv.org/player/24306/3gl",
+        "nick": "3gl",
+        "name": "Guoliang '3gl' Wang",
+        "country": "China",
+        "countryCode": "CN"
+      }
+    ]
+  }
+]

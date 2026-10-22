@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-10-22T00:58:32.434Z",
+  "version": "1.1.0-web",
+  "snapshotDate": "2026-10-19",
+  "players": 230,
+  "photos": 311,
+  "playersWithPhotos": 230,
+  "chinesePlayersWithPhotos": 21,
+  "hltvPhotos": 239,
+  "commonsPhotos": 72,
+  "playersWithMultipleKnownYears": 18,
+  "playersWithMultipleVerifiedAgePeriods": 7,
+  "photosWithExactCaptureDate": 54,
+  "browserTests": {
+    "passed": 7,
+    "failed": 0
+  },
+  "offlineDelivery": "paused",
+  "repository": "https://github.com/Xocks/cs-frame",
+  "targetSite": "https://xocks.github.io/cs-frame/",
+  "deploymentVerified": false
+}
