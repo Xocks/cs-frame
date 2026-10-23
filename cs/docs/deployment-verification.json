@@ -1,60 +1,53 @@
 {
   "site": "https://xocks.github.io/cs-portraits/",
-  "verifiedCommit": "b7883989417743d51023eccf59f14e8d238fba96",
-  "workflowRun": "39707363988",
-  "checkedAt": "2026-10-22T01:46:04.382Z",
-  "photos": 311,
-  "album": 147,
-  "groups": 32,
-  "assets": 916,
+  "verifiedCommit": "4971d19ffd4a6127a9b1a017fe37bfa65819160b",
+  "workflowRun": "39950914727",
+  "workflowStatus": "completed successfully",
+  "checkedAt": "2026-10-23T12:25:08.686Z",
+  "players": 230,
+  "photos": 355,
+  "album": 224,
+  "groups": 51,
+  "uniqueSourcePhotos": 454,
+  "assets": 1158,
   "failed": [],
   "desktop": {
-    "year": "2019  10 / 49",
-    "title": "Team Liquid · IEM Chicago 2019",
-    "imageWidth": 960
+    "title": "BLAST Premier World Final 2022 Day 3",
+    "imageWidth": 1600,
+    "year": "2022  2 / 2",
+    "arrowChanged": true
   },
   "mobile": {
     "viewport": 390,
     "documentWidth": 390,
-    "nav": [
-      {
-        "text": "选手图鉴",
-        "x": 16,
-        "right": 104.75
-      },
-      {
-        "text": "赛事相册",
-        "x": 105.75,
-        "right": 194.5
-      },
-      {
-        "text": "我的榜单",
-        "x": 195.5,
-        "right": 284.25
-      },
-      {
-        "text": "资料与备份",
-        "x": 285.25,
-        "right": 374
-      }
+    "imageWidth": 1600
+  },
+  "chinesePlayer": {
+    "nickname": "Moseyuh",
+    "years": [
+      "2023赛事年份已记录",
+      "2025赛事年份已记录",
+      "2026赛事年份已记录"
     ]
   },
   "liveWebsiteVerified": true,
-  "photoCatalogueSha256": "4fe40be64e50f38091364df76b29e26579b75680713c966b585d499070cfb12c",
-  "albumCatalogueSha256": "32aebff174ea2ff68a7a65366fd4f57b7a90d2cf5d86ee1ef16e8bf95c9bb4b4",
+  "photoCatalogueSha256": "eddfb72065a9884fb7c4ead78bc74e02cf83580912b865cb4aee04112a88be24",
+  "albumCatalogueSha256": "a39aa172c9b417fc853b3f0a1429b6a1f681ef387a959a9db0da192b202d7f20",
+  "playersCatalogueSha256": "ec2dbcddb52b2ee41012f260e724d57f6e8dacc51a4943da2fec35bb34ce0eed",
+  "catalogueMatchesLive": true,
   "localBrowserTests": {
-    "passed": 9,
+    "passed": 10,
     "failed": 0
   },
   "unitTests": {
     "passed": 7,
     "failed": 0
   },
-  "firstVisitCache": {
-    "shellFiles": 6,
-    "photos": "on demand",
-    "verifiedOfflineForViewedPhotos": true
-  },
-  "HLTVNewAcquisition": "blocked by source; expanded album from previously saved originals",
-  "domesticNetworkVerification": "No independent mainland carrier tests"
+  "HLTVNewAcquisition": "77 reviewed original photographs and 44 portrait crops published",
+  "domesticNetworkVerification": "No independent mainland carrier tests",
+  "liveResponseSha256": {
+    "photos": "a11830c53a80ed417f48119a30f92f29f1c6719b06558cd32835a7cefa5dce36",
+    "album": "5949461f7dd940d09de569bda16b18fc3a0f93005d8e4980df91539e0950b8a7",
+    "players": "4f1bba9763d67c1c2bb96afddc331a53eb4abe87002e316612a36d7d0ddfdfa2"
+  }
 }

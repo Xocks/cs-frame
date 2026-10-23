@@ -1,0 +1,21 @@
+{
+  "desktop": {
+    "title": "BLAST Premier World Final 2022 Day 3",
+    "imageWidth": 1600,
+    "year": "2022  2 / 2",
+    "arrowChanged": true
+  },
+  "mobile": {
+    "viewport": 390,
+    "documentWidth": 390,
+    "imageWidth": 1600
+  },
+  "chinesePlayer": {
+    "nickname": "Moseyuh",
+    "years": [
+      "2023赛事年份已记录",
+      "2025赛事年份已记录",
+      "2026赛事年份已记录"
+    ]
+  }
+}
