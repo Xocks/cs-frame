@@ -195,11 +195,17 @@ if (fs.existsSync("research/hltv-approved-photos.json"))
   photos.push(...read("research/hltv-approved-photos.json"));
 if (fs.existsSync("research/hltv-gallery-approved-photos.json"))
   photos.push(...read("research/hltv-gallery-approved-photos.json"));
+if (fs.existsSync("research/hltv-priority-approved-portraits.json"))
+  photos.push(...read("research/hltv-priority-approved-portraits.json"));
+const editorialPrimaries = new Set(fs.existsSync('research/hltv-priority-review.json')
+  ? read('research/hltv-priority-review.json').primaryPortraits?.map(id=>'hltv-gallery-'+id) || [] : []);
 for (const p of players) {
   const ps = photos
     .filter((ph) => ph.playerId === p.id)
     .sort((a, b) => (b.year || 0) - (a.year || 0));
   p.photoIds = ps.map((ph) => ph.id);
+  const editorialPrimary=ps.find(ph=>editorialPrimaries.has(ph.id));
+  if(editorialPrimary) for(const ph of ps) ph.isPrimary=ph.id===editorialPrimary.id;
   const periods = new Set();
   for (const ph of ps) {
     if (!periods.has(ph.period)) {
@@ -222,7 +228,7 @@ const notes = [
   `3DMAX 的原核心选手目前以 Envy 名义出现在排名快照中；Eternal Fire 同时保留当前阵容与原土耳其核心人物，不沿用旧队籍。`,
 ];
 const catalogue = {
-  version: "1.2.0-web",
+  version: "1.3.0-web",
   snapshotDate: "2026-10-19",
   collectedAt: "2026-10-21",
   rankingSource: "https://www.hltv.org/ranking/teams/2026/october/19",
@@ -238,7 +244,7 @@ const catalogue = {
     })),
   ),
   photos,
-  album: fs.existsSync('research/album-approved.json') ? read('research/album-approved.json') : [],
+  album: [...(fs.existsSync('research/album-approved.json') ? read('research/album-approved.json') : []),...(fs.existsSync('research/hltv-priority-approved-album.json') ? read('research/hltv-priority-approved-album.json') : [])],
   notes,
 };
 fs.writeFileSync("src/data/catalogue.json", JSON.stringify(catalogue, null, 2));

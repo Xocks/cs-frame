@@ -1,0 +1,19 @@
+import fs from 'node:fs';
+import path from 'node:path';
+const paths=['README.md','.github/workflows/pages.yml'];
+paths.push('cs/asset-bundles.json');
+const roots=['cs/src','cs/tests'];
+function walk(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){if(e.name.startsWith('.'))continue;const p=path.join(dir,e.name);if(e.isDirectory())walk(p);else paths.push(p);}}
+roots.forEach(walk);
+for(const name of ['package.json','package-lock.json','index.html','tsconfig.json','vite.config.ts','playwright.config.ts','playwright.web.config.ts','edgeone.json','README.md','LICENSE','.gitignore'])paths.push('cs/'+name);
+paths.push('cs/public/favicon.svg');
+for(const name of ['audit.mjs','build-catalogue.mjs','prepare-assets.mjs','prepare-public.mjs','package-web.mjs','package-offline.mjs','serve-web-test.mjs','write-online-report.mjs','process-hltv-online.mjs','process-hltv-gallery.mjs','detect-faces.swift','process-photos.mjs'])paths.push('cs/scripts/'+name);
+paths.push('cs/research/album-approved.json','cs/research/album-review.json','cs/docs/相册扩充与批量采集.md','cs/docs/赛事相册清单.csv');
+paths.push('cs/scripts/download-album-queue.mjs','cs/research/hltv-album-download-queue.json');
+for(const name of ['plan-hltv-priorities.mjs','collect-priority-hltv.mjs','review-priority-hltv.mjs','review-priority-crops.mjs','process-priority-hltv.mjs','package-photo-update.mjs','package-online-source.mjs','stage-publish-source.mjs'])paths.push('cs/scripts/'+name);
+for(const name of ['hltv-priority-players.json','hltv-priority-photo-candidates.json','hltv-priority-review.json','hltv-priority-approved-portraits.json','hltv-priority-approved-album.json'])paths.push('cs/research/'+name);
+paths.push('cs/docs/本轮照片完善-2026-10-23.md','cs/docs/图库来源研究-2026-10-22.md','cs/research/photo-library-research/sources.json');
+for(const name of ['seed-players.json','seed-teams.json','profiles.json','roster-checks.json','processed-photos.json','photo-review.json','hltv-photo-sources.json','hltv-approved-photos.json','hltv-gallery-approved-photos.json','hltv-gallery-review.json','hltv-crop-rejections.json','hltv-gallery-crop-rejections.json'])paths.push('cs/research/'+name);
+for(const name of ['在线版进展.md','online-release.json','交付与覆盖报告.md','使用说明.md','国内免费部署.md','GitHub免费部署研究.md','HLTV照片来源与授权记录.md','照片署名与许可.md','选手清单.csv','照片清单.csv','缺图选手.md','缺图选手.json','data-audit.json','playwright-online-results.json','unit-results.xml'])paths.push('cs/docs/'+name);
+const entries=paths.map(p=>({path:p,mode:'100644',type:'blob',content:fs.readFileSync(p,'utf8')}));
+process.stdout.write(JSON.stringify(entries));

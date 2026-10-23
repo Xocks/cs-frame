@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T01:29:57.998Z",
+  "checkedAt": "2026-10-23T11:10:39.240Z",
   "passed": true,
   "checkScope": "Structural data integrity; not a declaration that all photo coverage targets are met.",
   "photoCoverageTargetMet": true,
@@ -9,13 +9,13 @@
     "top20Teams": 20,
     "top20Players": 100,
     "chinesePlayers": 21,
-    "photos": 311,
-    "albumPhotos": 147,
-    "groupPhotos": 32,
-    "uniqueSourcePhotos": 377,
+    "photos": 355,
+    "albumPhotos": 224,
+    "groupPhotos": 51,
+    "uniqueSourcePhotos": 454,
     "playersWithPhotos": 230,
     "multiPeriodPlayers": 7,
-    "photoBytes": 35471818
+    "photoBytes": 52571196
   },
   "failures": [],
   "warnings": []

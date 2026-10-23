@@ -1,0 +1,2366 @@
+[
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/187079",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12566/betboom-dacha-2023-day-6",
+    "event": "BetBoom Dacha 2023 Day 6",
+    "requestedPlayerId": "hltv-21167",
+    "checkedAt": "2026-10-23T10:32:44.765Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "magixx",
+        "id": 18317
+      },
+      {
+        "nickname": "zont1x",
+        "id": 20423
+      },
+      {
+        "nickname": "donk",
+        "id": 21167
+      },
+      {
+        "nickname": "ArtFr0st",
+        "id": 21348
+      },
+      {
+        "nickname": "chopper",
+        "id": 7716
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/MzGFOl7BsJRcsJpRaEErEN.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=941&mx=174&my=4184&q=75&w=7068&s=6b95eded7eb8393783e326962c64e6d0",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/187079.jpg",
+    "sha256": "c1835b91f20e04865b5d2fa67f1beca4ffa6a78d65fc857e05a333925fe3762e"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/115275",
+    "year": 2018,
+    "yearEvidence": "https://www.hltv.org/gallery/11565/dreamhack-open-atlanta-2018",
+    "event": "DreamHack Open Atlanta 2018",
+    "requestedPlayerId": "hltv-11893",
+    "checkedAt": "2026-10-23T10:32:55.203Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "RpK",
+        "id": 7169
+      },
+      {
+        "nickname": "NBK-",
+        "id": 7168
+      },
+      {
+        "nickname": "ZywOo",
+        "id": 11893
+      },
+      {
+        "nickname": "Happy",
+        "id": 7429
+      },
+      {
+        "nickname": "apEX",
+        "id": 7322
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/DQxPXJv7leSMB4TptmgkXQ.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=cacdd711d00ed5f5d1613cf8e9b9f804",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/115275.jpg",
+    "sha256": "0ad66d0dd47101b55c93b18c370a225181a50e12af5f7cdfb47a1bd2ed707e8d"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/165587",
+    "year": 2022,
+    "yearEvidence": "https://www.hltv.org/gallery/12419/blast-premier-world-final-2022-day-5",
+    "event": "BLAST Premier World Final 2022 Day 5",
+    "requestedPlayerId": "hltv-19230",
+    "checkedAt": "2026-10-23T10:33:03.071Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "HooXi",
+        "id": 10096
+      },
+      {
+        "nickname": "m0NESY",
+        "id": 19230
+      },
+      {
+        "nickname": "NiKo",
+        "id": 3741
+      },
+      {
+        "nickname": "huNter-",
+        "id": 3972
+      },
+      {
+        "nickname": "jks",
+        "id": 4679
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/wihYJaJuSxLpng2qVsBOSh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1068&mx=198&my=4748&q=75&w=8021&s=879a83c954ff7992cdf5a11440b6bce1",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/165587.jpg",
+    "sha256": "751c8d334f9e35bb4784d0b40b4195db3efedb46e2fa58593de72d9de3fe1aef"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/76492",
+    "year": 2016,
+    "yearEvidence": "https://www.hltv.org/gallery/9471/iem-oakland-2016-day-2",
+    "event": "IEM Oakland 2016 Day 2",
+    "requestedPlayerId": "hltv-3741",
+    "checkedAt": "2026-10-23T10:33:10.877Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "NiKo",
+        "id": 3741
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/WLo9TpuGDL5m8VHoibeCH7.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=00b92453f57959140427c9b86c560dde",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/76492.jpg",
+    "sha256": "098ce7391ab12c9b4fd19cd2138d90fbf702c3a8cf301e939cb331547478d6d8"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/35890",
+    "year": 2014,
+    "yearEvidence": "https://www.hltv.org/gallery/6306/dreamhack-winter-2014-day-1",
+    "event": "DreamHack Winter 2014 Day 1",
+    "requestedPlayerId": "hltv-7998",
+    "checkedAt": "2026-10-23T10:33:18.391Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "s1mple",
+        "id": 7998
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/3SC6cw0bZqnjT4fTQSleAR.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=7a3f1ac6270d7748283668a9920483b9",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/35890.jpg",
+    "sha256": "82a68d1aa3ebe43d168ef0b7b218af49f8a6e8148831dd05ef0c6a0383e87c2e"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/133318",
+    "year": 2019,
+    "yearEvidence": "https://www.hltv.org/gallery/11950/msi-mga-2019-finals",
+    "event": "MSI MGA 2019 Finals",
+    "requestedPlayerId": "hltv-16920",
+    "checkedAt": "2026-10-23T10:33:26.126Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "sh1ro",
+        "id": 16920
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/LNxAu7FNjfYZgkb2Rlh8cl.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=d5199415c4d4df294f889315481c9ba8",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/133318.jpg",
+    "sha256": "7425760d12b67aa1658fbe823a43eacc7cdd9b714a521cac1c61ee8422e184f2"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/97007",
+    "year": 2017,
+    "yearEvidence": "https://www.hltv.org/gallery/11179/dreamhack-open-winter-2017-day-3",
+    "event": "DreamHack Open Winter 2017 Day 3",
+    "requestedPlayerId": "hltv-11816",
+    "checkedAt": "2026-10-23T10:33:35.093Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "ropz",
+        "id": 11816
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/4Q6aKp2eaq2HL6zWWf9RAP.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=4465d9ffc2e7a0110c1cbd6343170f7c",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/97007.jpg",
+    "sha256": "adeb43316816915022e0ba23ce5dd0951bfb995fcc8457722436129e96c98a6c"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/165474",
+    "year": 2022,
+    "yearEvidence": "https://www.hltv.org/gallery/12418/blast-premier-world-final-2022-day-4",
+    "event": "BLAST Premier World Final 2022 Day 4",
+    "requestedPlayerId": "hltv-16693",
+    "checkedAt": "2026-10-23T10:33:42.120Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "degster",
+        "id": 17306
+      },
+      {
+        "nickname": "flameZ",
+        "id": 16693
+      },
+      {
+        "nickname": "nexa",
+        "id": 9618
+      },
+      {
+        "nickname": "NEOFRAG",
+        "id": 15821
+      },
+      {
+        "nickname": "F1KU",
+        "id": 19044
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/jMFN37YWxjQvD2fQMt2tPU.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=895&mx=166&my=3976&q=75&w=6720&s=0af3109f6e09d8043c71d45f5aabaf74",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/165474.jpg",
+    "sha256": "ace9ca69fdc481e037b3fbee4592f28cbca3037434c06349d946a1b65ec7f442"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/40775",
+    "year": 2015,
+    "yearEvidence": "https://www.hltv.org/gallery/6650/copenhagen-games-2015-day-three",
+    "event": "Copenhagen Games 2015 Day three",
+    "requestedPlayerId": "hltv-7938",
+    "checkedAt": "2026-10-23T10:33:49.209Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "XANTARES",
+        "id": 7938
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/9Nc1q4JFWQDaukA1xCoKWq.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=b108850b651beae4c916f2e29fb66f9d",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/40775.jpg",
+    "sha256": "0b367ad01f87d8a4e9f3d8956217da802779d430e0f30f76ff955fde6ed9f784"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/29847",
+    "year": 2013,
+    "yearEvidence": "https://www.hltv.org/gallery/5859/european-championship-2013-lan-final",
+    "event": "European Championship 2013 LAN Final",
+    "requestedPlayerId": "hltv-7592",
+    "checkedAt": "2026-10-23T10:33:56.384Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "LOMME",
+        "id": 1889
+      },
+      {
+        "nickname": "Pimp",
+        "id": 7154
+      },
+      {
+        "nickname": "dupreeh",
+        "id": 7398
+      },
+      {
+        "nickname": "device",
+        "id": 7592
+      },
+      {
+        "nickname": "Xyp9x",
+        "id": 4954
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/d_datK97xPhJAtcPB09GO3.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=8779901a22e274ace15e04e84f7b964f",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/29847.jpg",
+    "sha256": "c3e9de63bd601bf9967c24f511accbb45ab9b6aac04888cf15435bed50c78b00"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/75925",
+    "year": 2016,
+    "yearEvidence": "https://www.hltv.org/gallery/9432/ibuypower-masters-2016-day-1",
+    "event": "iBUYPOWER Masters 2016 Day 1",
+    "requestedPlayerId": "hltv-10394",
+    "checkedAt": "2026-10-23T10:34:02.985Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Twistzz",
+        "id": 10394
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/PRTefMnuvAeeiG3Z_WvRvR.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=0e6ca823ae31dd7ad88262f44152598f",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/75925.jpg",
+    "sha256": "0ac02eebc65baeeec62195cd467e9da16fe68c4d1a3a0a75d7316a146e2d0b52"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/148476",
+    "year": 2021,
+    "yearEvidence": "https://www.hltv.org/gallery/12261/blast-premier-world-final-2021-day-6",
+    "event": "BLAST Premier World Final 2021 Day 6",
+    "requestedPlayerId": "hltv-18987",
+    "checkedAt": "2026-10-23T10:34:08.420Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "b1t",
+        "id": 18987
+      },
+      {
+        "nickname": "electroNic",
+        "id": 8918
+      },
+      {
+        "nickname": "s1mple",
+        "id": 7998
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/3Ai5jcVb1iOoobIduICvKI.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=749&mx=139&my=3325&q=75&w=5620&s=529098248fd02438fb75b328a7487dde",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/148476.jpg",
+    "sha256": "a11d247e1773905b9a84e438494585bcb2282145ac649b9fd7ac9a75a48dcecc"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/165955",
+    "year": 2022,
+    "yearEvidence": "https://www.hltv.org/gallery/12421/hltv-award-show-2022",
+    "event": "HLTV Award Show 2022",
+    "requestedPlayerId": "hltv-20127",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/7-7EvthJjQF9h3JuAgUAgf.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=ea62621f18debc22333e559a0e1ada48",
+    "checkedAt": "2026-10-23T10:39:47.940Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Lk-",
+        "id": 7402
+      },
+      {
+        "nickname": "Perfecto",
+        "id": 16947
+      },
+      {
+        "nickname": "B1ad3",
+        "id": 472
+      },
+      {
+        "nickname": "sh1ro",
+        "id": 16920
+      },
+      {
+        "nickname": "Ax1Le",
+        "id": 16555
+      },
+      {
+        "nickname": "Patsi",
+        "id": 19673
+      },
+      {
+        "nickname": "w0nderful",
+        "id": 20127
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/7-7EvthJjQF9h3JuAgUAgf.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1091&mx=202&my=4850&q=75&w=8192&s=a813c9c77425747629dd2936634d4945",
+    "photographer": "brcho_",
+    "originalDownloadError": "page.fetch timed out after 12000ms",
+    "downloadedUrl": "https://img-cdn.hltv.org/gallerypicture/7-7EvthJjQF9h3JuAgUAgf.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=ea62621f18debc22333e559a0e1ada48",
+    "rawPath": "research/priority-hltv-downloads/165955.jpg",
+    "sha256": "b17b1cc3a0b2c40a0f1a55614a95340cd23d1e477a849e9634cede13f3da16f3"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/132404",
+    "year": 2019,
+    "yearEvidence": "https://www.hltv.org/gallery/11928/v4-future-sports-festival-2019-day-1",
+    "event": "V4 Future Sports Festival 2019 Day 1",
+    "requestedPlayerId": "hltv-18072",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/w4X_CS6MJW5nthH-GlOg6_.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=902aed534b0ca9e6035e57d8a6177cc6",
+    "checkedAt": "2026-10-23T10:40:09.705Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "torzsi",
+        "id": 18072
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/w4X_CS6MJW5nthH-GlOg6_.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=828e6cb29f6b1c8b3bd9dd480046409e",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/132404.jpg",
+    "sha256": "aeb62d3c0852605cb4d1880c0d70ae817bce6429cbc38057252d5a698a2545ba"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/92451",
+    "year": 2017,
+    "yearEvidence": "https://www.hltv.org/gallery/11084/cross-border-esport-2017",
+    "event": "Cross Border Esport 2017",
+    "requestedPlayerId": "hltv-9960",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/oMjVTOUS6nXSpqswiLP0Kw.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=db45af1feb0ff690b1d5607eeaaa5a4d",
+    "checkedAt": "2026-10-23T10:40:23.592Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "frozen",
+        "id": 9960
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/oMjVTOUS6nXSpqswiLP0Kw.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=acebe0567ceee72dc6f9d15174f06c11",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/92451.jpg",
+    "sha256": "40a66db59bee4ccd5ce9868a1f8d3c252c3239abf0a50ef36a08b1ea67c0ebb4"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/130237",
+    "year": 2019,
+    "yearEvidence": "https://www.hltv.org/gallery/11891/starladder-major-2019-main-qualifier-day-2",
+    "event": "StarLadder Major 2019 Main Qualifier Day 2",
+    "requestedPlayerId": "hltv-15631",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/aKz5KZFwGfLKovN1DnjGhU.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=af5c823e46f6d52490bb59e6aef961b4",
+    "checkedAt": "2026-10-23T10:40:31.697Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "KSCERATO",
+        "id": 15631
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/aKz5KZFwGfLKovN1DnjGhU.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=4df7004a104d73f714a1585e5048c486",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/130237.jpg",
+    "sha256": "7de7c26b18a23b46b90050fb1a9c8bb4a4663ece28e7e378231a93ad5fb0a892"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/130229",
+    "year": 2019,
+    "yearEvidence": "https://www.hltv.org/gallery/11891/starladder-major-2019-main-qualifier-day-2",
+    "event": "StarLadder Major 2019 Main Qualifier Day 2",
+    "requestedPlayerId": "hltv-12553",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/JsKu-QCcixFrldyrKUIHft.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=42fb684c7a6a401ef84cfd196552f281",
+    "checkedAt": "2026-10-23T10:40:43.673Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "yuurih",
+        "id": 12553
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/JsKu-QCcixFrldyrKUIHft.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=ab2c7527fa8071cccd5f16535ea0ed73",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/130229.jpg",
+    "sha256": "85cba86c6b5e4373d7c619df5444c6c2caf47da3db5237857751e18bbe6a2d2d"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/11274",
+    "year": 2009,
+    "yearEvidence": "https://www.hltv.org/gallery/2239/wcg-2009-thursday",
+    "event": "WCG 2009 Thursday",
+    "requestedPlayerId": "hltv-2023",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/SowoacCXL0ShYjd3ULt3Mv.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=6e79a4fb08b9ae71e5bb345bc8d183cd",
+    "checkedAt": "2026-10-23T10:40:55.221Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "nak",
+        "id": 169
+      },
+      {
+        "nickname": "FalleN",
+        "id": 2023
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/SowoacCXL0ShYjd3ULt3Mv.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=96f4f3aef4536c22db2ab067bcf15a8a",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/11274.jpg",
+    "sha256": "188bcebef7a707da8cd30ef606c5e597dcd86751d2ecab88066d4463111dd03f"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/187925",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12572/blast-premier-world-final-2023-day-4",
+    "event": "BLAST Premier World Final 2023 Day 4",
+    "requestedPlayerId": "hltv-18850",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/hxMcty-rf3K6AyuatgGAlb.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=0458e77eb64d556b3385b28ace2f1bf1",
+    "checkedAt": "2026-10-23T10:41:03.124Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Jimpphat",
+        "id": 18850
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/hxMcty-rf3K6AyuatgGAlb.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=905&mx=168&my=4023&q=75&w=6796&s=b58da28fecb1c63b06febff923c8f460",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/187925.jpg",
+    "sha256": "85c3f7ecc2207eb70d08a21069e5d5319f5593a1b5233f75708459bb95fa03b5"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/98775",
+    "year": 2017,
+    "yearEvidence": "https://www.hltv.org/gallery/11221/top-20-players-of-2017",
+    "event": "Top 20 players of 2017",
+    "requestedPlayerId": "hltv-8738",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/STbD7F-04OV2XbtKAWETEF.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=039e3295ab77a8f1bb87bb0e9ab47b9b",
+    "checkedAt": "2026-10-23T10:41:17.587Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "EliGE",
+        "id": 8738
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/STbD7F-04OV2XbtKAWETEF.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=6e884dc0116b6e6ff95d0c605aef46ac",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/98775.jpg",
+    "sha256": "4fd45698e82795e9b5e6290e1d05c1fb93dba646e79c01ac322ac7bfed6cbe6a"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/253889",
+    "year": 2025,
+    "yearEvidence": "https://www.hltv.org/gallery/13001/starladder-budapest-major-2025-day-5",
+    "event": "StarLadder Budapest Major 2025 Day 5",
+    "requestedPlayerId": "hltv-24177",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/VXI5_EEDGbYJR2GK2YUKQ0.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=b398819775a922002dbac8b24cafa3dc",
+    "checkedAt": "2026-10-23T10:41:27.058Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "TeSeS",
+        "id": 12018
+      },
+      {
+        "nickname": "kyousuke",
+        "id": 24177
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/VXI5_EEDGbYJR2GK2YUKQ0.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=907&mx=168&my=4030&q=75&w=6812&s=5fbc899a2d8fc42001b6fe448e4b4b95",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/253889.jpg",
+    "sha256": "658f0e628c91ce21e45ced37a1e2430a0417f088c6a673ffcd987157f9ce9f08"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/183619",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12535/cs-asia-championships-2023-day-1",
+    "event": "CS Asia Championships 2023 Day 1",
+    "requestedPlayerId": "hltv-19645",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:41:37.918Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "JamYoung",
+        "id": 19645
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/WOI9weNxS0AaFEZN55xFGI.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=871&mx=161&my=3872&q=75&w=6540&s=80dc3589135595e2f27ecaba939cbab8",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/183619.jpg",
+    "sha256": "6cf3d60b16c7e4b3761f12ee5b696a2a80df519099ff257e954125a866e1e17f"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/183622",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12535/cs-asia-championships-2023-day-1",
+    "event": "CS Asia Championships 2023 Day 1",
+    "requestedPlayerId": "hltv-21621",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/jKlU-7JBYIvvVropoW3aAQ.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=22741ca98ffa057ae7134f5fb331e189",
+    "checkedAt": "2026-10-23T10:41:48.124Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Moseyuh",
+        "id": 21621
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/jKlU-7JBYIvvVropoW3aAQ.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1091&mx=202&my=4850&q=75&w=8192&s=f9e99eac2aca5ecce6cfb4bf1db70537",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/183622.jpg",
+    "sha256": "dcdeeafbea6a047b3515b124e293306e7cb6344c75c83bf7b71c6b9b6735a23e"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/183959",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12537/cs-asia-championships-2023-day-3",
+    "event": "CS Asia Championships 2023 Day 3",
+    "requestedPlayerId": "hltv-20254",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/O7ianH4SepU6tP-13gRGNS.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=4ab30f1e3ed7ead725d7b122c2dbe6ee",
+    "checkedAt": "2026-10-23T10:42:00.193Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Starry",
+        "id": 20254
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/O7ianH4SepU6tP-13gRGNS.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=851&mx=158&my=3783&q=75&w=6392&s=4a5c268bcbfa39e258fac59db384bf82",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/183959.jpg",
+    "sha256": "d2b36480f8fd83e65756b0e3be781769bf31e54a3c8fd5f368a276041ea5a5b5"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/183965",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12537/cs-asia-championships-2023-day-3",
+    "event": "CS Asia Championships 2023 Day 3",
+    "requestedPlayerId": "hltv-18744",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/RpPVPLCUtOeIEbfY9mnojj.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=61f49cbdec0208bd96b4dada772fa6d0",
+    "checkedAt": "2026-10-23T10:42:11.223Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Starry",
+        "id": 20254
+      },
+      {
+        "nickname": "EmiliaQAQ",
+        "id": 22922
+      },
+      {
+        "nickname": "z4KR",
+        "id": 18744
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/RpPVPLCUtOeIEbfY9mnojj.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=668&mx=124&my=2967&q=75&w=5015&s=7bf87caf0aa09428e10c9b26f5f17cc2",
+    "photographer": "Nohte",
+    "rawPath": "research/priority-hltv-downloads/183965.jpg",
+    "sha256": "b01d63d888f9df121f7a4f8e2db8c2aeacd27f7c648474ebe6e5c02560415ff1"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/183958",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12537/cs-asia-championships-2023-day-3",
+    "event": "CS Asia Championships 2023 Day 3",
+    "requestedPlayerId": "hltv-16551",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/-d3LeMKcKhNr5E8GrUWW6H.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=393289b01912bc82c9413dbc077e4ae6",
+    "checkedAt": "2026-10-23T10:42:20.637Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Westmelon",
+        "id": 16551
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/-d3LeMKcKhNr5E8GrUWW6H.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=927&mx=172&my=4121&q=75&w=6962&s=e1396c3cc03153106ea9a89c8b29b98d",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/183958.jpg",
+    "sha256": "76a3644838cebcb2c419506f02351b35653a92a28cee18d2a5450322f973908f"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/222704",
+    "year": 2024,
+    "yearEvidence": "https://www.hltv.org/gallery/12784/hltv-awards-2024-hltv-awards-2024",
+    "event": "HLTV Awards 2024 HLTV Awards 2024",
+    "requestedPlayerId": "hltv-21167",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:42:29.866Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "donk",
+        "id": 21167
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/uuxuBlMqyKEVsNPbh9Vrw0.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=729&mx=135&my=3237&q=75&w=5472&s=de616264c047462f0151a0bc70791a04",
+    "photographer": "adelasznajder",
+    "rawPath": "research/priority-hltv-downloads/222704.jpg",
+    "sha256": "9ddecbc9de605563739f388b03b029fec45314d365ad168cc6a6def20db8463f"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/139534",
+    "year": 2020,
+    "yearEvidence": "https://www.hltv.org/gallery/12128/iem-katowice-2020-day-2",
+    "event": "IEM Katowice 2020 Day 2",
+    "requestedPlayerId": "hltv-11893",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:42:37.703Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "ZywOo",
+        "id": 11893
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/muAUjZwbWFcwj2V7RYDAiO.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=16e9629c5ba8c50a2dea7e042acafcdf",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/139534.jpg",
+    "sha256": "c37f9bfad837db41e4ff3236ab8fccc6fa01a957c6fd4dfbc96ab4bcf3620507"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/189224",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12578/hltv-award-show-2023-winners",
+    "event": "HLTV Award Show 2023 Winners",
+    "requestedPlayerId": "hltv-19230",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:42:47.917Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "m0NESY",
+        "id": 19230
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/nGb4ftfucXaF5Y62mO_IXu.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1091&mx=202&my=4847&q=75&w=8192&s=57c9ab1eefb1daf531f97c75d567e9ed",
+    "photographer": "KonkolMichal",
+    "rawPath": "research/priority-hltv-downloads/189224.jpg",
+    "sha256": "9dec8497fc48fa8b364381d70bd22db03f6a58a08ce792585864782d124a1a15"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/135593",
+    "year": 2019,
+    "yearEvidence": "https://www.hltv.org/gallery/12008/iem-beijing-2019-day-3",
+    "event": "IEM Beijing 2019 Day 3",
+    "requestedPlayerId": "hltv-3741",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:42:57.612Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "NiKo",
+        "id": 3741
+      },
+      {
+        "nickname": "coldzera",
+        "id": 9216
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/wAXwiC6V2J_olCLoMCBlDk.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=e3669b04325ba0d3e16297c18a9d9ca9",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/135593.jpg",
+    "sha256": "2d377d30ee9b21e9848f40c480c61969daa34317cf0c95fbe651464846c018b5"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/98871",
+    "year": 2017,
+    "yearEvidence": "https://www.hltv.org/gallery/11221/top-20-players-of-2017",
+    "event": "Top 20 players of 2017",
+    "requestedPlayerId": "hltv-7998",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:43:06.789Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "s1mple",
+        "id": 7998
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/w-jhZRlShLzNw73nTIN6uC.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=db79fec3f92420a748d4f7535cad6897",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/98871.jpg",
+    "sha256": "5da991e2c89fc74c28c28b2c3b34e76384edfae97a217756c4973d33030857c1"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/148494",
+    "year": 2021,
+    "yearEvidence": "https://www.hltv.org/gallery/12261/blast-premier-world-final-2021-day-6",
+    "event": "BLAST Premier World Final 2021 Day 6",
+    "requestedPlayerId": "hltv-16920",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/5UaT_ncDgdbPeaxvmSXKb_.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=8b6cdd536b7a368ec52b5cb7c6298891",
+    "checkedAt": "2026-10-23T10:43:14.434Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "sh1ro",
+        "id": 16920
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/5UaT_ncDgdbPeaxvmSXKb_.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=753&mx=139&my=3346&q=75&w=5655&s=fa93bb2f64b3bb79fd6819707850a350",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/148494.jpg",
+    "sha256": "0167edd32fe3a29b1abcae82dd6cae92e23e24fba3dc7e53e01efe09874e2135"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/137950",
+    "year": 2019,
+    "yearEvidence": "https://www.hltv.org/gallery/12059/epicenter-2019-day-5",
+    "event": "EPICENTER 2019 Day 5",
+    "requestedPlayerId": "hltv-11816",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/97cZCysq9_BKDPxIFIBxyY.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=18833d482abfb9cff64bd268442db877",
+    "checkedAt": "2026-10-23T10:43:23.901Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "frozen",
+        "id": 9960
+      },
+      {
+        "nickname": "karrigan",
+        "id": 429
+      },
+      {
+        "nickname": "woxic",
+        "id": 8574
+      },
+      {
+        "nickname": "chrisJ",
+        "id": 2730
+      },
+      {
+        "nickname": "ropz",
+        "id": 11816
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/97cZCysq9_BKDPxIFIBxyY.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=752d5b25447e9ec18f4c216d396ab266",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/137950.jpg",
+    "sha256": "405dbc48abcde37bf595bb0d5572e419d29509e6dbc78ae303f7fa1d02dc675b"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/188841",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12578/hltv-award-show-2023-winners",
+    "event": "HLTV Award Show 2023 Winners",
+    "requestedPlayerId": "hltv-16693",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/o7gzOBUHbEdH_Vwmse13S1.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=5b5075c17a26217d9ab34e00f25b97e2",
+    "checkedAt": "2026-10-23T10:43:31.958Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Spinx",
+        "id": 18221
+      },
+      {
+        "nickname": "mezii",
+        "id": 18462
+      },
+      {
+        "nickname": "flameZ",
+        "id": 16693
+      },
+      {
+        "nickname": "apEX",
+        "id": 7322
+      },
+      {
+        "nickname": "ZywOo",
+        "id": 11893
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/o7gzOBUHbEdH_Vwmse13S1.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1091&mx=202&my=4847&q=75&w=8192&s=8ae3c6f7ac365fbb474c08effd69ce52",
+    "photographer": "KonkolMichal",
+    "rawPath": "research/priority-hltv-downloads/188841.jpg",
+    "sha256": "8ad9b7ff83a34a797053ae03c88374f50ced09cb76231d285897168293549e04"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/102550",
+    "year": 2017,
+    "yearEvidence": "https://www.hltv.org/gallery/11288/wesg-2017-world-finals-day-6",
+    "event": "WESG 2017 World Finals Day 6",
+    "requestedPlayerId": "hltv-7938",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/0QhgY8CpJybv8_7W_6eDoU.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=c2aea1dc15dbfb680524126cd2734433",
+    "checkedAt": "2026-10-23T10:43:43.043Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Calyx",
+        "id": 8575
+      },
+      {
+        "nickname": "paz",
+        "id": 9353
+      },
+      {
+        "nickname": "ngiN",
+        "id": 9857
+      },
+      {
+        "nickname": "XANTARES",
+        "id": 7938
+      },
+      {
+        "nickname": "MAJ3R",
+        "id": 150
+      },
+      {
+        "nickname": "Golden",
+        "id": 11110
+      },
+      {
+        "nickname": "flusha",
+        "id": 3055
+      },
+      {
+        "nickname": "Lekr0",
+        "id": 9261
+      },
+      {
+        "nickname": "KRIMZ",
+        "id": 7528
+      },
+      {
+        "nickname": "JW",
+        "id": 3849
+      },
+      {
+        "nickname": "WorldEdit",
+        "id": 7403
+      },
+      {
+        "nickname": "Dosia",
+        "id": 735
+      },
+      {
+        "nickname": "hooch",
+        "id": 499
+      },
+      {
+        "nickname": "electroNic",
+        "id": 8918
+      },
+      {
+        "nickname": "seized",
+        "id": 3347
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/0QhgY8CpJybv8_7W_6eDoU.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=bb54f440317ddb9a7c66d0f9a69a0375",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/102550.jpg",
+    "sha256": "b5f7d8fb83e6293a9e71d9fdac55cb6ec7c57064913ba0bd5b1da6e96cb7881f"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/135633",
+    "year": 2019,
+    "yearEvidence": "https://www.hltv.org/gallery/12010/iem-beijing-2019-day-4",
+    "event": "IEM Beijing 2019 Day 4",
+    "requestedPlayerId": "hltv-7592",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:43:52.580Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "zonic",
+        "id": 21
+      },
+      {
+        "nickname": "device",
+        "id": 7592
+      },
+      {
+        "nickname": "Xyp9x",
+        "id": 4954
+      },
+      {
+        "nickname": "gla1ve",
+        "id": 7412
+      },
+      {
+        "nickname": "Magisk",
+        "id": 9032
+      },
+      {
+        "nickname": "dupreeh",
+        "id": 7398
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/-PtJ01IX-Ty1SmduvEsQkL.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=a7626931377393a770ec43a305483278",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/135633.jpg",
+    "sha256": "04fa01ff4d09171cde2b771c96f66a05f609911dd299649cd916a2731e74151d"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/119937",
+    "year": 2018,
+    "yearEvidence": "https://www.hltv.org/gallery/11655/top-20-players-of-2018",
+    "event": "Top 20 players of 2018",
+    "requestedPlayerId": "hltv-10394",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:44:00.043Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Twistzz",
+        "id": 10394
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/ZkXv4BIckoRk42RGIx4Z3X.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=33865944465fbe7a7deced33c4235683",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/119937.jpg",
+    "sha256": "2654f00697203a6422c8a6086c50d5caa23f475694528a7c894612f59c8c882c"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/165410",
+    "year": 2022,
+    "yearEvidence": "https://www.hltv.org/gallery/12417/blast-premier-world-final-2022-day-3",
+    "event": "BLAST Premier World Final 2022 Day 3",
+    "requestedPlayerId": "hltv-18987",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/33Xw8B80VL1bVvjCSSlxmr.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=54a172089c3eb1c98c4ba07dd7dcc518",
+    "checkedAt": "2026-10-23T10:44:08.507Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "b1t",
+        "id": 18987
+      },
+      {
+        "nickname": "s1mple",
+        "id": 7998
+      },
+      {
+        "nickname": "B1ad3",
+        "id": 472
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/33Xw8B80VL1bVvjCSSlxmr.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1091&mx=202&my=4850&q=75&w=8192&s=49294afe4547f37e4b8bca0520ec1c3a",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/165410.jpg",
+    "sha256": "bb0f76849d3326381ea71e68f0604df5004283aaec0cb2e8966c063d89e92748"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/187959",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12572/blast-premier-world-final-2023-day-4",
+    "event": "BLAST Premier World Final 2023 Day 4",
+    "requestedPlayerId": "hltv-20127",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/GMa4pP1LMC0L5BDPo3Oxtv.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=dd1706f6bace6c4802e0c9b5dbe75bf1",
+    "checkedAt": "2026-10-23T10:44:20.182Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "w0nderful",
+        "id": 20127
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/GMa4pP1LMC0L5BDPo3Oxtv.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=585&mx=108&my=2603&q=75&w=4396&s=4763781d8d93d7855175ef9a9555b0a8",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/187959.jpg",
+    "sha256": "ca7cf4f48a3bd1465bb50a0ac5d472cccd934d4016023436b905fb91e98459e2"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/163573",
+    "year": 2022,
+    "yearEvidence": "https://www.hltv.org/gallery/12399/iem-rio-major-2022-day-7",
+    "event": "IEM Rio Major 2022 Day 7",
+    "requestedPlayerId": "hltv-18072",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/af_esklPgVVGVxH_HoVHwk.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=2ecf674b64f48c662dd76f81a20af680",
+    "checkedAt": "2026-10-23T10:44:28.857Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "torzsi",
+        "id": 18072
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/af_esklPgVVGVxH_HoVHwk.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=971&mx=180&my=4318&q=75&w=7294&s=402420533c0972a43e17d670de27ece1",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/163573.jpg",
+    "sha256": "009946a5b6cdb4fb4ccb264a7903b76061503d14f51a734493cfd3d327d65835"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/137585",
+    "year": 2019,
+    "yearEvidence": "https://www.hltv.org/gallery/12051/epicenter-2019-day-2",
+    "event": "EPICENTER 2019 Day 2",
+    "requestedPlayerId": "hltv-9960",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/97s6l5UU7-kA6eU81osdw_.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=1727baf676c303675abb3741f8e0d491",
+    "checkedAt": "2026-10-23T10:44:38.271Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "frozen",
+        "id": 9960
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/97s6l5UU7-kA6eU81osdw_.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=d4fd9133fa821e3179fd9711436f86e2",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/137585.jpg",
+    "sha256": "ba815a5e2eee8277f5e9aefbbcb052021253d448f279196bb0059cdd78d94959"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/139279",
+    "year": 2020,
+    "yearEvidence": "https://www.hltv.org/gallery/12125/dreamhack-open-anaheim-2020-day-3",
+    "event": "DreamHack Open Anaheim 2020 Day 3",
+    "requestedPlayerId": "hltv-15631",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/eD9Pd-g3bdMZq9fO7VTFbG.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=72d5e116b90a4858eff5dc0e77e2cea1",
+    "checkedAt": "2026-10-23T10:44:47.062Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "KSCERATO",
+        "id": 15631
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/eD9Pd-g3bdMZq9fO7VTFbG.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=9c73bf2626f66a6b22896b8dce9b01cf",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/139279.jpg",
+    "sha256": "29a92502a3f21aa8b58e8a180bbfc0cfc16e432e9f8a404c9edcd0e67cafaa91"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/139281",
+    "year": 2020,
+    "yearEvidence": "https://www.hltv.org/gallery/12125/dreamhack-open-anaheim-2020-day-3",
+    "event": "DreamHack Open Anaheim 2020 Day 3",
+    "requestedPlayerId": "hltv-12553",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/WiHC-wfjVLVbUFS0Ov9LFc.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=394e224269a4db2e65842fb3aab0a77d",
+    "checkedAt": "2026-10-23T10:44:54.543Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "yuurih",
+        "id": 12553
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/WiHC-wfjVLVbUFS0Ov9LFc.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=581d5554f933a3229e218b0a5d8ab391",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/139281.jpg",
+    "sha256": "3e9a731a08fe48fab522f8e2a0889e7fe3e4849e1925db232ee3c1ef4583635f"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/34921",
+    "year": 2014,
+    "yearEvidence": "https://www.hltv.org/gallery/6247/eswc-2014-day-two",
+    "event": "ESWC 2014 Day two",
+    "requestedPlayerId": "hltv-2023",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/ge0Xq1oxhu0Gx3zT-N6OF4.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=695de4bef0a4e9851c17d3e4fe338731",
+    "checkedAt": "2026-10-23T10:45:02.762Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "FalleN",
+        "id": 2023
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/ge0Xq1oxhu0Gx3zT-N6OF4.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=050c929507135622b18638165fad9c3a",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/34921.jpg",
+    "sha256": "82ceb59682458d3041abee4af998813aab1dbda44e4b1e8946350a7be226d09e"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/220627",
+    "year": 2024,
+    "yearEvidence": "https://www.hltv.org/gallery/12778/perfect-world-shanghai-major-2024-day-7",
+    "event": "Perfect World Shanghai Major 2024 Day 7",
+    "requestedPlayerId": "hltv-18850",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/rJQzecFJWFiodS0YEnUgib.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=426efb7b4f86c42170d8a0ab39f7e2cc",
+    "checkedAt": "2026-10-23T10:45:09.801Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Jimpphat",
+        "id": 18850
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/rJQzecFJWFiodS0YEnUgib.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=950&mx=176&my=4221&q=75&w=7131&s=3a5d56b219a118945f82ecd915f16fcf",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/220627.jpg",
+    "sha256": "66939cfdf1608716baeb5e944ac5d4f3234878b224e7c18d75d343920814d33b"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/139879",
+    "year": 2020,
+    "yearEvidence": "https://www.hltv.org/gallery/12138/iem-katowice-2020-day-5",
+    "event": "IEM Katowice 2020 Day 5",
+    "requestedPlayerId": "hltv-8738",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/mgo3PWE7unn3LcNO0PxnhW.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=ea5e2eb123011550fb9cb2cda2f1005b",
+    "checkedAt": "2026-10-23T10:45:18.240Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "EliGE",
+        "id": 8738
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/mgo3PWE7unn3LcNO0PxnhW.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=2d2ff945218335163f4c65d236ab7b5f",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/139879.jpg",
+    "sha256": "5bfe71d5ea175311e1b5ec7b6d85501b6e01685343bbd38ed938d488d172b334"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/282342",
+    "year": 2026,
+    "yearEvidence": "https://www.hltv.org/gallery/13186/thunderpick-world-championship-2026-day-5",
+    "event": "Thunderpick World Championship 2026 Day 5",
+    "requestedPlayerId": "hltv-24177",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/5IK50E00HmkBJ0iN-72wRj.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=37bd778be3fb0a7407edff7ba5a4a638",
+    "checkedAt": "2026-10-23T10:45:28.634Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "kyousuke",
+        "id": 24177
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/5IK50E00HmkBJ0iN-72wRj.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=933&mx=173&my=4146&q=75&w=7008&s=52406d982d41d8def3d2651f8fd3afe5",
+    "photographer": "luismmira",
+    "rawPath": "research/priority-hltv-downloads/282342.jpg",
+    "sha256": "f500319941e4b2c96e573eb6fa036d98effefe7db6bc59007d79e14086e69672"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/253013",
+    "year": 2025,
+    "yearEvidence": "https://www.hltv.org/gallery/12995/starladder-budapest-major-2025-stage-2-day-3",
+    "event": "StarLadder Budapest Major 2025 Stage 2 Day 3",
+    "requestedPlayerId": "hltv-19645",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:45:35.378Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "JamYoung",
+        "id": 19645
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/x61WJWnA5LXxvUtm9nVBse.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=934&mx=173&my=4149&q=75&w=7009&s=1f320ada9765e6ef531f94abef0c4e4f",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/253013.jpg",
+    "sha256": "51a1d88ed60fe3b45d2b5cb1dfd1b14046c499de942a72913a20a28e61c371dc"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/253011",
+    "year": 2025,
+    "yearEvidence": "https://www.hltv.org/gallery/12995/starladder-budapest-major-2025-stage-2-day-3",
+    "event": "StarLadder Budapest Major 2025 Stage 2 Day 3",
+    "requestedPlayerId": "hltv-21621",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/ZSHBQRB7PPIB-CaW_WyDSh.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=c3cdd07e34230e2dfb3e0884a3bc07e9",
+    "checkedAt": "2026-10-23T10:45:44.758Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Moseyuh",
+        "id": 21621
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/ZSHBQRB7PPIB-CaW_WyDSh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1091&mx=202&my=4850&q=75&w=8192&s=b60086c189ee846f893d8ae386ede95a",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/253011.jpg",
+    "sha256": "1b8dad49d5003bd3e7e0d3fe0d1617c84819807692894ffe2a13e6cbac495666"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/199333",
+    "year": 2024,
+    "yearEvidence": "https://www.hltv.org/gallery/12626/iem-chengdu-2024-day-1",
+    "event": "IEM Chengdu 2024 Day 1",
+    "requestedPlayerId": "hltv-20254",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/AxCtBEuTrAG-wQF_7qFNJ9.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=e3021fb0341593fd447c5e2da55a7f33",
+    "checkedAt": "2026-10-23T10:45:56.253Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Starry",
+        "id": 20254
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/AxCtBEuTrAG-wQF_7qFNJ9.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=980&mx=182&my=4355&q=75&w=7359&s=1dda6bd2ce0ddd50dabcf477fbaf0b61",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/199333.jpg",
+    "sha256": "c4e001cc67aadea1beae65e658285a722bec8860c6c895a822a06dd8c849e248"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/216468",
+    "year": 2024,
+    "yearEvidence": "https://www.hltv.org/gallery/12756/perfect-world-shanghai-major-2024-asia-rmr-day-3",
+    "event": "Perfect World Shanghai Major 2024 Asia RMR Day 3",
+    "requestedPlayerId": "hltv-18744",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/xN55UsHfNHjSPkIRdFp6fX.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=6e4a045259a77376e2cb82b67c98622e",
+    "checkedAt": "2026-10-23T10:46:06.849Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "z4KR",
+        "id": 18744
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/xN55UsHfNHjSPkIRdFp6fX.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=620&mx=115&my=2755&q=75&w=4656&s=746706654f0db7291bc97390af5dabf8",
+    "photographer": "Dimitrii",
+    "rawPath": "research/priority-hltv-downloads/216468.jpg",
+    "sha256": "d3497b8b913832f5c2235ca3f9006afb5f4a9395b9a64c47a961a5b95427cdca"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/216534",
+    "year": 2024,
+    "yearEvidence": "https://www.hltv.org/gallery/12756/perfect-world-shanghai-major-2024-asia-rmr-day-3",
+    "event": "Perfect World Shanghai Major 2024 Asia RMR Day 3",
+    "requestedPlayerId": "hltv-16551",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/rWKtYKU5sdV-5UXNp1xTzY.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=02f6f4600c348ac853f33b2937e7cad2",
+    "checkedAt": "2026-10-23T10:46:15.805Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "flying",
+        "id": 16872
+      },
+      {
+        "nickname": "EmiliaQAQ",
+        "id": 22922
+      },
+      {
+        "nickname": "Westmelon",
+        "id": 16551
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/rWKtYKU5sdV-5UXNp1xTzY.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=747&mx=138&my=3320&q=75&w=5612&s=32cefc50e8212249217ff3a415e0f28b",
+    "photographer": "Dimitrii",
+    "rawPath": "research/priority-hltv-downloads/216534.jpg",
+    "sha256": "391680eb83e6b54ddf52d5b2e74e069c6116b4357f2e5b4a363afb2c3b1eac3b"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/187080",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12566/betboom-dacha-2023-day-6",
+    "event": "BetBoom Dacha 2023 Day 6",
+    "requestedPlayerId": "hltv-21167",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:47:07.685Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "magixx",
+        "id": 18317
+      },
+      {
+        "nickname": "zont1x",
+        "id": 20423
+      },
+      {
+        "nickname": "donk",
+        "id": 21167
+      },
+      {
+        "nickname": "ArtFr0st",
+        "id": 21348
+      },
+      {
+        "nickname": "chopper",
+        "id": 7716
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/kzDrR8jeT2d66avXQYEIDV.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1013&mx=188&my=4503&q=75&w=7607&s=05a5ad1f9541cae4977252bccd5608f9",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/187080.jpg",
+    "sha256": "c9aaa3b255d3e578f05b1a9e877c6f286bd531c6c8d466f8be8af1771ed7edb8"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/222805",
+    "year": 2024,
+    "yearEvidence": "https://www.hltv.org/gallery/12784/hltv-awards-2024-hltv-awards-2024",
+    "event": "HLTV Awards 2024 HLTV Awards 2024",
+    "requestedPlayerId": "hltv-11893",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:47:17.511Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "ZywOo",
+        "id": 11893
+      },
+      {
+        "nickname": "apEX",
+        "id": 7322
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/SU35hM1YSklcWjCfa1ZhFa.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1091&mx=202&my=4850&q=75&w=8192&s=59b9f1bdbb05d1b9a907cfcfcab39d70",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/222805.jpg",
+    "sha256": "ccd37a8223c13d08762c2aff5fd7b7feb3520e76ebbaa26c38034bdc77b33d95"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/256447",
+    "year": 2025,
+    "yearEvidence": "https://www.hltv.org/gallery/13014/hltv-awards-2025",
+    "event": "HLTV Awards 2025",
+    "requestedPlayerId": "hltv-19230",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:47:31.997Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "STYKO",
+        "id": 6904
+      },
+      {
+        "nickname": "m0NESY",
+        "id": 19230
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/Vq1CKc-r-qBM2s3j8dlm5L.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=799&mx=148&my=3550&q=75&w=6000&s=ae2d8627641625132ebe0c0f65281acb",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/256447.jpg",
+    "sha256": "15cb1c12e717d9e785974f2804ab5cd173cafeba78c744f1c4c9719cc3c20c68"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/76544",
+    "year": 2016,
+    "yearEvidence": "https://www.hltv.org/gallery/9471/iem-oakland-2016-day-2",
+    "event": "IEM Oakland 2016 Day 2",
+    "requestedPlayerId": "hltv-3741",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:47:41.128Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "NiKo",
+        "id": 3741
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/_bgVbPSWaCVExC3Pcb8ZKB.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=640f4015d8e154aa87bb67a8a2d5eb7b",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/76544.jpg",
+    "sha256": "2e4bfc563673aec2e0f1fc9bb9ca3b596abe6e56c4c1d159c1b668531679a9a8"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/179335",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12512/iem-cologne-2023-day-4",
+    "event": "IEM Cologne 2023 Day 4",
+    "requestedPlayerId": "hltv-7998",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:47:53.050Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "s1mple",
+        "id": 7998
+      },
+      {
+        "nickname": "b1t",
+        "id": 18987
+      },
+      {
+        "nickname": "Lk-",
+        "id": 7402
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/_IWl6CLuN_e4RtBZMxFOey.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1091&mx=202&my=4850&q=75&w=8192&s=1bc9e72ce250f16c3921d55cb6eb7668",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/179335.jpg",
+    "sha256": "5e927a3f5ee7ff140939680c509fcbd634e2961d400b6463d92f3df49f4dd9fe"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/182382",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12528/iem-sydney-2023-day-1",
+    "event": "IEM Sydney 2023 Day 1",
+    "requestedPlayerId": "hltv-16920",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/3oDXKqUWyDfgly-i--Y_m_.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=dce7246f635473aea7740e0c779e1bb1",
+    "checkedAt": "2026-10-23T10:48:04.834Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "sh1ro",
+        "id": 16920
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/3oDXKqUWyDfgly-i--Y_m_.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=895&mx=166&my=3976&q=75&w=6720&s=92588a16d9d471df641bf1aa39bc0d28",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/182382.jpg",
+    "sha256": "c97f9cc767cf4917ca537bcc1c0b5368fb194aeacb5e0e984df616d0026e5d49"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/146278",
+    "year": 2021,
+    "yearEvidence": "https://www.hltv.org/gallery/12228/pgl-major-stockholm-2021-day-3",
+    "event": "PGL Major Stockholm 2021 Day 3",
+    "requestedPlayerId": "hltv-11816",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/IdCZb5pf1MPDLr3FJHnLF3.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=f2c177a0b101d930acf27153484bcc01",
+    "checkedAt": "2026-10-23T10:48:13.654Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "ropz",
+        "id": 11816
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/IdCZb5pf1MPDLr3FJHnLF3.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=819&mx=152&my=3637&q=75&w=6147&s=a0b2fe8fe08466b2d9a22b9e07a071c7",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/146278.jpg",
+    "sha256": "f7e64eec8a5117802908213886dcb7b240b9b0629d8547d644957059fd283c7f"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/256397",
+    "year": 2025,
+    "yearEvidence": "https://www.hltv.org/gallery/13014/hltv-awards-2025",
+    "event": "HLTV Awards 2025",
+    "requestedPlayerId": "hltv-16693",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/xVN44wFFvagSHF3dQZ0O29.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=a50bc2625e5e96361af8f306cc8fd9c6",
+    "checkedAt": "2026-10-23T10:48:21.492Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "apEX",
+        "id": 7322
+      },
+      {
+        "nickname": "flameZ",
+        "id": 16693
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/xVN44wFFvagSHF3dQZ0O29.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=879&mx=163&my=3909&q=75&w=6603&s=4ccb8940cf2b30e36470c216727ccf4b",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/256397.jpg",
+    "sha256": "ff9ca5c9aab06106946a5a8c88d290f638cabf2202ec38edff43e3a898a7c34d"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/128083",
+    "year": 2019,
+    "yearEvidence": "https://www.hltv.org/gallery/11850/europe-minor-starladder-major-2019-day-2",
+    "event": "Europe Minor  StarLadder Major 2019 Day 2",
+    "requestedPlayerId": "hltv-7938",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/A1F8xLz0vpA2PJligxLAq-.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=e67bd3fcaeaaf61bd29a991055a01bd0",
+    "checkedAt": "2026-10-23T10:48:34.305Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "XANTARES",
+        "id": 7938
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/A1F8xLz0vpA2PJligxLAq-.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=e3e4c3a8c2629d14a572c125fc1a8b27",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/128083.jpg",
+    "sha256": "878925b20f3945d101390282da89ad7dabdf4396f486b6babc2189265412f853"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/164929",
+    "year": 2022,
+    "yearEvidence": "https://www.hltv.org/gallery/12413/blast-premier-fall-final-2022-day-5",
+    "event": "BLAST Premier Fall Final 2022 Day 5",
+    "requestedPlayerId": "hltv-7592",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:48:46.131Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "device",
+        "id": 7592
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/hVVaxwUxT5CrGBXyUBa3vM.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=835&mx=155&my=3712&q=75&w=6271&s=dcb9e94227fbaf584483e85c0ff5ea45",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/164929.jpg",
+    "sha256": "de8b780dc04553d5f79bcad56a700dfd87672c047af5007f70ae9b480a630b5d"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/185633",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12552/blast-premier-fall-final-2023-day-5",
+    "event": "BLAST Premier Fall Final 2023 Day 5",
+    "requestedPlayerId": "hltv-10394",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:48:55.552Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "broky",
+        "id": 18053
+      },
+      {
+        "nickname": "rain",
+        "id": 8183
+      },
+      {
+        "nickname": "karrigan",
+        "id": 429
+      },
+      {
+        "nickname": "Twistzz",
+        "id": 10394
+      },
+      {
+        "nickname": "ropz",
+        "id": 11816
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/nRhgQuIqObWGujum3KYmQN.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=661&mx=122&my=2935&q=75&w=4961&s=6d46c158d65f9586a11388c00e53cf61",
+    "photographer": "hallonkraem2",
+    "rawPath": "research/priority-hltv-downloads/185633.jpg",
+    "sha256": "c502e0d889fed6c1b261226c71e3c760df4c546884ded6972ddfee5f85237014"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/187960",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12572/blast-premier-world-final-2023-day-4",
+    "event": "BLAST Premier World Final 2023 Day 4",
+    "requestedPlayerId": "hltv-18987",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/rN1pEd42mIFawrW3xLwBAs.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=6d24d2438b1b9174720717521bb7af38",
+    "checkedAt": "2026-10-23T10:49:04.858Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "b1t",
+        "id": 18987
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/rN1pEd42mIFawrW3xLwBAs.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=696&mx=129&my=3096&q=75&w=5229&s=4d7b7cd7060b7da4566651cf567c73e1",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/187960.jpg",
+    "sha256": "8e58085e5ed81fec57e2c094ba6f75612bcf60ab667cb07453d4345db7f68b3b"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/219893",
+    "year": 2024,
+    "yearEvidence": "https://www.hltv.org/gallery/12775/perfect-world-shanghai-major-2024-day-4",
+    "event": "Perfect World Shanghai Major 2024 Day 4",
+    "requestedPlayerId": "hltv-20127",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/LnOw0eRlOA38wTBDqIjaV2.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=8bbc51bd631836bc096aada35960e6a1",
+    "checkedAt": "2026-10-23T10:49:14.415Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "w0nderful",
+        "id": 20127
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/LnOw0eRlOA38wTBDqIjaV2.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=871&mx=161&my=3870&q=75&w=6537&s=8a544340702f1fe939ced56ae3b5a2c7",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/219893.jpg",
+    "sha256": "93cb2948ebff7d34dcd262f2a00ea150dcfc2dc0b55752bb9d9885295098e230"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/187922",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12572/blast-premier-world-final-2023-day-4",
+    "event": "BLAST Premier World Final 2023 Day 4",
+    "requestedPlayerId": "hltv-18072",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/sbrJD4zKvs4t7LB0Yx4tOj.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=5176f32d6fcba11c1a2140c06a019bf0",
+    "checkedAt": "2026-10-23T10:49:23.478Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Jimpphat",
+        "id": 18850
+      },
+      {
+        "nickname": "siuhy",
+        "id": 16820
+      },
+      {
+        "nickname": "torzsi",
+        "id": 18072
+      },
+      {
+        "nickname": "Brollan",
+        "id": 13666
+      },
+      {
+        "nickname": "xertioN",
+        "id": 20312
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/sbrJD4zKvs4t7LB0Yx4tOj.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=487&mx=90&my=2164&q=75&w=3655&s=ebf9d96800916b599ad316807fa0ee36",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/187922.jpg",
+    "sha256": "8230c6765ca612e922cbeeadd5c72c302ed13eaf395a20652aa54c361a3ecc5c"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/146275",
+    "year": 2021,
+    "yearEvidence": "https://www.hltv.org/gallery/12228/pgl-major-stockholm-2021-day-3",
+    "event": "PGL Major Stockholm 2021 Day 3",
+    "requestedPlayerId": "hltv-9960",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/FYu85B3Yew5bgo7nDcj7kX.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=46eeec6ec5e934d22b4f28186e6ac7b6",
+    "checkedAt": "2026-10-23T10:49:29.498Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "frozen",
+        "id": 9960
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/FYu85B3Yew5bgo7nDcj7kX.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=797&mx=148&my=3541&q=75&w=5985&s=65ea62a049d3c070c9919de3d46b39a3",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/146275.jpg",
+    "sha256": "424e892c0528711bf0bd0ce31f4d63f0d71844d698d943327ca0f59052de87de"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/163611",
+    "year": 2022,
+    "yearEvidence": "https://www.hltv.org/gallery/12399/iem-rio-major-2022-day-7",
+    "event": "IEM Rio Major 2022 Day 7",
+    "requestedPlayerId": "hltv-15631",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/GtyixNUrXuPCMTQgQIPjVx.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=ce7f834e93f5949d1a5a2fce5e8e2a76",
+    "checkedAt": "2026-10-23T10:49:38.785Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "KSCERATO",
+        "id": 15631
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/GtyixNUrXuPCMTQgQIPjVx.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=805&mx=149&my=3576&q=75&w=6041&s=a8748274f88fb12392956fab4e60e9f9",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/163611.jpg",
+    "sha256": "8e015f134a0ea5923762874256e3aef37ade617255875d492724e2e94fff402c"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/163625",
+    "year": 2022,
+    "yearEvidence": "https://www.hltv.org/gallery/12399/iem-rio-major-2022-day-7",
+    "event": "IEM Rio Major 2022 Day 7",
+    "requestedPlayerId": "hltv-12553",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/9qI19NlXUcyHjtENohgCw-.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=16b5a0c5429044aa49fbbd4d621d2001",
+    "checkedAt": "2026-10-23T10:49:48.378Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "yuurih",
+        "id": 12553
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/9qI19NlXUcyHjtENohgCw-.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1091&mx=202&my=4850&q=75&w=8192&s=aed9e268802804f468b1944b396a4236",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/163625.jpg",
+    "sha256": "8726cc086aa8a4c9893129daa6417f50093c78bcdc3395138661bff6fe164e23"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/121381",
+    "year": 2018,
+    "yearEvidence": "https://www.hltv.org/gallery/11690/wesg-2018-world-finals-day-4",
+    "event": "WESG 2018 World Finals Day 4",
+    "requestedPlayerId": "hltv-2023",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/SmECHx0bqb5GBCnF-u3n-S.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=d8d30609217db07b509529287bf23a1c",
+    "checkedAt": "2026-10-23T10:50:01.792Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "FalleN",
+        "id": 2023
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/SmECHx0bqb5GBCnF-u3n-S.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=16518f9099433f7c1ac142c4b222a27a",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/121381.jpg",
+    "sha256": "680e9fe962576cd253bbd59194a72b80b029a0946a1d6b7f2b2ef7c0d1921c8a"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/254083",
+    "year": 2025,
+    "yearEvidence": "https://www.hltv.org/gallery/13002/starladder-budapest-major-2025-day-6",
+    "event": "StarLadder Budapest Major 2025 Day 6",
+    "requestedPlayerId": "hltv-18850",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/eZ2DUy98VF8-mMPBdFw9Aj.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=0704e87a3a14401efa2c7230758c1889",
+    "checkedAt": "2026-10-23T10:50:10.924Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Jimpphat",
+        "id": 18850
+      },
+      {
+        "nickname": "xertioN",
+        "id": 20312
+      },
+      {
+        "nickname": "Brollan",
+        "id": 13666
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/eZ2DUy98VF8-mMPBdFw9Aj.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=904&mx=167&my=4020&q=75&w=6790&s=631f890b87e33a0135b2115cc8609a67",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/254083.jpg",
+    "sha256": "6e16e97f9c057081b162dcd90910083d8e50fffab8d8627a375f5e879b2a97b0"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/185966",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12555/elisa-masters-espoo-2023-day-2",
+    "event": "Elisa Masters Espoo 2023 Day 2",
+    "requestedPlayerId": "hltv-8738",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/09XdkqI60R7MdYWYWUWLMu.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=3284b82238a60b4fa2af57e3fad843c5",
+    "checkedAt": "2026-10-23T10:50:20.206Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "EliGE",
+        "id": 8738
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/09XdkqI60R7MdYWYWUWLMu.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=924&mx=171&my=4108&q=75&w=6939&s=e5002ea4b6805250211d4f69e16ce87c",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/185966.jpg",
+    "sha256": "c2e1ae8e5ff2b4dcef9bc6bf410ce2b0dd961114bf1cae55229befb9743bdd44"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/253890",
+    "year": 2025,
+    "yearEvidence": "https://www.hltv.org/gallery/13001/starladder-budapest-major-2025-day-5",
+    "event": "StarLadder Budapest Major 2025 Day 5",
+    "requestedPlayerId": "hltv-24177",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/pGwu24aF7wPuq-p6MJMduy.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=b349d5787625bed130c1fca37620fde0",
+    "checkedAt": "2026-10-23T10:50:31.137Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "TeSeS",
+        "id": 12018
+      },
+      {
+        "nickname": "kyousuke",
+        "id": 24177
+      },
+      {
+        "nickname": "kyxsan",
+        "id": 19677
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/pGwu24aF7wPuq-p6MJMduy.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=752&mx=139&my=3342&q=75&w=5648&s=580cf46bced4e357a8e8521ac9913a60",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/253890.jpg",
+    "sha256": "5b218912ecb36c931e5faab5ab9a3960066f9178496c27dfef2abc56f7745cd7"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/277564",
+    "year": 2026,
+    "yearEvidence": "https://www.hltv.org/gallery/13145/esports-world-cup-2026-day-3",
+    "event": "Esports World Cup 2026 Day 3",
+    "requestedPlayerId": "hltv-19645",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:50:38.965Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "JamYoung",
+        "id": 19645
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/06lH40iBArgOBtibX7vnUj.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=799&mx=148&my=3550&q=75&w=6000&s=eb373d5cac30c8421e576c04e37cdad6",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/277564.jpg",
+    "sha256": "4e011030739ed59ccddb9757af29fd24df889c5ec4ddad615f821655305598ef"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/277563",
+    "year": 2026,
+    "yearEvidence": "https://www.hltv.org/gallery/13145/esports-world-cup-2026-day-3",
+    "event": "Esports World Cup 2026 Day 3",
+    "requestedPlayerId": "hltv-21621",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/29v45afW2OdkzV5mi6pzpd.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=7ac3daf49e283b093229a7209c9b0fed",
+    "checkedAt": "2026-10-23T10:50:46.463Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Moseyuh",
+        "id": 21621
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/29v45afW2OdkzV5mi6pzpd.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=799&mx=148&my=3550&q=75&w=6000&s=99edf32ee7e1bf5c330e391bf308c5ca",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/277563.jpg",
+    "sha256": "77bafb6e33f5348eefbd514d3a30e2e7e524326a9212544547812a0e26b1f05e"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/251707",
+    "year": 2025,
+    "yearEvidence": "https://www.hltv.org/gallery/12988/starladder-budapest-major-2025-stage-1-day-1",
+    "event": "StarLadder Budapest Major 2025 Stage 1 Day 1",
+    "requestedPlayerId": "hltv-20254",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/zZo4NhtbDtybdSwRZUkdH4.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=2b9b17fc46b988e8787e08b454a36d7b",
+    "checkedAt": "2026-10-23T10:50:55.247Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Starry",
+        "id": 20254
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/zZo4NhtbDtybdSwRZUkdH4.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=782&mx=145&my=3474&q=75&w=5872&s=b13cfeb7f1295771c71b513d0cddbc05",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/251707.jpg",
+    "sha256": "acea612a439c504ac44e2ed32e644a4a50b1cc20e70287e260453544ed831550"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/251721",
+    "year": 2025,
+    "yearEvidence": "https://www.hltv.org/gallery/12988/starladder-budapest-major-2025-stage-1-day-1",
+    "event": "StarLadder Budapest Major 2025 Stage 1 Day 1",
+    "requestedPlayerId": "hltv-18744",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/_B8gxK0Y6VkrYA7iE9jIzj.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=454d5e0fd74e31f1d573f5d780f16755",
+    "checkedAt": "2026-10-23T10:51:03.217Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "z4KR",
+        "id": 18744
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/_B8gxK0Y6VkrYA7iE9jIzj.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=799&mx=148&my=3550&q=75&w=6000&s=1c9a682062e8409fc93e1c1632516e72",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/251721.jpg",
+    "sha256": "378f6874af39acd97c615ee77990322809d1c35b0e236fbe7625dbe9d398f5c5"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/251716",
+    "year": 2025,
+    "yearEvidence": "https://www.hltv.org/gallery/12988/starladder-budapest-major-2025-stage-1-day-1",
+    "event": "StarLadder Budapest Major 2025 Stage 1 Day 1",
+    "requestedPlayerId": "hltv-16551",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/bLAbV8cyS8k0Jm3slBwzaq.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=9568898b085ed4804e997b7a064be2bb",
+    "checkedAt": "2026-10-23T10:51:12.258Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Westmelon",
+        "id": 16551
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/bLAbV8cyS8k0Jm3slBwzaq.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=799&mx=148&my=3550&q=75&w=6000&s=a05059e603da26184e3521566c90594d",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/251716.jpg",
+    "sha256": "fc016145ac19472935d6d5423988a4dc7a078669715aebae706c78940fc4a409"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/187081",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12566/betboom-dacha-2023-day-6",
+    "event": "BetBoom Dacha 2023 Day 6",
+    "requestedPlayerId": "hltv-21167",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:57:20.623Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "chopper",
+        "id": 7716
+      },
+      {
+        "nickname": "donk",
+        "id": 21167
+      },
+      {
+        "nickname": "ArtFr0st",
+        "id": 21348
+      },
+      {
+        "nickname": "zont1x",
+        "id": 20423
+      },
+      {
+        "nickname": "magixx",
+        "id": 18317
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/msmV4P3DTYP_WqMiV2UErg.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=983&mx=182&my=4368&q=75&w=7378&s=9cdc33b8e6549327c0a5a04cad02d4fd",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/187081.jpg",
+    "sha256": "7787dc960412e4c98586be5d38a6414dfc99fe892deb20ef622b5db27a138f46"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/280418",
+    "year": 2026,
+    "yearEvidence": "https://www.hltv.org/gallery/13169/starladder-starseries-fall-2026-day-4",
+    "event": "StarLadder StarSeries Fall 2026 Day 4",
+    "requestedPlayerId": "hltv-11816",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/9PdFnYQW1k_lan7kqiS3Bg.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=ca977b1a14fbf61e5f0a71f54800a222",
+    "checkedAt": "2026-10-23T10:57:30.363Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "ropz",
+        "id": 11816
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/9PdFnYQW1k_lan7kqiS3Bg.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=629&mx=117&my=2797&q=75&w=4725&s=a2e7d791845a2bc56301bc252157f57f",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/280418.jpg",
+    "sha256": "6b9089826aff17b782ac9f90046060c27727e88590a06d850a054e22abd21b0f"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/280399",
+    "year": 2026,
+    "yearEvidence": "https://www.hltv.org/gallery/13169/starladder-starseries-fall-2026-day-4",
+    "event": "StarLadder StarSeries Fall 2026 Day 4",
+    "requestedPlayerId": "hltv-16693",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/sWCmD7PJGhPpS8y5tE3yTb.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=2777719fcb9d110372f3aa0b0e9c0ec0",
+    "checkedAt": "2026-10-23T10:57:38.698Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "flameZ",
+        "id": 16693
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/sWCmD7PJGhPpS8y5tE3yTb.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=991&mx=183&my=4404&q=75&w=7439&s=c657024b52b7d4d16ecb4d7bc2b2ab8b",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/280399.jpg",
+    "sha256": "0d39c63eeac9724273b09004091da84712debcc4f3cb27c77c34f03dd9d63a04"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/184824",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12545/pari-please-2023-day-4",
+    "event": "PARI Please 2023 Day 4",
+    "requestedPlayerId": "hltv-7938",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/mfcKYiGLnbB_ooaoRSixlV.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=9a657fad5cc10a7c8ec224b562855014",
+    "checkedAt": "2026-10-23T10:57:46.858Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "XANTARES",
+        "id": 7938
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/mfcKYiGLnbB_ooaoRSixlV.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=660&mx=122&my=2933&q=75&w=4958&s=dbef5e83c8984890fd541a44654f743b",
+    "photographer": "Dimitrii",
+    "rawPath": "research/priority-hltv-downloads/184824.jpg",
+    "sha256": "3b6389f95a03842c6506afa666fbb16fd26e55aa139e899cb980dcc8c2815e35"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/29848",
+    "year": 2013,
+    "yearEvidence": "https://www.hltv.org/gallery/5859/european-championship-2013-lan-final",
+    "event": "European Championship 2013 LAN Final",
+    "requestedPlayerId": "hltv-7592",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:57:56.078Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "dupreeh",
+        "id": 7398
+      },
+      {
+        "nickname": "Pimp",
+        "id": 7154
+      },
+      {
+        "nickname": "LOMME",
+        "id": 1889
+      },
+      {
+        "nickname": "device",
+        "id": 7592
+      },
+      {
+        "nickname": "Xyp9x",
+        "id": 4954
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/A6lZuGRvXlu6Z2OThFK4ca.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=98e17dbf57a91235f852c9dff2456738",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/29848.jpg",
+    "sha256": "c3d3b1a7906a4601604a559953eb4e1780c8cbe520a0741199b18a9eb797a7d6"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/222731",
+    "year": 2024,
+    "yearEvidence": "https://www.hltv.org/gallery/12784/hltv-awards-2024-hltv-awards-2024",
+    "event": "HLTV Awards 2024 HLTV Awards 2024",
+    "requestedPlayerId": "hltv-18987",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/FmbQa-lLIEG0-j8G4mchrY.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=3e40d377d75e49dc646d7d16ae3fdb66",
+    "checkedAt": "2026-10-23T10:58:03.721Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "b1t",
+        "id": 18987
+      },
+      {
+        "nickname": "iM",
+        "id": 14759
+      },
+      {
+        "nickname": "Aleksib",
+        "id": 9816
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/FmbQa-lLIEG0-j8G4mchrY.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=799&mx=148&my=3550&q=75&w=6000&s=fa01a42d56b2c04ce9436f59ae668ae5",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/222731.jpg",
+    "sha256": "5b36a1c3340dd361e1eea256a3b54dba51402cc9349697db052ce0f4d52f42ce"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/282346",
+    "year": 2026,
+    "yearEvidence": "https://www.hltv.org/gallery/13186/thunderpick-world-championship-2026-day-5",
+    "event": "Thunderpick World Championship 2026 Day 5",
+    "requestedPlayerId": "hltv-18850",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/EET0nJXXa-OCJNYs8ZkUgB.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=de3377bc1e49868015f4241a48626e54",
+    "checkedAt": "2026-10-23T10:58:12.251Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "Jimpphat",
+        "id": 18850
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/EET0nJXXa-OCJNYs8ZkUgB.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=770&mx=143&my=3419&q=75&w=5781&s=caf167ea9a1feed938f5e7287ba16635",
+    "photographer": "luismmira",
+    "rawPath": "research/priority-hltv-downloads/282346.jpg",
+    "sha256": "13264198b688253e88084a997c94c79c7db859ba8f67bea9c742cd4ae117f7ed"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/253907",
+    "year": 2025,
+    "yearEvidence": "https://www.hltv.org/gallery/13001/starladder-budapest-major-2025-day-5",
+    "event": "StarLadder Budapest Major 2025 Day 5",
+    "requestedPlayerId": "hltv-24177",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/eyInlGdSXEWcS5-R9nGgjl.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=aaa21f6d8ced54c65830d32699644b6f",
+    "checkedAt": "2026-10-23T10:58:20.147Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "kyousuke",
+        "id": 24177
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/eyInlGdSXEWcS5-R9nGgjl.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=428&mx=79&my=1900&q=75&w=3210&s=de07ee8eba702b9c99b015cd2a5a89d2",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/253907.jpg",
+    "sha256": "5fb75702442127f1afb661ea1ddae208e97f7467d097d120d95b1f09a580b2f0"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/222705",
+    "year": 2024,
+    "yearEvidence": "https://www.hltv.org/gallery/12784/hltv-awards-2024-hltv-awards-2024",
+    "event": "HLTV Awards 2024 HLTV Awards 2024",
+    "requestedPlayerId": "hltv-21167",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:58:28.232Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "donk",
+        "id": 21167
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/o1RUKAv9EJHoFoTSj63lZw.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=729&mx=135&my=3237&q=75&w=5472&s=c054cfd8c67c9c3e7557ea407922297d",
+    "photographer": "adelasznajder",
+    "rawPath": "research/priority-hltv-downloads/222705.jpg",
+    "sha256": "26d76db4adf6d38d83d116963d3e83fa22bac077b0df6151dc95a0bfa559cd2a"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/97008",
+    "year": 2017,
+    "yearEvidence": "https://www.hltv.org/gallery/11179/dreamhack-open-winter-2017-day-3",
+    "event": "DreamHack Open Winter 2017 Day 3",
+    "requestedPlayerId": "hltv-11816",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/_e6aoOnaz5vE1MvH724Ikl.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=f488f5adccccbff628861f98f55cdb5d",
+    "checkedAt": "2026-10-23T10:58:35.936Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "ropz",
+        "id": 11816
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/_e6aoOnaz5vE1MvH724Ikl.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=c5d5567978f369f8fafce870bf105318",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/97008.jpg",
+    "sha256": "cb6b47bd7290aeaa58973c113c58accb31e7295bc10b60fa02b58f6a032d8b04"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/165483",
+    "year": 2022,
+    "yearEvidence": "https://www.hltv.org/gallery/12418/blast-premier-world-final-2022-day-4",
+    "event": "BLAST Premier World Final 2022 Day 4",
+    "requestedPlayerId": "hltv-16693",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/dQXHlsG66TEszZAFcH2hD6.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=1c4118d41cf4b1cc62c5692b99e25bac",
+    "checkedAt": "2026-10-23T10:58:45.159Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "nexa",
+        "id": 9618
+      },
+      {
+        "nickname": "flameZ",
+        "id": 16693
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/dQXHlsG66TEszZAFcH2hD6.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=979&mx=181&my=4350&q=75&w=7348&s=29098eef1ae61e8fde0bd9830e08cf42",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/165483.jpg",
+    "sha256": "d8dda9844f6dc5a3e6f9cffa49c634ef1aaa6b5ccee3f2e82d5407b3f034001d"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/282344",
+    "year": 2026,
+    "yearEvidence": "https://www.hltv.org/gallery/13186/thunderpick-world-championship-2026-day-5",
+    "event": "Thunderpick World Championship 2026 Day 5",
+    "requestedPlayerId": "hltv-7938",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/8avjUIXI5ESANMUbhfL6sA.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=149283274269437ee52f1ae324d4547a",
+    "checkedAt": "2026-10-23T10:58:57.010Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "XANTARES",
+        "id": 7938
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/8avjUIXI5ESANMUbhfL6sA.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=933&mx=173&my=4146&q=75&w=7008&s=374af467f0116ffff12530ea15a141c3",
+    "photographer": "luismmira",
+    "rawPath": "research/priority-hltv-downloads/282344.jpg",
+    "sha256": "5b0ea78f267286fb6a5d64da3e434d496ad3cc15f40b7ca3bb9911367c64f6bb"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/76797",
+    "year": 2016,
+    "yearEvidence": "https://www.hltv.org/gallery/9499/iem-oakland-2016-day-4",
+    "event": "IEM Oakland 2016 Day 4",
+    "requestedPlayerId": "hltv-7592",
+    "observedPreview": null,
+    "checkedAt": "2026-10-23T10:59:05.725Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "device",
+        "id": 7592
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/Hwfz_WFMsfR7lidu8B7fUX.jpg?auto=compress&ixlib=java-2.1.0&q=75&s=afdb21e74a61cceebe62367e70896e6a",
+    "photographer": null,
+    "rawPath": "research/priority-hltv-downloads/76797.jpg",
+    "sha256": "6265c7d16f0f5b9bc162df493fb10a4deccaa18d1ea47f6f6c510d774245a725"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/280235",
+    "year": 2026,
+    "yearEvidence": "https://www.hltv.org/gallery/13167/starladder-starseries-fall-2026-day-2",
+    "event": "StarLadder StarSeries Fall 2026 Day 2",
+    "requestedPlayerId": "hltv-18987",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/cOCxCraMTzwohH3ncOR3U7.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=f5a7cc8db3a3cb07ce0e3279e6cbc21c",
+    "checkedAt": "2026-10-23T10:59:13.757Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "b1t",
+        "id": 18987
+      },
+      {
+        "nickname": "B1ad3",
+        "id": 472
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/cOCxCraMTzwohH3ncOR3U7.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1091&mx=202&my=4850&q=75&w=8192&s=dc759fb0ab373c3207aeb50f6c876955",
+    "photographer": "brcho_",
+    "rawPath": "research/priority-hltv-downloads/280235.jpg",
+    "sha256": "78a671d673623ac14f86ec6c7068a9488a0f6b0a3487c5675bd1ac9d44e31e7e"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/187561",
+    "year": 2023,
+    "yearEvidence": "https://www.hltv.org/gallery/12568/blast-premier-world-final-2023-day-1",
+    "event": "BLAST Premier World Final 2023 Day 1",
+    "requestedPlayerId": "hltv-18850",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/an4VaL_dCKZcsEW9pFoCbr.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=b3bdf9bd161479f10531b11c362e204c",
+    "checkedAt": "2026-10-23T10:59:24.217Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "torzsi",
+        "id": 18072
+      },
+      {
+        "nickname": "Jimpphat",
+        "id": 18850
+      },
+      {
+        "nickname": "xertioN",
+        "id": 20312
+      },
+      {
+        "nickname": "sycrone",
+        "id": 9295
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/an4VaL_dCKZcsEW9pFoCbr.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=1091&mx=202&my=4850&q=75&w=8192&s=e73318d9929523f180a6ed9761ed2651",
+    "photographer": "theMAKKU",
+    "rawPath": "research/priority-hltv-downloads/187561.jpg",
+    "sha256": "4e8dc0ff13b97a0dfdac2c4a74a0cd077eb2b0d1c63dfc91daf93b5c96dd4bd4"
+  },
+  {
+    "sourceUrl": "https://www.hltv.org/gallery/view/282349",
+    "year": 2026,
+    "yearEvidence": "https://www.hltv.org/gallery/13186/thunderpick-world-championship-2026-day-5",
+    "event": "Thunderpick World Championship 2026 Day 5",
+    "requestedPlayerId": "hltv-24177",
+    "observedPreview": "https://img-cdn.hltv.org/gallerypicture/72fVubcQLOx8hLvjvDSaVG.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=1000&s=83166a3d3c86b36110a9fcb6c604c8ee",
+    "checkedAt": "2026-10-23T10:59:35.624Z",
+    "downloaded": true,
+    "status": 200,
+    "players": [
+      {
+        "nickname": "kyousuke",
+        "id": 24177
+      }
+    ],
+    "image": "https://img-cdn.hltv.org/gallerypicture/72fVubcQLOx8hLvjvDSaVG.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=933&mx=173&my=4146&q=75&w=7008&s=516edbdcb4413d32c9c568d04154deeb",
+    "photographer": "luismmira",
+    "rawPath": "research/priority-hltv-downloads/282349.jpg",
+    "sha256": "9d033eca2b59e4ad48f14c7949dfc39c50342dc2ae81bd3eb35c62ad68729a38"
+  }
+]

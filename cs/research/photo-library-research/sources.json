@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-22T02:02:09.410Z",
+  "preference": "HLTV first; other official libraries supplemental",
+  "sources": [
+    {
+      "name": "HLTV player galleries",
+      "url": "https://www.hltv.org/galleries?player=21167",
+      "status": "blocked; browser handed to user for authentication",
+      "identityMapping": "stable HLTV player ID and explicit photo-page tags"
+    },
+    {
+      "name": "BLAST official Flickr",
+      "url": "https://www.flickr.com/people/blastesports",
+      "exampleAlbum": "https://www.flickr.com/photos/blastesports/albums/72177720328854458/",
+      "exampleAlbumPhotoCount": 1102,
+      "usage": "Watermarked versions only; retain watermark, credit BLAST and photographer; no editing or commercial use; inspect individual restrictions."
+    },
+    {
+      "name": "ESL official photo archive",
+      "url": "https://photos.eslgaming.com/",
+      "usage": "Inspect per-image terms and any high-resolution access requirements."
+    },
+    {
+      "name": "ESL official Flickr",
+      "url": "https://www.flickr.com/people/eslphotos/",
+      "usage": "Profile asks media users to contact before use; no contact sent."
+    },
+    {
+      "name": "PGL official photo archive",
+      "url": "https://photos.pglesports.com/",
+      "exampleAlbum": "https://photos.pglesports.com/PGL-CS2-Copenhagen-Major-2024",
+      "usage": "Source found; per-image identity, creator and usage verification pending."
+    }
+  ]
+}

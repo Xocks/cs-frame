@@ -24,9 +24,9 @@ test("dated event album filters, full photographs and player links; mobile dialo
   await page.getByRole("button", { name: "赛事相册", exact: true }).click();
   await expect(page.locator(".album-card")).toHaveCount(24);
   await page.getByLabel("相册按来源筛选").selectOption("HLTV");
-  await expect(page.locator(".album-result")).toContainText("34 张照片");
+  await expect(page.locator(".album-result")).toContainText(`${catalogue.album.filter((p:any)=>p.sourcePlatform==='HLTV').length} 张照片`);
   await page.getByLabel("相册按选手筛选").selectOption("hltv-11893");
-  await expect(page.locator(".album-card")).toHaveCount(4);
+  await expect(page.locator(".album-card")).toHaveCount(Math.min(24,catalogue.album.filter((p:any)=>p.sourcePlatform==='HLTV'&&p.playerIds.includes('hltv-11893')).length));
   await page
     .locator(".album-years")
     .getByRole("button", { name: "2022", exact: true })
@@ -57,7 +57,7 @@ test("dated event album filters, full photographs and player links; mobile dialo
     .getByRole("button", { name: "所有年份", exact: true })
     .click();
   await page.getByLabel("相册按画面筛选").selectOption("group");
-  await expect(page.locator(".album-result")).toContainText("32 张照片");
+  await expect(page.locator(".album-result")).toContainText(`${catalogue.album.filter((p:any)=>p.kind==='group').length} 张照片`);
   await page.waitForFunction(() =>
     [...document.querySelectorAll(".album-picture img")]
       .slice(0, 6)
@@ -103,6 +103,25 @@ async function visuallyReady(page: Page) {
   });
   await page.evaluate(() => document.fonts.ready);
 }
+test("new Chinese player photographs retain distinct sourced years and can be selected", async ({page}) => {
+  await ready(page);
+  const card=await find(page,"Moseyuh");
+  await card.getByRole("button",{name:/查看 .* 的照片与时期/}).click();
+  const dialog=page.getByRole("dialog");
+  for(const year of [2023,2025,2026]) {
+    await dialog.getByRole("button",{name:String(year),exact:true}).click();
+    await expect(dialog.locator(".detail-photo-info")).toContainText(String(year));
+    await expect(dialog.locator(".detail-photo-info")).toContainText("赛事年份已记录");
+  }
+  await dialog.getByRole("button",{name:"2023",exact:true}).click();
+  await dialog.locator(".representative-button").click();
+  await dialog.locator("summary").click();
+  await expect(dialog.getByRole("link",{name:"查看照片来源",exact:true})).toHaveAttribute("href","https://www.hltv.org/gallery/view/183622");
+  await page.keyboard.press("Escape");
+  await page.reload();
+  await find(page,"Moseyuh");
+  await expect(page.locator(".card-portrait img")).toHaveAttribute("src",/hltv-gallery-183622-card.webp/);
+});
 async function find(page: Page, nick: string) {
   await page
     .getByRole("textbox", { name: "搜索选手 ID、真实姓名或队伍" })
